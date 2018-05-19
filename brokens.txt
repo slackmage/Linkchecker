@@ -1,0 +1,2732 @@
+Getting links from: http://www.de.gov/
+├───OK─── https://de.gov/portalimg/delaware_portal_title.png
+├───OK─── https://de.gov/portalimg/delaware_logo_text.png
+├───OK─── https://de.gov/portalimg/portal_search_blue.png
+├───OK─── https://de.gov/portalimg/location_icon_weather.png
+├───OK─── http://forecast.weather.gov/MapClick.php?zoneid=DEZ004
+├───OK─── https://de.gov/portalimg/location_icon_news.png
+├───OK─── https://news.delaware.gov/2018/05/10/zwaanendael-maritime-celebration-sailors-life-lewes-del-2018-memorial-day-weekend/
+├───OK─── http://news.delaware.gov/
+├───OK─── https://de.gov/portalimg/location_icon_calendar.png
+├───OK─── https://publicmeetings.delaware.gov/meeting/59790
+├───OK─── https://publicmeetings.delaware.gov/
+├───OK─── https://de.gov/portalimg/navtabs_residents_icon.png
+├───OK─── https://de.gov/portalimg/navtabs_businesses_icon.png
+├───OK─── https://de.gov/portalimg/navtabs_jobseekers_icon.png
+├───OK─── https://de.gov/portalimg/navtabs_visitors_icon.png
+├───OK─── https://news.delaware.gov/2018/03/05/text-911/
+├───OK─── https://de.gov/portalimg/carousel_residents/portal_carousel_resident_text911.jpg
+├─BROKEN─ https://ivote.de.gov/voterlogin.aspx (BLC_UNKNOWN)
+├───OK─── https://de.gov/portalimg/carousel_residents/carousel_residents_vote_ribbon.jpg
+├───OK─── https://kids.delaware.gov/fs/fostercare.shtml
+├───OK─── https://de.gov/portalimg/carousel_residents/portal_carousel_resident_foster.jpg
+├───OK─── https://twitter.com/DelawareGIC/lists/de-portal
+├───OK─── https://de.gov/topics/apps
+├───OK─── https://de.gov/portalimg/programs_dmv.jpg
+├─BROKEN─ http://www.dmv.de.gov/ (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/home/contact_info/index.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/video/index.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/dmvfeecalc/feecalc.ejs (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/sampledlexam/sampledlexam.ejs?command=SampleDLExamHome (HTTP_403)
+├─BROKEN─ http://www.ezpassde.com/ (HTTP_403)
+├───OK─── https://de.gov/portalimg/programs_elections.jpg
+├───OK─── http://elections.delaware.gov/
+├─BROKEN─ https://ivote.de.gov/voterregterms.aspx (BLC_UNKNOWN)
+├─BROKEN─ https://ivote.de.gov/voterpoll.aspx (BLC_UNKNOWN)
+├───OK─── http://elections.delaware.gov/electionresults/election_archive.shtml
+├───OK─── http://elections.delaware.gov/services/voter/absentee/index.shtml
+├───OK─── http://elections.delaware.gov/voter/specialneeds.shtml
+├───OK─── https://de.gov/portalimg/programs_education.jpg
+├───OK─── http://www.doe.k12.de.us/
+├───OK─── https://www.doe.k12.de.us/domain/534
+├───OK─── http://www.doe.k12.de.us/domain/167
+├───OK─── http://profiles.doe.k12.de.us/SchoolProfiles/State/
+├───OK─── http://www.doe.k12.de.us/domain/87
+├───OK─── http://www.joindelawareschools.org/
+├───OK─── https://de.gov/portalimg/programs_veterans.jpg
+├───OK─── http://veteransaffairs.delaware.gov/
+├───OK─── http://www.delaware.gov/vsd/
+├───OK─── http://veteransaffairs.delaware.gov/veterans_benefits.shtml
+├───OK─── http://vethome.delaware.gov/
+├───OK─── http://veteransaffairs.delaware.gov/service_officers.shtml
+├───OK─── http://veteransaffairs.delaware.gov/military_records_request.shtml
+├───OK─── https://de.gov/portalimg/programs_dnrec.jpg
+├───OK─── https://dnrec.alpha.delaware.gov/
+├───OK─── https://dnrec.alpha.delaware.gov/recycling/
+├───OK─── http://dnrec.alpha.delaware.gov/energy-climate/renewable/assistance/
+├───OK─── http://dnrec.alpha.delaware.gov/clean-air/
+├───OK─── http://dnrec.alpha.delaware.gov/clean-water-2/
+├───OK─── http://dnrec.alpha.delaware.gov/waste-hazardous-substances/
+├───OK─── https://de.gov/portalimg/programs_libraries.jpg
+├───OK─── http://lib.de.us/
+├───OK─── http://lib.de.us/help/librarycard/
+├───OK─── http://dlc.lib.de.us/client/default
+├───OK─── http://lib.de.us/libraries/
+├───OK─── http://lib.de.us/emedia/
+├───OK─── http://lib.de.us/askalibrarian/
+├───OK─── https://de.gov/portalimg/programs_housing.jpg
+├───OK─── http://www.destatehousing.com/
+├───OK─── http://www.destatehousing.com/HomeOwnership/HomeOwnership.php
+├───OK─── http://www.destatehousing.com/Developers/Developers.php
+├───OK─── http://www.destatehousing.com/Renters/renters.php
+├───OK─── http://www.destatehousing.com/Lenders/lenders.php
+├───OK─── http://www.destatehousing.com/Landlords/landlords.php
+├───OK─── https://de.gov/portalimg/programs_agriculture.jpg
+├───OK─── http://dda.delaware.gov/
+├───OK─── http://dda.delaware.gov/licenses_and_permits.shtml
+├───OK─── http://dda.delaware.gov/marketing/FarmersMarketsGuide.shtml
+├───OK─── http://dda.delaware.gov/forestry/forest.shtml
+├───OK─── http://dda.delaware.gov/horse_racing.shtml
+├───OK─── http://dhss.delaware.gov/dhss/dph/oaw/spayneuter.html
+├───OK─── http://schoolclosings.delaware.gov/
+├─BROKEN─ http://closings.omb.delaware.gov/advisory.shtml (HTTP_404)
+├─BROKEN─ https://www.airnow.gov/index.cfm?action=airnow.local_state&stateid=8 (ERRNO_ENOTFOUND)
+├───OK─── https://news.delaware.gov/flag-status/
+├───OK─── https://de.gov/topics/subscribeemail
+├───OK─── http://governor.delaware.gov/
+├───OK─── https://de.gov/portalimg/officials_carney2.jpg
+├───OK─── http://ltgov.delaware.gov/
+├───OK─── https://de.gov/portalimg/officials_long.jpg
+├───OK─── http://attorneygeneral.delaware.gov/
+├───OK─── https://de.gov/portalimg/officials_matt.jpg
+├───OK─── http://auditor.delaware.gov/
+├───OK─── https://de.gov/portalimg/officials_wagnera.jpg
+├───OK─── http://insurance.delaware.gov/
+├───OK─── https://de.gov/portalimg/officials_navarro.jpg
+├───OK─── http://treasurer.delaware.gov/
+├───OK─── https://de.gov/portalimg/officials_simpler.jpg
+├───OK─── http://courts.delaware.gov/locations/
+├───OK─── http://courts.delaware.gov/AOC/courtinterpreter/
+├───OK─── http://courts.delaware.gov/help/traffic/
+├───OK─── https://business.delaware.gov/
+├───OK─── https://corp.delaware.gov/howtoform.shtml
+├───OK─── https://onestop.delaware.gov/osbrlpublic/
+├───OK─── https://revenue.delaware.gov/services/Business_Tax/Step4.shtml
+├───OK─── https://dpronline.delaware.gov/mylicense%20weblookup/Search.aspx
+├───OK─── https://firststeps.delaware.gov/
+├───OK─── https://de.gov/portalimg/carousel_business/carousel_business_firststeps.jpg
+├───OK─── https://global.delaware.gov/expand/international-business-trips/
+├───OK─── https://de.gov/portalimg/carousel_business/carousel_business_trademission.jpg
+├───OK─── https://corplaw.delaware.gov/
+├───OK─── https://de.gov/portalimg/carousel_business/carousel_business_corplaw.jpg
+├───OK─── https://twitter.com/DelawareGIC/lists/de-business
+├───OK─── https://corp.delaware.gov/agents/agts.shtml
+├─BROKEN─ https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx (HTTP_503)
+├───OK─── https://de.gov/topics/doingbusiness
+├───OK─── https://global.delaware.gov/expand/
+├───OK─── https://www.demep.org/
+├───OK─── https://corp.delaware.gov/
+├───OK─── https://corp.delaware.gov/corpforms.shtml
+├───OK─── https://revenue.delaware.gov/services/BlueC.shtml
+├───OK─── https://revenue.delaware.gov/services/Business_Tax/Forms_New.shtml
+├───OK─── https://revenue.delaware.gov/services/Business_Tax/Franchise_Tax.shtml
+├───OK─── https://revenue.delaware.gov/services/BusServices.shtml
+├───OK─── https://de.gov/topics/TaxCenter
+├───OK─── https://dpr.delaware.gov/
+├───OK─── https://dpronline.delaware.gov/MyLicense%20Enterprise/Login.aspx
+├───OK─── https://inde.delaware.gov/dedo_pdf/NewsEvents_pdf/publications/QuickLookDE-Final_Sept2014.pdf
+├───OK─── http://dol.delaware.gov/
+├───OK─── https://de.gov/portalimg/jobseekers_dol_logo.png
+├───OK─── https://de.gov/portalimg/quick_search.png
+├─BROKEN─ http://delawarestatejobs.com/explore/top-reasons.shtml (HTTP_404)
+├─BROKEN─ http://delawarestatejobs.com/careers/index.shtml (HTTP_404)
+├─BROKEN─ http://delawarestatejobs.com/explore/hiring-process.shtml (HTTP_404)
+├─BROKEN─ http://delawarestatejobs.com/explore/job-seeker-resources.shtml (HTTP_404)
+├─BROKEN─ http://delawarestatejobs.com/disability/index.shtml (HTTP_404)
+├─BROKEN─ http://delawarestatejobs.com/apply/how.shtml (HTTP_404)
+├───OK─── http://delawarestatejobs.com/search/jobs.aspx
+├─BROKEN─ http://delawarestatejobs.com/apply/job-types-non-merit.shtml (HTTP_404)
+├───OK─── http://delawarestatejobs.com/search/jobs.aspx?filter=CS&sort=closing&sortdir=0&loc=
+├─BROKEN─ http://delawarestatejobs.com/apply/help-center.shtml (HTTP_404)
+├───OK─── http://egov.delaware.gov/pmc/
+├───OK─── https://de.gov/portalimg/jobs_disabled.jpg
+├───OK─── https://www.delawareworks.com/disabled.php
+├─BROKEN─ http://delawarestatejobs.com/disability/agencies.shtml (HTTP_404)
+├─BROKEN─ http://delawarestatejobs.com/explore/disability-resources.shtml (HTTP_404)
+├─BROKEN─ http://delawarestatejobs.com/disability/benefits-rights.shtml (HTTP_404)
+├─BROKEN─ http://delawarestatejobs.com/disability/contact.shtml (HTTP_404)
+├───OK─── https://de.gov/portalimg/jobs_veterans.jpg
+├───OK─── https://www.delawareworks.com/veterans.php
+├─BROKEN─ http://delawarestatejobs.com/explore/veterans-preference.shtml (HTTP_404)
+├─BROKEN─ https://www.delaware.gov/vsd/veteransByService.php?sid===wM (HTTP_403)
+├───OK─── http://veteransaffairs.delaware.gov/contact.shtml
+├───OK─── https://uics.delawareworks.com/Forms/Form_WL1.aspx
+├───OK─── http://ui.delawareworks.com/telebenefits.php
+├───OK─── https://uicc.delawareworks.com/Consumer/Default.aspx
+├───OK─── https://uidd.delawareworks.com/Instructions.aspx
+├───OK─── https://uidd.delawareworks.com/DCInstructions.aspx
+├───OK─── http://ui.delawareworks.com/ui-fraud.php
+├───OK─── https://www.visitdelaware.com/things-to-do/seasons/spring/
+├───OK─── https://www.visitdelaware.com/things-to-do/outdoors/gardens/
+├───OK─── https://www.visitdelaware.com/things-to-do/outdoors/scenic-drives/
+├───OK─── https://www.visitdelaware.com/events/top-spring-events-festivals/
+├───OK─── https://www.visitdelaware.com/travel-guide
+├───OK─── https://www.visitdelaware.com/beer-wine-spirits-trail/download-the-de-on-tap-app
+├───OK─── https://de.gov/portalimg/visitors_icon_arts.png
+├───OK─── https://www.delaware.gov/artistroster/
+├───OK─── http://arts.delaware.gov/resources/arts-opportunities/
+├───OK─── http://www.delawarescene.com/
+├───OK─── http://www.visitdelaware.com/things-to-do/history-heritage/
+├───OK─── http://arts.delaware.gov/
+├───OK─── https://de.gov/portalimg/visitors_icon_outdoors.png
+├───OK─── http://www.destateparks.com/
+├───OK─── http://www.destateparks.com/camping/
+├───OK─── http://www.visitdelaware.com/wineandale/
+├───OK─── http://www.destateparks.com/activities/
+├───OK─── https://de.gov/topics/recreation
+├───OK─── https://de.gov/portalimg/visitors_icon_safety.png
+├───OK─── http://dema.delaware.gov/services/disaster_prep.shtml
+├───OK─── http://dhss.delaware.gov/dhss/dph/hsp/hflc.html
+├───OK─── http://apps.dnrec.state.de.us/derns/pub/
+├───OK─── http://dhss.delaware.gov/dhss/dph/hsp/indinspect.html
+├───OK─── https://de.gov/topics/publicsafety
+├───OK─── https://de.gov/portalimg/visitors_icon_transportation.png
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://www.dartfirststate.com/ (HTTP_403)
+├─BROKEN─ http://www.ezpassde.com/ (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/driver_services/driver_svcs.shtml (HTTP_403)
+├───OK─── https://de.gov/topics/travel
+├───OK─── https://de.gov/portalimg/de-scene-logo.jpg
+├───OK─── http://www.flickr.com/groups/delaware_gov/
+├───OK─── https://de.gov/portalimg/flickr_logo.jpg
+├───OK─── http://www.flickr.com/photos/agriculturede/
+├───OK─── http://www.flickr.com/groups/1424389@N25/pool/
+├───OK─── http://www.flickr.com/photos/delawarepublicarchives/
+├───OK─── http://www.flickr.com/photos/delaware_division_of_the_arts/
+├───OK─── http://www.flickr.com/photos/43858945@N02/
+├───OK─── http://www.flickr.com/photos/delawaredos/
+├───OK─── http://www.flickr.com/photos/delawareeconomicdevelopmentoffice/
+├───OK─── http://www.flickr.com/groups/delawaregeocachingtrail/
+├───OK─── http://www.flickr.com/photos/deldhss/
+├───OK─── https://www.flickr.com/photos/delawarehistory
+├───OK─── http://www.flickr.com/photos/destatehousing/
+├───OK─── http://www.flickr.com/photos/delawaretourism/
+├───OK─── http://www.flickr.com/photos/delawaredot
+├───OK─── http://www.flickr.com/groups/wineandale
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=sx_inc_area&url=//delaware.gov/
+├───OK─── http://firststeps.delaware.gov/
+├───OK─── https://de.gov/topics/agencylist_alpha
+├───OK─── https://de.gov/phonedirectory/
+├───OK─── https://de.gov/locationsdirectory/
+├───OK─── https://de.gov/citizen_services.shtml
+├───OK─── https://de.gov/business_services.shtml
+├───OK─── https://de.gov/topics/
+├───OK─── https://de.gov/topics/socialmedia
+├───OK─── https://de.gov/help/
+├───OK─── https://de.gov/readspeaker_info.shtml
+├───OK─── https://www.facebook.com/delaware.gov
+├───OK─── https://de.gov/portalimg/social_icon_facebook@2x.png
+├───OK─── https://de.gov/portalimg/social_icon_facebook_off@2x.png
+├───OK─── https://twitter.com/delaware_gov/
+├───OK─── https://de.gov/portalimg/social_icon_twitter@2x.png
+├───OK─── https://de.gov/portalimg/social_icon_twitter_off@2x.png
+├───OK─── https://de.gov/portalimg/social_icon_flickr@2x.png
+├───OK─── https://de.gov/portalimg/social_icon_flickr_off@2x.png
+├───OK─── https://www.youtube.com/user/DelawareGovernment
+├───OK─── https://de.gov/portalimg/social_icon_youtube@2x.png
+├───OK─── https://de.gov/portalimg/social_icon_youtube_off@2x.png
+├───OK─── https://de.gov/topics/subscriberss
+├───OK─── https://de.gov/portalimg/social_icon_rss@2x.png
+├───OK─── https://de.gov/portalimg/social_icon_rss_off@2x.png
+├───OK─── https://de.gov/topics/yourgovernment
+├───OK─── http://legis.delaware.gov/
+├───OK─── http://courts.delaware.gov/
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+├───OK─── https://de.gov/topics/municipalities
+├───OK─── http://delcode.delaware.gov/
+├───OK─── http://regulations.delaware.gov/default.shtml
+├───OK─── https://de.gov/phonedirectory/index.php
+├───OK─── https://de.gov/locationsdirectory/index.php
+├───OK─── https://de.gov/topics/foia
+├───OK─── https://de.gov/topics/transparency
+├───OK─── http://www.choosehealthde.com/
+├───OK─── http://revenue.delaware.gov/pit_onlinefiling.shtml
+├───OK─── https://de.gov/help/privacy
+├───OK─── https://de.gov/topics/weatherpage
+├───OK─── https://de.gov/help/degov-contact.shtml
+├───OK─── http://corp.delaware.gov/
+├───OK─── http://corp.delaware.gov/paytaxes.shtml
+├───OK─── https://grossreceiptstax.delaware.gov/grtpublic/
+├───OK─── https://dorweb.revenue.delaware.gov/EDIOnline/EDIOnline.dll
+├───OK─── https://de.gov/portalimg/portal_footer_seal.png
+├───OK─── https://de.gov/portalimg/gic_portal_footer_logo@2x.png
+├───OK─── http://gic.delaware.gov/
+Finished! 342 links found. 90 excluded. 31 broken.
+
+Getting links from: https://de.gov/topics/apps
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=delaware.gov/topics/apps.shtml
+├───OK─── https://de.gov/topics/img/apps/topics_apps.jpg
+├───OK─── https://itunes.apple.com/us/app/de-on-tap/id1277185816?mt=8
+├───OK─── https://de.gov/topics/img/apps/app_icon_ontap.jpg
+├───OK─── https://de.gov/topics/img/apps/app_icon_iphone.jpg
+├───OK─── https://play.google.com/store/apps/details?id=com.mobimanage.delaware&hl=en
+├───OK─── https://de.gov/topics/img/apps/app_icon_googlePlay.jpg
+├─BROKEN─ https://play.google.com/store/apps/details?id=com.mobimanage.delawareamp;&hl=en (HTTP_404)
+├───OK─── https://www.facebook.com/DelawareonTap/
+├───OK─── https://de.gov/topics/img/apps/facebook_icon32.png
+├───OK─── https://itunes.apple.com/us/app/eschoolplus-family/id919127294?mt=8
+├───OK─── https://de.gov/topics/img/apps/app_icon_education.jpg
+├───OK─── https://play.google.com/store/apps/details?id=com.sungardps.plus360home&hl=en
+├───OK─── http://www.amazon.com/SunGard-K-12-Education-eSchoolPLUS-Family/dp/B00NU22ZAI
+├───OK─── https://de.gov/topics/img/apps/app_icon_amazon.jpg
+├───OK─── http://itunes.apple.com/us/app/the-official-de-state-parks/id433959573
+├───OK─── https://de.gov/topics/img/apps/app_icon_destateparks2.jpg
+├───OK─── https://play.google.com/store/apps/details?id=com.avai.amp.pbn_delaware
+├───OK─── https://itunes.apple.com/us/app/deldot/id574002490?ls=1&mt=8
+├───OK─── https://de.gov/topics/img/apps/app_icon_DelDot2.jpg
+├───OK─── https://play.google.com/store/apps/details?id=gov.deldot#?t=W251bGwsMSwyLDIxMiwiZ292LmRlbGRvdCJd
+├───OK─── http://itunes.apple.com/us/app/delaware-library-catalog-dlc/id491239491
+├───OK─── https://de.gov/topics/img/apps/app_icon_dlc2.jpg
+├───OK─── https://play.google.com/store/apps/details?id=com.bredir.boopsie.delibs
+├───OK─── http://www.amazon.com/Boopsie-Inc-Delaware-Library-Catalog/dp/B006QYI1RI/ref=sr_1_1?s=mobile-apps&ie=UTF8&qid=1377104546&sr=1-1&keywords=delaware
+├───OK─── https://itunes.apple.com/us/app/roadready/id699534935?ls=1&mt=8
+├───OK─── https://de.gov/topics/img/apps/app_icon_roadready2.jpg
+├───OK─── https://egov.delaware.gov/htr
+├───OK─── https://de.gov/topics/img/apps/qr_hunting.jpg
+├───OK─── http://m.delottery.com/
+├───OK─── https://de.gov/topics/img/apps/qr_lottery_100_100.jpg
+├─BROKEN─ http://m.dartfirststate.com/ (HTTP_403)
+├───OK─── https://de.gov/topics/img/apps/qr_dart_100_100.jpg
+├─BROKEN─ http://m.dartfirststate.com/ (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/mobile/index.shtml (HTTP_403)
+├───OK─── https://de.gov/topics/img/apps/qr_dmv_100_100.jpg
+├─BROKEN─ http://www.dmv.de.gov/mobile/index.shtml (HTTP_403)
+├─BROKEN─ http://mobile.deldot.gov/ (HTTP_403)
+├───OK─── https://de.gov/topics/img/apps/qr_deldot_100_100.jpg
+├─BROKEN─ http://mobile.deldot.gov/ (HTTP_403)
+├───OK─── http://egov.delaware.gov/pls
+├───OK─── https://de.gov/topics/img/apps/qr_pls_100_100.jpg
+├───OK─── http://phonedirectory.delaware.gov/
+├───OK─── https://de.gov/topics/img/apps/qr_pd_100_100.jpg
+├───OK─── https://de.gov/portalimg/portal_dyk_indians.jpg
+├───OK─── http://www.nanticokeindians.org/
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├───OK─── https://de.gov/topics/highered
+├───OK─── https://de.gov/topics/health
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 189 links found. 139 excluded. 9 broken.
+
+Getting links from: https://de.gov/topics/subscribeemail
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=delaware.gov/topics/subscribeemail.shtml
+├───OK─── https://de.gov/topics/img/topics_subscribe.jpg
+├───OK─── https://denotificationservices.bbcportal.com/
+├─BROKEN─ https://www.deldot.gov/mydeldot.ejs?command=MyDelDOTNew (HTTP_403)
+├───OK─── https://lists.state.de.us/read/all_forums/subscribe?name=dgdc-l
+├───OK─── http://www.delottery.com/playersclub.asp
+├───OK─── http://gss.omb.delaware.gov/surplus/state.shtml#listserve
+├───OK─── http://dnrec.alpha.delaware.gov/dnrec-e-mail-lists/
+├───OK─── https://lists.state.de.us/read/all_forums/subscribe?name=planning
+├─BROKEN─ http://hrm.omb.delaware.gov/closings/emailnotification.shtml (HTTP_404)
+├───OK─── http://www.dts.k12.de.us/
+├───OK─── https://sites.google.com/site/itugde/join-our-list
+├───OK─── http://www.polytechpanthers.com/apps/pages/index.jsp?uREC_ID=173087&type=d
+├───OK─── http://www.christinak12.org/apps/pages/index.jsp?uREC_ID=181679&type=d
+├─BROKEN─ http://www.ocm.udel.edu/udaily/subscribe.php (BLC_UNKNOWN)
+├───OK─── http://delaware.gov/help/degov-contact.shtml
+├───OK─── https://de.gov/portalimg/portal_dyk_towers.jpg
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 122 links found. 103 excluded. 5 broken.
+
+Getting links from: https://de.gov/topics/doingbusiness
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=delaware.gov/topics/doingbusiness.shtml
+├───OK─── https://de.gov/topics/img/topics_doingbusiness.jpg
+├───OK─── http://bids.delaware.gov/
+├───OK─── http://mymarketplace.delaware.gov/
+├───OK─── http://shop.delaware.gov/
+├───OK─── https://gss.omb.delaware.gov/surplus/store.shtml
+├───OK─── http://gss.omb.delaware.gov/surplus/store.shtml
+├───OK─── http://gss.omb.delaware.gov/surplus/federal.shtml
+├───OK─── http://gss.omb.delaware.gov/surplus/auction.shtml
+├───OK─── http://contracts.delaware.gov/
+├───OK─── http://contracts.delaware.gov/vendor_list.asp
+├───OK─── http://contracts.delaware.gov/cooperative.asp
+├───OK─── http://bids.delaware.gov/closed_bids.asp
+├───OK─── http://contracts.delaware.gov/setaside.asp
+├───OK─── http://bids.delaware.gov/no_award.asp
+├───OK─── https://gss.omb.delaware.gov/faq.shtml
+├───OK─── http://gss.omb.delaware.gov/osd/
+├───OK─── http://www.delawarecontracts.com/
+├───OK─── https://gss.omb.delaware.gov/contact.shtml
+├───OK─── http://co.kent.de.us/levy-court/public-notices.aspx
+├───OK─── http://www.nccde.org/Bids.aspx
+├───OK─── http://www.sussexcountyde.gov/legal-notices/bids
+├───OK─── https://www.wilmingtonde.gov/business/bid-notices-and-rfps
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 133 links found. 108 excluded. 2 broken.
+
+Getting links from: https://de.gov/topics/TaxCenter
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=delaware.gov/topics/TaxCenter.shtml
+├───OK─── https://de.gov/topics/img/topics_taxcenter.jpg
+├───OK─── https://dorweb.revenue.delaware.gov/scripts/olp/olp.dll/PIText
+├───OK─── https://dorweb.revenue.delaware.gov/scripts/olp/olp.dll/PITest
+├───OK─── https://dorweb.revenue.delaware.gov/scripts/refinq/refinq.dll
+├───OK─── https://dorweb.revenue.delaware.gov/scripts/olp/olp.dll/indpay
+├───OK─── http://revenue.delaware.gov/services/2017PITForms.shtml
+├───OK─── http://revenue.delaware.gov/services/Prior_Forms.shtml
+├───OK─── http://revenue.delaware.gov/services/current_bt/14_5506e.pdf
+├───OK─── https://de.gov/portalimg/adobe_pdf.png
+├───OK─── http://revenue.delaware.gov/information/paper_forms.shtml
+├───OK─── https://revenue.delaware.gov/services/current_pit/TY17_taxtable.pdf
+├───OK─── http://www.revenue.delaware.gov/services/vita_de.shtml
+├───OK─── http://revenue.delaware.gov/information/faqs_pit.shtml#RI
+├───OK─── http://revenue.delaware.gov/information/Bank_information.shtml
+├───OK─── http://revenue.delaware.gov/services/Collections/Coll_Title.shtml
+├───OK─── http://revenue.delaware.gov/services/Business_Tax/Forms_New.shtml#corpforms
+├───OK─── http://revenue.delaware.gov/services/Business_Tax/PForms.shtml
+├───OK─── http://www.delawareinsurance.gov/information/premiumtaxes.shtml
+├───OK─── http://ui.delawareworks.com/forms.php
+├───OK─── http://banking.delaware.gov/bnkft/ftintro.shtml
+├───OK─── http://corp.delaware.gov/frtax.shtml
+├───OK─── http://www.revenue.delaware.gov/services/current_bt/gr_rates.pdf
+├───OK─── http://ui.delawareworks.com/employer-services.php
+├───OK─── https://business.delaware.gov/wp-content/uploads/sites/118/2017/09/2016-2017_DE_Tax_Reports.pdf
+├───OK─── https://finance.delaware.gov/publications/proptax/propmain.shtml
+├───OK─── http://nccde.org/232/Taxes
+├───OK─── http://www.sussexcountyde.gov/e%2Dservice/propertytaxes/
+├───OK─── http://www.wilmingtonde.gov/about-us/document-library
+├───OK─── http://www.irs.gov/Forms-&-Pubs
+├───OK─── http://www.irs.gov/Filing/Filing-Options
+├───OK─── https://www.taxadmin.org/state-tax-forms
+├───OK─── http://revenue.delaware.gov/
+├───OK─── http://banking.delaware.gov/
+├───OK─── http://dti.delaware.gov/services/accessde.shtml
+├───OK─── https://corp.delaware.gov/ucc.shtml
+├───OK─── https://onestop.delaware.gov/osbrlpublic/Home.jsp
+├───OK─── https://dorweb.revenue.delaware.gov/scripts/licrenew/licrenew.dll
+├───OK─── http://dpr.delaware.gov/
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/dealer/ve_dlr_lictax.shtml (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 158 links found. 116 excluded. 3 broken.
+
+Getting links from: https://de.gov/topics/recreation
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=delaware.gov/topics/recreation.shtml
+├───OK─── https://de.gov/topics/img/topics_outdoors.jpg
+├───OK─── http://www.visitdelaware.com/
+├───OK─── http://www.destateparks.com/adventure%2Drace/
+├─BROKEN─ https://www.deldot.gov/Programs/bike/biking_in_delaware/ (HTTP_403)
+├───OK─── http://www.destateparks.com/activities/disc%2Dgolf/
+├───OK─── http://www.destateparks.com/activities/geocaching/index.asp
+├───OK─── http://www.visitdelaware.com/things-to-do/outdoor-recreation/?listsearch_submit=1&listingGetAll=0&subcatID=5899&regionID=0&listing_keyword=golf&submit=Search
+├───OK─── http://www.doe.k12.de.us/diaa
+├───OK─── http://www.destateparks.com/activities/swimming/
+├───OK─── http://www.delaware.usta.com/Linksto_Tennis_Websites/Linksto_Delaware_Tennis_Web_Sites/
+├───OK─── http://www.dnrec.delaware.gov/fw/Fisheries/Pages/FishingAreaAndBoatingAccessInfo.aspx
+├───OK─── http://www.dnrec.delaware.gov/fw/Fisheries/Pages/TidalWaterFishingAndBoatAccessAreas.aspx
+├───OK─── http://www.dnrec.delaware.gov/fw/Boating/Pages/Delaware_Boating_Registration.aspx
+├───OK─── http://www.destateparks.com/fees/boat-rentals.asp
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/titles/ve_title_general.shtml (HTTP_403)
+├───OK─── http://www.dnrec.delaware.gov/fw/Boating/Pages/Delaware_Boating_Safety.aspx
+├───OK─── https://egov.dnrec.delaware.gov/egovpublic/dnrec/disp?doc=publicsubmenu&op=fwlicense&dept=5
+├───OK─── http://www.dnrec.delaware.gov/fw/Fisheries/Pages/FishingInfo.aspx
+├───OK─── http://www.dnrec.delaware.gov/fw/Info/Pages/LicenseAgents.aspx
+├───OK─── http://www.boat-ed.com/delaware/index.html
+├─BROKEN─ http://www.newcastlesailingclub.org/ (HTTP_403)
+├───OK─── http://www.bluehens.com/ViewArticle.dbml?DB_OEM_ID=29100&ATCLID=209249074
+├───OK─── http://www.dnrec.delaware.gov/fw/Pages/Guides.aspx
+├───OK─── http://www.destateparks.com/fees/surf-fishing.asp
+├───OK─── https://egov.dnrec.delaware.gov/egovpublic/dnrec/disp?doc=publicsubmenu&op=fwlicense&submenu=HuntingAndFishing
+├───OK─── https://egov.delaware.gov/htr/DeerRegistration/DeerOptions
+├───OK─── https://egov.delaware.gov/htr/HIPRequest/HIPOptions
+├───OK─── http://www.dnrec.delaware.gov/fw/Hunting/Pages/Wildlife.aspx
+├───OK─── http://www.dnrec.delaware.gov/fw/HunterEd/Pages/HunterEd.aspx
+├───OK─── http://www.fw.delaware.gov/Info/Pages/LicenseAgents.aspx
+├───OK─── http://www.dnrec.delaware.gov/fw/Hunting/Pages/Hunting%20license%20FAQs.aspx
+├───OK─── http://dnrec.alpha.delaware.gov/outdoor-delaware/
+├───OK─── http://www.destateparks.com/reservations/
+├───OK─── http://www.destateparks.com/camping/index.asp
+├───OK─── http://www.destateparks.com/activities/trails/hiking/index.asp
+├───OK─── http://www.destateparks.com/activities/trails/equestrian.asp
+├───OK─── http://www.destateparks.com/programs/index.asp
+├───OK─── http://www.fw.delaware.gov/Pages/FWPortal.aspx
+├───OK─── http://www.dnrec.delaware.gov/fw/NHESP/Pages/default.aspx
+├───OK─── http://apps.dnrec.state.de.us/RecWater/
+├───OK─── http://www.dnrec.delaware.gov/fw/Pages/DFW-Portal.aspx
+├───OK─── http://www.dnrec.delaware.gov/fw/Shorebirds/Pages/default.aspx
+├───OK─── http://www.destateparks.com/park/alapocas-run/blue-ball-barn.asp
+├───OK─── http://www.destateparks.com/park/bellevue/
+├───OK─── http://www.destateparks.com/park/brandywine%2Dcreek/
+├───OK─── http://www.destateparks.com/park/cape%2Dhenlopen/
+├───OK─── http://www.destateparks.com/park/delaware%2Dseashore/
+├───OK─── http://www.destateparks.com/park/fenwick%2Disland/
+├───OK─── http://www.destateparks.com/park/first%2Dstate%2Dheritage/
+├───OK─── http://www.destateparks.com/park/fort%2Ddelaware/
+├───OK─── http://www.destateparks.com/park/fort-dupont/index.asp
+├───OK─── http://www.destateparks.com/park/cape%2Dhenlopen/fort%2Dmiles/
+├───OK─── http://www.destateparks.com/park/fox%2Dpoint/
+├───OK─── http://www.destateparks.com/PARK/holts-landing/index.asp
+├───OK─── http://www.destateparks.com/marinas/
+├───OK─── http://www.destateparks.com/park/killens%2Dpond/
+├───OK─── http://www.destateparks.com/park/lums%2Dpond/
+├───OK─── http://www.destateparks.com/park/trap-pond/index.asp
+├───OK─── http://www.destateparks.com/park/white-clay-creek/index.asp
+├───OK─── http://www.destateparks.com/park/wilmington/
+├───OK─── https://delawarestateparks.reserveamerica.com/showPage.do?name=common&commonPath=/htm/DE_AnnualPasses.html
+├───OK─── http://www.destateparks.com/activities/trails/
+├───OK─── http://www.destateparks.com/programs/
+├───OK─── http://www.destateparks.com/rules/pets.asp
+├───OK─── http://www.destateparks.com/rules/
+├───OK─── http://www.destateparks.com/events/index.asp
+├───OK─── http://www.destateparks.com/directions/
+├───OK─── http://www.fws.gov/refuge/Bombay_Hook/
+├───OK─── http://www.nap.usace.army.mil/Missions/CivilWorks/ChesapeakeDelawareCanal.aspx
+├───OK─── http://www.nps.gov/maritime/nhlpa/intro.htm
+├───OK─── http://www.fws.gov/refuge/prime_hook/
+├───OK─── https://de.gov/portalimg/portal_dyk_delawarr.jpg
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 185 links found. 110 excluded. 5 broken.
+
+Getting links from: https://de.gov/topics/publicsafety
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=delaware.gov/topics/publicsafety.shtml
+├───OK─── https://de.gov/topics/img/topics_safety.jpg
+├───OK─── http://dema.delaware.gov/brochures/delhurrbro.pdf
+├───OK─── https://www.facebook.com/PrepareDE/
+├───OK─── http://dema.delaware.gov/index.shtml
+├───OK─── http://dema.delaware.gov/brochures/DENS_Flyer.pdf
+├───OK─── http://dema.delaware.gov/brochures/Animals_2006.pdf
+├───OK─── http://dema.delaware.gov/brochures/Mitigation%20Publication%20Region%20III.pdf
+├───OK─── http://nokr.org/nok/restricted/home.htm
+├───OK─── http://dema.delaware.gov/brochures/ERPA.pdf
+├───OK─── http://dema.delaware.gov/information/nuc_haz.shtml
+├───OK─── http://www.dhss.delaware.gov/dph/fluclinics.html
+├───OK─── http://www.dhss.delaware.gov/dltcrp/licensednursinghomes.html
+├───OK─── http://dhss.delaware.gov/dhss/dph/hsp/orc.html
+├───OK─── http://dema.delaware.gov/information/ki_info.shtml
+├─BROKEN─ http://www.dema.delaware.gov/brochures/KIpostcard_2012.pdf (HTTP_404)
+├───OK─── http://dhss.delaware.gov/dhss/dss/foodstamps.html
+├───OK─── http://www.fw.delaware.gov/Services/Pages/MosquitoSection.aspx
+├───OK─── http://www.dnrec.delaware.gov/BoilerSafety/Pages/Default.aspx
+├───OK─── http://dhss.delaware.gov/dhss/dph/ems/aed.html
+├─BROKEN─ http://statefiremarshal.delaware.gov/information/public.shtml (HTTP_404)
+├───OK─── https://statefiremarshal.delaware.gov/technical-services/
+├───OK─── http://dema.delaware.gov/information/workplace.shtml
+├───OK─── https://insurance.delaware.gov/services/workplacesafetydiscount/
+├─BROKEN─ https://www.deldot.gov/Programs/srts/ (HTTP_403)
+├───OK─── http://dshs.delaware.gov/cssp.shtml
+├─BROKEN─ https://www.dsp.delaware.gov/traffic.shtml (BLC_UNKNOWN)
+├───OK─── https://ohs.delaware.gov/carseat5.shtml
+├───OK─── http://delawareinsurance.gov/auto/defensive.shtml
+├─BROKEN─ http://www.deldot.gov/information/red_light/ (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/map/index.shtml?tab=TrafficCameras (HTTP_403)
+├─BROKEN─ https://www.deldot.gov/Traffic/ReportRoadCondition/index.shtml (HTTP_403)
+├───OK─── http://www.fw.delaware.gov/SiteCollectionDocuments/FW%20Gallery/Boating/0708bc.pdf
+├───OK─── http://dhss.delaware.gov/dhss/dph/ems/ems.html
+├───OK─── http://www.awm.delaware.gov/Pages/EmergencyServices.aspx
+├───OK─── https://statefiremarshal.delaware.gov/delaware-fire-companies/
+├───OK─── http://www.statefiremarshal.delaware.gov/
+├───OK─── http://www.statefireschool.delaware.gov/
+├───OK─── http://dhss.delaware.gov/dhss/dph/lab/labs.html
+├───OK─── http://statefireschool.delaware.gov/
+├───OK─── https://statefireschool.delaware.gov/wp-content/uploads/sites/114/2017/08/In-ServiceTrainingRequest201401.pdf
+├───OK─── http://dhss.delaware.gov/dhss/dph/ems/files/strategicplanforinjuryprevention.pdf
+├───OK─── https://de.train.org/DesktopShell.aspx
+├───OK─── http://dema.delaware.gov/information/terror_prep.shtml
+├───OK─── https://de.gov/portalimg/portal_dyk_del_border.jpg
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 164 links found. 117 excluded. 9 broken.
+
+Getting links from: https://de.gov/topics/travel
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=delaware.gov/topics/travel.shtml
+├───OK─── https://de.gov/topics/img/topics_travel.jpg
+├─BROKEN─ http://www.deldot.gov/public.ejs?command=PublicTollRateCalc (HTTP_403)
+├─BROKEN─ http://www.ezpassde.com/ (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/mfta/mfta.ejs?Command=ViewLicenseList&License_Type=07&License_Station_Operation_Type=03 (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/traffic/map.ejs (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/Traffic/travel_advisory/#advisories (HTTP_403)
+├───OK─── https://www.amtrak.com/stations/wil.html
+├───OK─── http://www.capemaylewesferry.com/
+├─BROKEN─ http://dartfirststate.com/information/routes/pdfs/summer/rt305.pdf (HTTP_403)
+├─BROKEN─ http://dartfirststate.com/information/programs/beachbus/index.shtml#top (HTTP_403)
+├─BROKEN─ http://www.dartfirststate.com/information/routes/index.shtml (HTTP_403)
+├─BROKEN─ http://www.dartfirststate.com/ (HTTP_403)
+├─BROKEN─ http://www.dartfirststate.com/information/getting_there/ride_guide/ (HTTP_403)
+├─BROKEN─ http://www.dartfirststate.com/information/getting_there/dartcard/dartcard_outlets.shtml (HTTP_403)
+├─BROKEN─ http://www.dartfirststate.com/information/maps/ (HTTP_403)
+├─BROKEN─ http://www.dartfirststate.com/dartcard/ (HTTP_403)
+├───OK─── http://www.newcastleairportilg.com/
+├─BROKEN─ http://www.dartfirststate.com/dtc.ejs?command=PublicDTCReservation (HTTP_403)
+├─BROKEN─ http://www.dartfirststate.com/information/getting_there/index.shtml (HTTP_403)
+├───OK─── http://www.flysbyairport.com/
+├─BROKEN─ http://www.dartfirststate.com/information/programs/scat/ (HTTP_403)
+├───OK─── http://www.septa.org/schedules/rail/index.html
+├───OK─── http://www.ridesharedelaware.org/employer/
+├───OK─── https://rideshare.org/tax-benefits/
+├───OK─── https://rideshare.org/question/how-do-i-find-a-carpool-partner/
+├───OK─── http://www.ridesharedelaware.org/vanpool/
+├───OK─── http://ohs.delaware.gov/carseat.shtml
+├───OK─── http://ohs.delaware.gov/marketing-clickit.shtml
+├─BROKEN─ http://www.deldot.gov/information/red_light/ (HTTP_403)
+├───OK─── http://ohs.delaware.gov/fatal_crash_index.shtml
+├─BROKEN─ http://www.deldot.gov/Traffic/travel_advisory/#advisories (HTTP_403)
+├─BROKEN─ https://www.deldot.gov/Traffic/ReportRoadCondition/index.shtml (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/traffic/map.ejs (HTTP_403)
+├───OK─── http://www.visitdelaware.com/mapexplorer/
+├───OK─── https://www.visitdelaware.com/things-to-do/arts-culture/
+├─BROKEN─ http://www.dmv.de.gov/default.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/home/contact_info/index.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/driver_services/driver_svcs.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/forms/forms_manuals.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/vehicle_svcs.shtml (HTTP_403)
+├─BROKEN─ https://www.deldot.gov/Programs/bike/biking_in_delaware/index.shtml (HTTP_403)
+├─BROKEN─ https://www.deldot.gov/Programs/adopt/index.shtml (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/index.shtml (HTTP_403)
+├─BROKEN─ https://www.deldot.gov/OnlineServices/index.shtml (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/information/projects/ (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/traffic/map.ejs (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/Traffic/travel_advisory/#advisories (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 158 links found. 108 excluded. 34 broken.
+
+Getting links from: https://de.gov/topics/agencylist_alpha
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=delaware.gov/topics/agencylist_alpha
+├───OK─── https://de.gov/topics/agencylist_dept
+├───OK─── http://www.legis.delaware.gov/
+├───OK─── http://www.legis.delaware.gov/Senate
+├───OK─── http://www.legis.delaware.gov/House
+├───OK─── http://courts.delaware.gov/overview.aspx
+├───OK─── http://accounting.delaware.gov/
+├───OK─── http://attorneygeneral.delaware.gov/about/
+├───OK─── http://www.dhss.delaware.gov/dhss/dsaapd/index.html
+├───OK─── https://agriculture.delaware.gov/agriculture-compliance/
+├───OK─── http://agriculture.delaware.gov/
+├───OK─── http://www.dnrec.delaware.gov/Air/Pages/Air-Quality.aspx
+├───OK─── http://www.166aw.ang.af.mil/
+├───OK─── http://date.delaware.gov/ATE/index.shtml
+├───OK─── http://date.delaware.gov/OABCC/index.shtml
+├───OK─── http://attorneygeneral.delaware.gov/criminal/units/
+├───OK─── http://apposchooldistrict.com/
+├───OK─── http://archives.delaware.gov/
+├───OK─── http://www.brandywineschools.org/Page/1
+├───OK─── http://www.budget.delaware.gov/
+├───OK─── http://buenavista.delaware.gov/
+├───OK─── http://www.cr.k12.de.us/
+├─BROKEN─ http://www.capehenlopenschools.com/pages/Cape_Henlopen_School_District (HTTP_404)
+├───OK─── http://www.capital.k12.de.us/
+├───OK─── http://courts.delaware.gov/childadvocate/
+├───OK─── http://courts.delaware.gov/cprb/
+├───OK─── http://www.dhss.delaware.gov/dhss/dcse/index.html
+├───OK─── http://www.christina.k12.de.us/
+├───OK─── http://attorneygeneral.delaware.gov/civil/
+├─BROKEN─ http://www.colonial.k12.de.us/ (BLC_UNKNOWN)
+├───OK─── http://www.doc.delaware.gov/Commissioner/index.shtml
+├───OK─── http://divcomm.delaware.gov/
+├───OK─── http://www.doc.delaware.gov/BOCC/index.shtml
+├───OK─── http://attorneygeneral.delaware.gov/fraud/
+├───OK─── http://global.delaware.gov/
+├───OK─── http://www.doc.delaware.gov/
+├───OK─── http://www.codhhe.delaware.gov/
+├───OK─── http://attorneygeneral.delaware.gov/criminal/
+├───OK─── http://cjc.delaware.gov/
+├───OK─── http://deljis.delaware.gov/
+├───OK─── http://kids.delaware.gov/services/crisis.shtml
+├─BROKEN─ http://www.dartfirststate.com/ (HTTP_403)
+├───OK─── http://dvr.delawareworks.com/dodhh.php
+├───OK─── http://publicdefender.delaware.gov/
+├───OK─── http://www.daccte.k12.de.us/
+├───OK─── http://www.dgs.udel.edu/
+├───OK─── http://www.drba.net/
+├───OK─── http://www.dswa.com/
+├───OK─── http://www.desu.edu/
+├───OK─── http://www.dtcc.edu/
+├───OK─── http://www.udel.edu/
+├───OK─── http://www.delmar.k12.de.us/
+├───OK─── http://ddc.delaware.gov/
+├───OK─── http://dhss.delaware.gov/dhss/ddds/index.html
+├───OK─── https://dhr.delaware.gov/diversity/index.shtml
+├───OK─── http://dvcc.delaware.gov/
+├───OK─── http://electionskc.delaware.gov/
+├───OK─── http://electionsncc.delaware.gov/
+├───OK─── http://electionssc.delaware.gov/
+├───OK─── http://dema.delaware.gov/
+├───OK─── http://det.delawareworks.com/
+├───OK─── http://dnrec.alpha.delaware.gov/energy-climate/
+├───OK─── http://gacec.delaware.gov/
+├───OK─── http://dfm.delaware.gov/
+├───OK─── http://delaware.gov/boardsandcommissions/dcfbp/default.shtml
+├───OK─── http://flc.delaware.gov/
+├───OK─── http://kids.delaware.gov/fs/fs.shtml
+├───OK─── http://finance.delaware.gov/
+├───OK─── http://statefiremarshal.delaware.gov/
+├───OK─── http://statefirecommission.delaware.gov/
+├───OK─── http://dnrec.alpha.delaware.gov/wildlife/
+├───OK─── http://dda.delaware.gov/foodprod/index.shtml
+├───OK─── http://dshs.delaware.gov/forensics/index.shtml
+├───OK─── http://dda.delaware.gov/forestry/index.shtml
+├───OK─── http://dge.delaware.gov/
+├───OK─── http://dda.delaware.gov/harness/index.shtml
+├───OK─── http://www.dhss.delaware.gov/dhss/index.html
+├───OK─── http://dhss.delaware.gov/dhcc/
+├───OK─── http://heritage.delaware.gov/
+├───OK─── http://www.doe.k12.de.us/domain/226
+├───OK─── http://ohs.delaware.gov/
+├───OK─── http://history.delaware.gov/
+├───OK─── http://history.delaware.gov/preservation/
+├───OK─── http://dshs.delaware.gov/
+├───OK─── http://statehumanrelations.delaware.gov/
+├───OK─── https://dhr.delaware.gov/
+├───OK─── http://www.irsd.net/
+├───OK─── http://dia.delawareworks.com/
+├───OK─── http://dda.delaware.gov/education/education_programs.shtml
+├───OK─── http://courts.delaware.gov/aoc/jic.aspx
+├───OK─── https://dhr.delaware.gov/labor/index.shtml
+├───OK─── http://www.lf.k12.de.us/
+├───OK─── http://dda.delaware.gov/aglands/index.shtml
+├───OK─── http://www.laurel.k12.de.us/
+├───OK─── http://libraries.delaware.gov/
+├───OK─── http://www.dhss.delaware.gov/dhss/dltcrp/index.html
+├───OK─── http://www.delottery.com/index.asp
+├───OK─── http://omb.delaware.gov/
+├───OK─── http://www.dhss.delaware.gov/dhss/dms/index.html
+├───OK─── http://kids.delaware.gov/mss/mss.shtml
+├───OK─── http://www.doc.delaware.gov/BMS/index.shtml
+├───OK─── http://demhra.delaware.gov/
+├───OK─── http://dda.delaware.gov/marketing/index.shtml
+├───OK─── http://merb.delaware.gov/
+├───OK─── http://www.milfordschooldistrict.org/
+├─BROKEN─ http://www.dmv.de.gov/ (HTTP_403)
+├───OK─── http://history.delaware.gov/museums/
+├─BROKEN─ http://www.delawarenationalguard.com/ (BLC_UNKNOWN)
+├───OK─── http://dnrec.alpha.delaware.gov/
+├───OK─── http://www.nccvotech.com/
+├───OK─── http://dda.delaware.gov/nutrients/index.shtml
+├───OK─── http://www.delawareworks.com/oolmi/Home.aspx
+├───OK─── https://www.dtcc.edu/our-campuses/georgetown
+├───OK─── http://pardons.delaware.gov/
+├───OK─── http://boardofparole.delaware.gov/
+├───OK─── http://www.delawarepensions.com/
+├───OK─── https://dhr.delaware.gov/personnel/index.shtml
+├───OK─── http://dda.delaware.gov/pesticides/index.shtml
+├───OK─── http://www.stateplanning.delaware.gov/
+├───OK─── http://dda.delaware.gov/plantind/index.shtml
+├───OK─── http://capitolpd.delaware.gov/
+├───OK─── http://dsp.delaware.gov/
+├───OK─── http://profiles.doe.k12.de.us/SchoolProfiles/District/Default.aspx?checkSchool=0&districtCode=39&district=POLYTECH
+├───OK─── http://dda.delaware.gov/poultryah/index.shtml
+├───OK─── http://kids.delaware.gov/pbhs/pbhs.shtml
+├───OK─── http://www.doc.delaware.gov/BOP/index.shtml
+├───OK─── http://publicadvocate.delaware.gov/
+├───OK─── http://perb.delaware.gov/
+├───OK─── http://www.dhss.delaware.gov/dhss/dph/index.html
+├───OK─── http://depic.delaware.gov/
+├───OK─── http://depsc.delaware.gov/
+├─BROKEN─ http://www.redclay.k12.de.us/ (HTTP_404)
+├───OK─── http://www.seafordbluejays.org/
+├───OK─── http://sos.delaware.gov/
+├───OK─── http://kids.delaware.gov/
+├───OK─── http://www.smyrna.k12.de.us/
+├───OK─── http://www.dhss.delaware.gov/dhss/dss/index.html
+├───OK─── http://desbf.delaware.gov/
+├───OK─── https://www.dtcc.edu/our-campuses/stanton
+├───OK─── http://scpd.delaware.gov/
+├───OK─── http://www.dhss.delaware.gov/dhss/dssc/index.html
+├───OK─── https://dhr.delaware.gov/benefits/index.shtml
+├───OK─── http://www.dhss.delaware.gov/dhss/dsamh/index.html
+├───OK─── http://gss.omb.delaware.gov/
+├─BROKEN─ http://sussex.de.schoolwebpages.com/education/school/school.php?sectionid=2 (HTTP_503)
+├───OK─── http://dti.delaware.gov/
+├───OK─── https://www.dtcc.edu/our-campuses/dover
+├───OK─── http://dda.delaware.gov/thoroughbred/index.shtml
+├─BROKEN─ http://www.deldot.gov/index.shtml (HTTP_403)
+├───OK─── http://ui.delawareworks.com/
+├───OK─── http://www.dhss.delaware.gov/dhss/dvi/index.html
+├───OK─── http://dvr.delawareworks.com/
+├───OK─── http://www.dnrec.delaware.gov/wr/Pages/Default.aspx
+├───OK─── http://www.dnrec.delaware.gov/swc/Pages/default.aspx
+├───OK─── http://dda.delaware.gov/weightsm/index.shtml
+├───OK─── https://dhr.delaware.gov/women/index.shtml
+├───OK─── http://www.wsd.k12.de.us/
+├───OK─── http://kids.delaware.gov/yrs/yrs.shtml
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 303 links found. 143 excluded. 10 broken.
+
+Getting links from: https://de.gov/phonedirectory/
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 119 links found. 118 excluded. 1 broken.
+
+Getting links from: https://de.gov/locationsdirectory/
+├───OK─── https://de.gov/locationsdirectory/img/map_pin4.png
+├───OK─── https://de.gov/locationsdirectory/img/map_pin5.png
+├───OK─── https://de.gov/locationsdirectory/img/map_pin3.png
+├───OK─── https://de.gov/locationsdirectory/whatson/
+├───OK─── https://de.gov/locationsdirectory/img/app_delawarescene.jpg
+├───OK─── https://de.gov/locationsdirectory/delawarerecycling/
+├───OK─── https://de.gov/locationsdirectory/img/app_recycling.jpg
+├─BROKEN─ http://itunes.apple.com/us/app/delaware-recycling/id524160218 (HTTP_404)
+├───OK─── https://de.gov/locationsdirectory/img/app_icon_iphone.jpg
+├─BROKEN─ http://itunes.apple.com/us/app/delaware-recycling/id524160218 (HTTP_404)
+├───OK─── https://play.google.com/store/apps/details?id=com.gic.derecycle
+├───OK─── https://de.gov/locationsdirectory/img/app_icon_googlePlay.jpg
+├───OK─── https://de.gov/locationsdirectory/delawarelibraries/
+├───OK─── https://de.gov/locationsdirectory/img/app_delawarelibraries.jpg
+├───OK─── https://de.gov/locationsdirectory/img/app_icon_amazon.jpg
+├───OK─── https://de.gov/locationsdirectory/tourism/
+├───OK─── https://de.gov/locationsdirectory/img/app_tourism.jpg
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 131 links found. 113 excluded. 3 broken.
+
+Getting links from: https://de.gov/citizen_services.shtml
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=delaware.gov/citizen_services.shtml
+├─BROKEN─ http://www.dartfirststate.com/dartcard/ (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/waittimes/index.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/dmvfeecalc/feecalc.ejs (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/information/red_light/ (HTTP_403)
+├─BROKEN─ http://www.ezpassde.com/ (HTTP_403)
+├─BROKEN─ https://services.dmv.de.gov/public.ejs?command=PublicNotificationHome (HTTP_403)
+├─BROKEN─ https://www.dmv.de.gov/services/vehicle_services/tags/vehicle_tags_vanity.shtml (HTTP_403)
+├───OK─── https://de.gov/topics/vehicles
+├───OK─── http://www.destateparks.com/fees/passes/index.asp
+├───OK─── http://www.dnrec.delaware.gov/fw/Services/Pages/Lic-Perm-Reg.aspx
+├─BROKEN─ http://www.apex01.kids.delaware.gov:8081/occl/ (HTTP_403)
+├───OK─── http://compare.delawareinsurance.gov/Consumer/InsuranceTypeSelection.aspx
+├───OK─── https://de.gov/topics/complaintsreports
+├───OK─── http://nccde.org/478/Police-Senior-Roll-Call-Lifeline-Program
+├───OK─── https://assist.dhss.delaware.gov/
+├───OK─── https://secure.destatehousing.com/
+├───OK─── https://sexoffender.dsp.delaware.gov/
+├───OK─── https://pubsrv.deljis.delaware.gov/WantedPublic/
+├───OK─── https://de.gov/topics/legal
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 128 links found. 107 excluded. 9 broken.
+
+Getting links from: https://de.gov/business_services.shtml
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=delaware.gov/business_services.shtml
+├───OK─── http://corp.delaware.gov/howtoform.shtml
+├───OK─── http://corp.delaware.gov/agents/agts.shtml
+├─BROKEN─ https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx (HTTP_503)
+├───OK─── http://courts.delaware.gov/tradenames/
+├─BROKEN─ http://gss.omb.delaware.gov/contracting/index.shtml (HTTP_404)
+├───OK─── https://de.gov/topics/incorporateindelaware
+├───OK─── http://www.sba.gov/about-offices-content/2/3107
+├───OK─── https://de.gov/topics/startasmallbusiness
+├─BROKEN─ http://dedo.delaware.gov/BusinessServices/BusinessFinancing/BusinessFinancing_Brownfield.shtml?businesfinancing (BLC_UNKNOWN)
+├───OK─── http://dedo.delaware.gov/Small-Business/Small-Business-Credit-Initiative
+├───OK─── http://dedo.delaware.gov/bff/index.shtml
+├───OK─── http://www.dnrec.delaware.gov/energy/services/GreenEnergy/Pages/default.aspx
+├───OK─── http://revenue.delaware.gov/services/online_svcs.shtml
+├───OK─── http://revenue.delaware.gov/services/Business_Tax/Franchise_Tax.shtml
+├───OK─── http://revenue.delaware.gov/services/Business_Tax/Step4.shtml
+├───OK─── http://revenue.delaware.gov/services/BusServices.shtml
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 119 links found. 101 excluded. 4 broken.
+
+Getting links from: https://de.gov/topics/
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=delaware.gov/topics/index.shtml
+├───OK─── https://de.gov/topics/agribusiness.shtml
+├───OK─── https://de.gov/topics/annualreports.shtml
+├───OK─── https://de.gov/topics/relocateexpand.shtml
+├───OK─── https://de.gov/topics/certificates.shtml
+├───OK─── http://delaware.gov/citizen_services.shtml
+├───OK─── https://de.gov/topics/complaintsreports.shtml
+├───OK─── https://de.gov/topics/doingbusiness.shtml
+├───OK─── https://de.gov/topics/k12ed.shtml
+├───OK─── https://de.gov/topics/highered.shtml
+├───OK─── https://de.gov/topics/energytips.shtml
+├───OK─── https://de.gov/topics/environment.shtml
+├───OK─── https://de.gov/topics/facts/index.shtml
+├───OK─── https://de.gov/topics/foia.shtml
+├───OK─── https://de.gov/topics/health.shtml
+├───OK─── https://de.gov/topics/humanservices.shtml
+├───OK─── https://de.gov/topics/incorporateindelaware.shtml
+├───OK─── http://finance.delaware.gov/investorinfo/
+├───OK─── https://de.gov/topics/legal.shtml
+├───OK─── https://de.gov/topics/marriage.shtml
+├───OK─── https://de.gov/topics/apps.shtml
+├───OK─── https://de.gov/topics/vehicles.shtml
+├───OK─── https://de.gov/topics/municipalities.shtml
+├───OK─── https://de.gov/topics/onlineservices.shtml
+├───OK─── https://de.gov/topics/data.shtml
+├───OK─── https://de.gov/topics/recreation.shtml
+├───OK─── https://de.gov/topics/children.shtml
+├───OK─── https://de.gov/topics/publicsafety.shtml
+├───OK─── https://de.gov/topics/recycling.shtml
+├───OK─── https://de.gov/topics/relocate.shtml
+├───OK─── https://de.gov/topics/subscriberss.shtml
+├───OK─── https://de.gov/topics/socialmedia.shtml
+├───OK─── https://de.gov/topics/TaxCenter.shtml
+├───OK─── https://de.gov/topics/transparency.shtml
+├───OK─── https://de.gov/topics/travel.shtml
+├───OK─── https://de.gov/topics/waterquality/index.shtml
+├───OK─── https://de.gov/topics/weatherpage.shtml
+├───OK─── https://de.gov/topics/yourgovernment.shtml
+├───OK─── https://de.gov/topics/yourresidence.shtml
+├───OK─── https://de.gov/portalimg/portal_dyk_hagley.jpg
+├───OK─── http://www.hagley.org/
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 147 links found. 104 excluded. 2 broken.
+
+Getting links from: https://de.gov/topics/socialmedia
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=https://www.delaware.gov/topics/socialmedia.shtml
+├───OK─── https://de.gov/topics/img/topics_socialmedia.jpg
+├───OK─── https://facebook.com/delaware.gov
+├───OK─── https://www.facebook.com/JohnCarneyDE/
+├───OK─── https://www.facebook.com/LtGovernorDE/
+├───OK─── https://www.facebook.com/AgricultureDE
+├───OK─── https://www.facebook.com/166thAirliftWing
+├───OK─── https://www.facebook.com/ArtsDelaware
+├───OK─── https://www.facebook.com/pages/Alapocas-Run-and-Wilmington-State-Parks/169751359713173
+├───OK─── https://www.facebook.com/pages/Delaware-Alcohol-Tobacco-Enforcement/564550036919443
+├───OK─── https://www.facebook.com/pages/Delaware-Bat-Program/199224313423499
+├───OK─── https://www.facebook.com/BellevueStatePark
+├───OK─── https://www.facebook.com/BrandywineCreekStatePark
+├───OK─── https://www.facebook.com/BrandywineZoo
+├───OK─── https://www.facebook.com/BuenaVistaConferenceCenter
+├───OK─── https://www.facebook.com/pages/Cape-Henlopen-State-Park/207887102580132
+├───OK─── https://www.facebook.com/DECorrection
+├───OK─── https://www.facebook.com/DARTfirststate/
+├───OK─── https://www.facebook.com/DelawareDDC
+├───OK─── https://www.facebook.com/DeDeptEducation
+├───OK─── https://www.facebook.com/DelawareEmergencyManagementAgency
+├───OK─── https://www.facebook.com/DelawareDET
+├───OK─── https://www.facebook.com/EnergyClimateDE
+├───OK─── https://www.facebook.com/DNERR/
+├───OK─── https://www.facebook.com/FirstMap
+├───OK─── https://www.facebook.com/pages/Delaware-State-Fire-School/121439284541830
+├───OK─── https://www.facebook.com/FirstStateHeritagePark
+├───OK─── https://www.facebook.com/DelawareFishWildlife
+├───OK─── https://www.facebook.com/DelForestService
+├───OK─── https://www.facebook.com/pages/Governors-Advisory-Council-for-Exceptional-Citizens-GACEC/398936323493367
+├───OK─── https://www.facebook.com/DelawareDHSS
+├───OK─── https://www.facebook.com/highwaysafetyde/
+├───OK─── https://www.facebook.com/DEHispanicCommission
+├───OK─── https://www.facebook.com/pages/Delaware-State-Housing-Authority-DSHA/208275479244142
+├───OK─── https://www.facebook.com/DEStateHumanRelations
+├───OK─── https://www.facebook.com/IRLSS
+├───OK─── https://www.facebook.com/DelawareInsurance?ref=tn_tnmn
+├───OK─── https://www.facebook.com/DEStateJobs
+├───OK─── https://www.facebook.com/JohnDickinsonPlantation
+├───OK─── https://www.facebook.com/JohnsonVictrolaMuseum
+├───OK─── https://www.facebook.com/DelawareLibraries
+├───OK─── https://www.facebook.com/delottery
+├───OK─── https://www.facebook.com/Lums.Pond.State.Park
+├───OK─── https://www.facebook.com/delawarenationalguard
+├───OK─── https://www.facebook.com/doencc
+├───OK─── https://www.facebook.com/NewCastleCourtHouse
+├───OK─── https://www.facebook.com/DelawareOOLMI
+├───OK─── https://www.facebook.com/pages/Delaware-Occupational-Safety-Health-Consultation/199560823410745
+├───OK─── https://www.facebook.com/theoldstatehouse
+├───OK─── https://www.facebook.com/OutdoorDelaware
+├───OK─── https://www.facebook.com/DEStateParks
+├───OK─── https://www.facebook.com/DSPNewsroom
+├───OK─── https://www.facebook.com/DelawarePublicArchives
+├───OK─── https://www.facebook.com/DEPublicHealth
+├───OK─── https://www.facebook.com/DelawarePSC
+├───OK─── https://www.facebook.com/DelawareRecycles
+├───OK─── https://www.facebook.com/DelawareSmallBusiness/
+├───OK─── https://www.facebook.com/DelawareSolidWasteAuthority
+├───OK─── https://www.facebook.com/StandByMeDelaware
+├───OK─── https://www.facebook.com/DEDeptState/
+├───OK─── https://www.facebook.com/delawarestatewidebenefits/
+├───OK─── https://www.facebook.com/OSDDE/
+├───OK─── https://www.facebook.com/pages/Delaware-Department-of-Technology-and-Information-DTI/246873755427536
+├───OK─── https://www.facebook.com/delawaredot
+├───OK─── https://www.facebook.com/DelawareTourismOffice
+├───OK─── https://www.facebook.com/DelawareUnemploymentInsurance
+├───OK─── https://www.facebook.com/DELCOMMVeteransAffairs
+├───OK─── https://www.facebook.com/DelawareVetsHome/
+├───OK─── https://www.facebook.com/DelawareDVR1/
+├───OK─── https://www.facebook.com/delawarewetlands
+├───OK─── https://www.facebook.com/White.Clay.Creek.State.Park
+├───OK─── https://www.facebook.com/delawarewomen
+├───OK─── https://www.facebook.com/DelawareOWC
+├───OK─── https://www.facebook.com/Zwaanendael
+├───OK─── https://twitter.com/Delaware_gov
+├───OK─── https://twitter.com/johncarneyde
+├───OK─── https://twitter.com/LtGovHall_Long
+├───OK─── https://twitter.com/DE_DOJ
+├───OK─── https://twitter.com/AgricultureDE
+├───OK─── https://twitter.com/DelawareATE
+├───OK─── https://twitter.com/DEPublicArchive
+├───OK─── https://twitter.com/ArtsDelaware
+├───OK─── https://twitter.com/SecretaryDE
+├───OK─── https://twitter.com/Cape_Henlopen
+├───OK─── https://twitter.com/DelKids
+├───OK─── https://www.twitter.com/DECorrection
+├───OK─── https://twitter.com/DelDigiKNOW
+├───OK─── https://twitter.com/dartfirststate
+├───OK─── https://twitter.com/divcommfirstnet
+├───OK─── https://twitter.com/DEDivResearch
+├───OK─── https://twitter.com/DEDeptofEd
+├───OK─── https://twitter.com/DEStateBoardEd
+├───OK─── https://twitter.com/DelawareEMA
+├───OK─── https://twitter.com/EnergyClimateDE
+├───OK─── https://twitter.com/DNERR/
+├───OK─── https://twitter.com/DE_Fire_School
+├───OK─── https://twitter.com/DEFishWildlife
+├───OK─── https://twitter.com/DelawareForests
+├───OK─── https://twitter.com/DelawareGIS
+├───OK─── https://twitter.com/DelawareGIC
+├───OK─── https://twitter.com/gacecoffice
+├───OK─── https://twitter.com/Delaware_DHSS
+├───OK─── https://twitter.com/delawarehistory
+├───OK─── https://twitter.com/DEStateHousing
+├───OK─── https://twitter.com/DEHumanRelation
+├───OK─── https://twitter.com/Delaware_DOI
+├───OK─── https://twitter.com/DEStateJobs
+├───OK─── https://twitter.com/DelawareDOL
+├───OK─── https://twitter.com/DELibraries
+├───OK─── https://twitter.com/DElottery
+├───OK─── https://twitter.com/LumsPond
+├───OK─── https://twitter.com/DelawareDMV
+├───OK─── https://twitter.com/DelawareNG
+├───OK─── https://twitter.com/yourdnrec
+├───OK─── https://twitter.com/NCCElectionsDE
+├───OK─── https://twitter.com/destateparks
+├───OK─── https://twitter.com/de_opg
+├───OK─── https://twitter.com/DelawarePSC
+├───OK─── https://twitter.com/Delaware_DSHS
+├───OK─── https://twitter.com/delbiz
+├───OK─── https://twitter.com/StandByMeDE
+├───OK─── https://twitter.com/DEDeptState
+├───OK─── https://twitter.com/DEStatePolice
+├───OK─── https://twitter.com/DETaxes
+├───OK─── https://twitter.com/DE_DTI
+├───OK─── https://twitter.com/DelawareTourism
+├───OK─── https://twitter.com/DelawareDOT
+├───OK─── https://twitter.com/DelawareDVR
+├───OK─── https://twitter.com/DeWatersheds
+├───OK─── https://twitter.com/DE_Wetlands
+├───OK─── https://www.twitter.com/delawarewomen
+├───OK─── https://www.instagram.com/delaware_gov/
+├───OK─── https://instagram.com/johncarneyde/
+├───OK─── https://instagram.com/brandywinecreekstatepark/
+├───OK─── https://www.instagram.com/dartfirststateofficial/
+├───OK─── https://instagram.com/delawarenerr/
+├───OK─── https://instagram.com/DE_DOJ/
+├───OK─── https://www.instagram.com/officialdel.nationalguard/
+├───OK─── https://instagram.com/depublicarchive/
+├───OK─── https://instagram.com/delseashorestatepark/
+├───OK─── https://instagram.com/de_fire_school/
+├───OK─── https://instagram.com/de_wetlands/
+├───OK─── https://instagram.com/destateparks/
+├───OK─── https://instagram.com/delawarelibraries/
+├───OK─── https://instagram.com/delawaredmv/
+├───OK─── https://instagram.com/deldhss/
+├───OK─── https://instagram.com/lumspondstatepark/
+├───OK─── https://instagram.com/visitdelaware/
+├───OK─── https://www.instagram.com/delawarewomen
+├───OK─── https://www.flickr.com/groups/delaware_gov/
+├───OK─── https://www.flickr.com/photos/mattdenn
+├───OK─── https://www.flickr.com/photos/agriculturede/
+├───OK─── https://www.flickr.com/groups/1424389@N25/pool/
+├───OK─── https://www.flickr.com/photos/delawarepublicarchives/
+├───OK─── https://www.flickr.com/photos/delaware_division_of_the_arts/
+├───OK─── https://www.flickr.com/photos/delchildrensdept/
+├───OK─── https://www.flickr.com/photos/dartfirststate/
+├───OK─── https://www.flickr.com/photos/delawareeconomicdevelopmentoffice/
+├───OK─── https://www.flickr.com/photos/126941448@N07/
+├───OK─── https://www.flickr.com/groups/delawaregeocachingtrail/
+├───OK─── https://www.flickr.com/photos/deldhss/
+├───OK─── https://www.flickr.com/delawarehistory
+├───OK─── https://www.flickr.com/photos/destatehousing/
+├───OK─── https://www.flickr.com/photos/96645869@N02/
+├───OK─── https://www.flickr.com/photos/delawaredos/
+├───OK─── https://www.flickr.com/groups/delstormsurge
+├───OK─── https://www.flickr.com/photos/delawaretourism/
+├───OK─── https://www.flickr.com/photos/delawaredot
+├───OK─── https://www.flickr.com/groups/wineandale
+├─BROKEN─ https://www.youtube.com/delawaregovernment (HTTP_404)
+├───OK─── https://www.youtube.com/user/dartfirststate
+├───OK─── https://www.youtube.com/view_play_list?p=5BB8F609C34A047F
+├───OK─── https://www.youtube.com/user/DelawareDOJ/feed
+├───OK─── https://www.youtube.com/channel/UCzVfs-N-tYOdyFX3QmE_Y7A
+├───OK─── https://www.youtube.com/view_play_list?p=2DF3E0189FB0B07C
+├─BROKEN─ https://www.youtube.com/DelDHSS (HTTP_404)
+├───OK─── https://www.youtube.com/view_play_list?p=480251FB0E9D5348
+├───OK─── https://www.youtube.com/view_play_list?p=76C0172E89B4D83B
+├─BROKEN─ https://www.youtube.com/DSHAinfo (HTTP_404)
+├───OK─── https://www.youtube.com/user/DeptOfInsurance
+├───OK─── https://www.youtube.com/user/DelawareLibraries
+├───OK─── https://www.youtube.com/playlist?list=PL41E7B19A807F945F
+├───OK─── https://www.youtube.com/user/delawaredmv
+├───OK─── https://www.youtube.com/user/DelawareDNREC
+├───OK─── https://www.youtube.com/user/delawaredot
+├───OK─── https://www.youtube.com/user/DelawareTourism
+├───OK─── https://livestream.com/StateofDelaware
+├───OK─── https://livestream.com/DelawareSupremeCourt
+├───OK─── https://www.pinterest.com/delartmuseum/
+├───OK─── https://www.pinterest.com/DELibraries/
+├───OK─── https://www.pinterest.com/depublicarchive/
+├───OK─── https://www.pinterest.com/statefireschool/
+├───OK─── https://www.pinterest.com/DEStateParks/
+├───OK─── https://www.pinterest.com/dewetlands/
+├───OK─── https://www.pinterest.com/hagley/
+├───OK─── https://www.pinterest.com/dhss/
+├───OK─── https://www.pinterest.com/visitdelaware/
+├───OK─── https://opinions.attorneygeneral.delaware.gov/
+├───OK─── https://contracting.blogs.delaware.gov/
+├───OK─── https://archives.blogs.delaware.gov/
+├───OK─── https://destateparks.blog/
+├───OK─── https://wmap.blogs.delaware.gov/
+├───OK─── https://dnerr.blogs.delaware.gov/
+├───OK─── https://governormarkell.blogs.delaware.gov/
+├───OK─── https://history.blogs.delaware.gov/
+├───OK─── https://indianrivermarina.blogs.delaware.gov/
+├───OK─── https://library.blogs.delaware.gov/
+├───OK─── https://osd.blogs.delaware.gov/
+├───OK─── https://www.visitdelaware.com/blog/
+├───OK─── https://blogs.deldot.gov/
+├───OK─── https://www.periscope.tv/DE_Fire_School
+├───OK─── https://www.slideshare.net/GlobalDelaware
+├───OK─── https://soundcloud.com/delawaredoj
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 319 links found. 104 excluded. 5 broken.
+
+Getting links from: https://de.gov/help/
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&amp:url=delaware.gov/help/index.shtml
+├───OK─── http://www.delaware.gov/topics/agencylist_alpha
+├───OK─── http://www.delaware.gov/topics/agencylist_dept
+├─BROKEN─ http://www.dmv.de.gov/services/driver_services/drivers_license/dr_lic_secure_dl.shtml (HTTP_403)
+├───OK─── http://www.dpr.delaware.gov/
+├───OK─── https://dorweb.revenue.delaware.gov/indpay/
+├───OK─── https://dorweb.revenue.delaware.gov/pitest/
+├───OK─── https://dorweb.revenue.delaware.gov/scripts/olp/olp.dll/pitext
+├─BROKEN─ http://www.grossreceiptstax.delaware.gov/ (BLC_UNKNOWN)
+├───OK─── https://dorweb.revenue.delaware.gov/scripts/olp/olp.dll/buspay
+├───OK─── https://de.gov/help/privacy.shtml
+├───OK─── https://de.gov/topics/marriage/
+├───OK─── https://de.gov/topics/yourresidence
+├───OK─── http://corp.delaware.gov/contact.shtml
+├───OK─── https://insurance.delaware.gov/contact/
+├─BROKEN─ https://www.dmv.de.gov/%20target= (HTTP_403)
+├─BROKEN─ https://www.dmv.de.gov/ (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 149 links found. 130 excluded. 6 broken.
+
+Getting links from: https://de.gov/readspeaker_info.shtml
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=delaware.gov/readspeaker_info.shtml
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 96 links found. 94 excluded. 1 broken.
+
+Getting links from: https://de.gov/topics/subscriberss
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=delaware.gov/topics/subscriberss.shtml
+├───OK─── https://de.gov/topics/img/topics_rss.jpg
+├─BROKEN─ http://www.deldot.gov/syndication.ejs?cat=RTTA (HTTP_403)
+├───OK─── https://portal.delaware.gov/subscribe/images/badge_RSS_sm_txt_news.gif
+├─BROKEN─ http://www.deldot.gov/syndication.ejs?cat=STR (HTTP_403)
+├─BROKEN─ http://dartfirststate.com/syndication.ejs?cat=RA (HTTP_403)
+├───OK─── http://dti.delaware.gov/cyberfeeds.xml
+├───OK─── http://www.delaware.gov/data/apps/LocationData_Whatson.xml
+├───OK─── https://publicmeetings.delaware.gov/DelawarePublicMeetingCalendarAPI.pdf
+├─BROKEN─ http://www.deldot.gov/syndication.ejs?cat=PW (HTTP_403)
+├───OK─── http://news.delaware.gov/feed/
+├───OK─── http://news.delaware.gov/category/governor/governor-john-carney/feed/
+├───OK─── http://news.delaware.gov/category/justice/feed/
+├───OK─── http://news.delaware.gov/category/insurance-commissioner/feed/
+├───OK─── http://news.delaware.gov/category/agriculture/feed/
+├───OK─── http://news.delaware.gov/category/dept-services-for-children-youth-families/feed/
+├───OK─── http://news.delaware.gov/category/doc/feed/
+├───OK─── http://news.delaware.gov/category/delaware-economic-development-office/feed/
+├───OK─── http://www.doe.k12.de.us/site/RSS.aspx?DomainID=4&ModuleInstanceID=20&PageID=1
+├───OK─── http://news.delaware.gov/category/finance-2/feed/
+├───OK─── http://news.delaware.gov/category/dhss/feed/
+├───OK─── http://news.delaware.gov/category/dsha/feed/
+├───OK─── http://news.delaware.gov/category/department-of-labor/feed/
+├───OK─── http://news.delaware.gov/category/omb/feed/
+├───OK─── http://news.delaware.gov/category/dnrec/feed/
+├───OK─── http://delawarenationalguard.com/news/feed/
+├───OK─── http://news.delaware.gov/category/safety-and-homeland-security/feed/
+├───OK─── http://news.delaware.gov/category/state/feed/
+├─BROKEN─ http://www.deldot.gov/syndication.ejs?cat=PR (HTTP_403)
+├─BROKEN─ http://dartfirststate.com/syndication.ejs?cat=PR&agy=DTC (HTTP_403)
+├───OK─── http://bids.delaware.gov/rss.asp
+├─BROKEN─ http://www.deldot.gov/syndication.ejs?cat=PW (HTTP_403)
+├───OK─── http://legis.delaware.gov/LIS/LIS148.NSF/GovSignedFeed.xml
+├───OK─── http://legis.delaware.gov/LIS/LIS148.NSF/SPassedFeed.xml
+├───OK─── http://legis.delaware.gov/LIS/LIS148.NSF/HPassedFeed.xml
+├───OK─── http://regulations.delaware.gov/register/regs-rss.xml
+├───OK─── https://arts.delaware.gov/feed/rss/?cat=149
+├───OK─── http://dnerr.blogs.delaware.gov/feed/
+├───OK─── http://indianrivermarina.blogs.delaware.gov/feed/
+├───OK─── http://library.blogs.delaware.gov/feed/
+├───OK─── http://archives.blogs.delaware.gov/feed/
+├───OK─── http://history.blogs.delaware.gov/feed/
+├───OK─── http://api.flickr.com/services/feeds/groups_pool.gne?id=1081047@N20&lang=en-us&format=rss_200
+├───OK─── http://api.flickr.com/services/feeds/photos_public.gne?id=49388545@N08&lang=en-us&format=rss_200
+├───OK─── http://api.flickr.com/services/feeds/photos_public.gne?id=38350467@N06&lang=en-us&format=rss_200
+├───OK─── http://news.delaware.gov/category/traffic-safety-news/feed/
+├───OK─── http://www.delaware.gov/help/rss_help.shtml
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 195 links found. 146 excluded. 9 broken.
+
+Getting links from: https://de.gov/topics/yourgovernment
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=//delaware.gov/topics/yourgovernment.shtml
+├───OK─── https://de.gov/topics/img/topics_government.jpg
+├───OK─── http://www.carper.senate.gov/public/
+├───OK─── http://www.coons.senate.gov/
+├───OK─── https://bluntrochester.house.gov/
+├───OK─── http://legis.delaware.gov/Legislature.nsf/Sen?openview&nav=contact
+├───OK─── http://legis.delaware.gov/Legislature.nsf/Reps?openview&count=75&nav=contact
+├───OK─── http://nccde.org/
+├───OK─── http://www.co.kent.de.us/
+├───OK─── http://www.sussexcountyde.gov/
+├───OK─── http://www.ipa.udel.edu/localgovt/dllg/county.html
+├───OK─── http://www.ipa.udel.edu/localgovt/dllg/mayors-managers.asp
+├─BROKEN─ https://ivote.de.gov/voterlogin.aspx (HTTP_undefined)
+├───OK─── http://legis.delaware.gov/Committees
+├───OK─── http://www.delaware.gov/topics/subscriberss
+├───OK─── http://elections.delaware.gov/voter/index.shtml
+├───OK─── http://www.delaware.gov/topics/subscribeemail
+├───OK─── http://legis.delaware.gov/Search?searchTerm=&assemblyId=149
+├───OK─── http://governor.delaware.gov/contact-connect/
+├───OK─── http://ltgov.delaware.gov/contact/
+├───OK─── http://www.delaware.gov/phonedirectory/
+├───OK─── https://de.gov/portalimg/portal_dyk_bbdelaware.jpg
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 144 links found. 120 excluded. 3 broken.
+
+Getting links from: https://de.gov/topics/municipalities
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=delaware.gov/topics/municipalities.shtml
+├───OK─── https://de.gov/topics/img/topics_municipalities.jpg
+├───OK─── http://dllg.delaware.gov/
+├───OK─── http://arden.delaware.gov/
+├───OK─── https://ardentown.delaware.gov/
+├───OK─── http://www.townofbellefonte.com/
+├───OK─── http://delawarecity.delaware.gov/
+├───OK─── http://elsmere.delaware.gov/
+├───OK─── http://www.middletownde.org/
+├───OK─── http://newcastlecity.delaware.gov/
+├───OK─── http://cityofnewarkde.us/
+├───OK─── http://newport.delaware.gov/
+├───OK─── http://odessa.delaware.gov/
+├───OK─── http://townsend.delaware.gov/
+├───OK─── http://www.ci.wilmington.de.us/
+├───OK─── http://bowersbeach.delaware.gov/
+├───OK─── http://camden.delaware.gov/
+├───OK─── http://cheswold.delaware.gov/
+├───OK─── http://clayton.delaware.gov/
+├───OK─── http://www.cityofdover.com/
+├───OK─── http://felton.delaware.gov/
+├───OK─── http://frederica.delaware.gov/
+├───OK─── http://harrington.delaware.gov/
+├───OK─── http://hartly.delaware.gov/
+├───OK─── http://www.townofhouston.com/index.html
+├───OK─── http://kenton.delaware.gov/
+├───OK─── http://littlecreek.delaware.gov/
+├───OK─── http://magnolia.delaware.gov/
+├───OK─── http://www.cityofmilford.com/
+├───OK─── http://smyrna.delaware.gov/
+├─BROKEN─ http://www.violade.com/ (BLC_UNKNOWN)
+├───OK─── http://wyoming.delaware.gov/
+├───OK─── http://www.townofbethanybeach.com/
+├───OK─── http://bethel.delaware.gov/
+├───OK─── http://blades.delaware.gov/
+├───OK─── http://bridgeville.delaware.gov/
+├───OK─── http://dagsboro.delaware.gov/
+├───OK─── http://www.townofdelmar.us/
+├───OK─── http://www.townofdeweybeach.com/
+├───OK─── http://ellendale.delaware.gov/
+├───OK─── http://fenwickisland.delaware.gov/
+├───OK─── http://frankford.delaware.gov/
+├───OK─── http://www.georgetowndel.com/
+├───OK─── http://greenwood.delaware.gov/
+├───OK─── http://henlopenacres.delaware.gov/
+├───OK─── http://www.townoflaurel.net/index.cfm
+├───OK─── http://www.ci.lewes.de.us/
+├───OK─── http://www.millsboro.org/
+├───OK─── http://millville.delaware.gov/
+├───OK─── http://milton.delaware.gov/
+├───OK─── http://www.oceanviewde.com/
+├───OK─── http://www.cityofrehoboth.com/
+├───OK─── http://www.seafordde.com/
+├───OK─── http://selbyville.delaware.gov/
+├───OK─── http://slaughterbeach.delaware.gov/
+├───OK─── http://www.southbethany.org/
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 162 links found. 104 excluded. 3 broken.
+
+Getting links from: https://de.gov/phonedirectory/index.php
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 119 links found. 118 excluded. 1 broken.
+
+Getting links from: https://de.gov/locationsdirectory/index.php
+├─BROKEN─ http://itunes.apple.com/us/app/delaware-recycling/id524160218 (HTTP_404)
+├─BROKEN─ http://itunes.apple.com/us/app/delaware-recycling/id524160218 (HTTP_404)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 131 links found. 128 excluded. 3 broken.
+
+Getting links from: https://de.gov/topics/foia
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=delaware.gov/topics/foia.shtml
+├───OK─── https://de.gov/topics/img/topics_foia.jpg
+├───OK─── http://delcode.delaware.gov/title29/c100/index.shtml
+├───OK─── http://delcode.delaware.gov/sessionlaws/ga146/chp202.shtml
+├───OK─── http://governor.delaware.gov/wp-content/uploads/sites/24/2016/12/EO031.pdf
+├───OK─── http://attorneygeneral.delaware.gov/executive/open-government/
+├───OK─── https://de.gov/help/AgencyListFOIACoordinators-table.shtml
+├───OK─── https://www.delaware.gov/forms/foia_request_form.pdf
+├───OK─── http://delaware.gov/help/foia_request.shtml?subj=DDA
+├───OK─── http://delaware.gov/help/foia_request.shtml?subj=DNREC-AQ
+├───OK─── http://delaware.gov/help/foia_request.shtml?subj=DOJ
+├───OK─── http://delaware.gov/help/foia_request.shtml?subj=AU
+├───OK─── http://banking.delaware.gov/foia.shtml
+├───OK─── http://delaware.gov/help/foia_request.shtml?subj=DSCYF
+├───OK─── http://delaware.gov/help/foia_request.shtml?subj=DOC
+├───OK─── http://delaware.gov/help/foia_request.shtml?subj=ODS
+├───OK─── http://delaware.gov/help/foia_request.shtml?subj=DOE
+├───OK─── http://delaware.gov/help/foia_request.shtml?subj=ELECT
+├───OK─── http://delaware.gov/help/foia_request.shtml?subj=DNREC-EAC
+├───OK─── http://delaware.gov/help/foia_request.shtml?subj=FIN
+├───OK─── http://delaware.gov/help/foia_request.shtml?subj=FIREM
+├───OK─── http://delaware.gov/help/foia_request.shtml?subj=FIREC
+├───OK─── http://delaware.gov/help/foia_request.shtml?subj=FIRES
+├───OK─── http://delaware.gov/help/foia_request.shtml?subj=DNREC-FAW
+├───OK─── http://delaware.gov/help/foia_request.shtml?subj=LEGIS
+├───OK─── http://delaware.gov/help/foia_request.shtml?subj=GOV
+├───OK─── http://delaware.gov/help/foia_request.shtml?subj=DHSS
+├───OK─── http://delaware.gov/help/foia_request.shtml?subj=DSHA
+├───OK─── http://delaware.gov/help/foia_request.shtml?subj=INSCOM
+├───OK─── http://delaware.gov/help/foia_request.shtml?subj=DOL
+├───OK─── http://delaware.gov/help/foia_request.shtml?subj=LTGOV
+├───OK─── http://delaware.gov/help/foia_request.shtml?subj=OMB
+├───OK─── http://www.delawarenationalguard.com/foia/
+├───OK─── http://delaware.gov/help/foia_request.shtml?subj=DNREC
+├───OK─── http://delaware.gov/help/foia_request.shtml?subj=PAR
+├───OK─── http://delaware.gov/help/foia_request.shtml?subj=OPA
+├───OK─── http://delaware.gov/help/foia_request.shtml?subj=PIC
+├───OK─── http://delaware.gov/help/foia_request.shtml?subj=DPH
+├───OK─── http://delaware.gov/help/foia_request.shtml?subj=PSC
+├───OK─── http://delaware.gov/help/foia_request.shtml?subj=DSHS
+├───OK─── http://delaware.gov/help/foia_request.shtml?subj=DOS
+├───OK─── http://delaware.gov/help/foia_request.shtml?subj=TREAS
+├───OK─── http://delaware.gov/help/foia_request.shtml?subj=DTI
+├───OK─── http://delaware.gov/help/foia_request.shtml?subj=DELDOT
+├───OK─── http://delaware.gov/help/foia_request.shtml?subj=DNREC-WHS
+├───OK─── http://delaware.gov/help/foia_request.shtml?subj=DNREC-WS
+├───OK─── http://delaware.gov/help/foia_request.shtml?subj=DNREC-W
+├───OK─── http://delaware.gov/help/foia_request.shtml?subj=OTHER
+├───OK─── http://auditor.delaware.gov/wp-content/uploads/sites/40/2017/01/FOIA-Policy.pdf
+├───OK─── http://dnrec.alpha.delaware.gov/foia/
+├───OK─── http://dti.delaware.gov/information/FOIAPolicies.shtml
+├───OK─── http://dhss.delaware.gov/dhss/dph/morefaqsfoia.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dph/hsp/feir.html
+├───OK─── http://www.doe.k12.de.us/domain/196
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 165 links found. 109 excluded. 2 broken.
+
+Getting links from: https://de.gov/topics/transparency
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=delaware.gov/topics/transparency.shtml
+├───OK─── https://de.gov/topics/img/topics_transparency.jpg
+├───OK─── http://data.delaware.gov/
+├───OK─── http://checkbook.delaware.gov/
+├───OK─── http://pcard.accounting.delaware.gov/
+├───OK─── http://profiles.doe.k12.de.us/SchoolProfiles/State/Finance.aspx
+├───OK─── http://finance.delaware.gov/publications/Financial_Reports.shtml
+├───OK─── https://finance.delaware.gov/publications/Tax_Reports.shtml
+├───OK─── http://finance.delaware.gov/publications/taxpref.shtml
+├───OK─── https://business.delaware.gov/reports/
+├───OK─── http://budget.delaware.gov/budget/fy2019/index.shtml
+├───OK─── http://budget.delaware.gov/budget/fy2018/index.shtml
+├───OK─── http://budget.delaware.gov/budget/fy2017/index.shtml
+├───OK─── http://budget.delaware.gov/budget/fy2016/index.shtml
+├───OK─── http://budget.delaware.gov/budget/fy2015/index.shtml
+├───OK─── http://budget.delaware.gov/budget/fy2014/index.shtml
+├───OK─── http://budget.delaware.gov/budget/fy2013/index.shtml
+├───OK─── http://budget.delaware.gov/budget/fy2012/index.shtml
+├───OK─── http://budget.delaware.gov/budget/fy2011/index.shtml
+├───OK─── http://budget.delaware.gov/budget/fy2010/index.shtml
+├───OK─── http://budget.delaware.gov/budget/fy2009/index.shtml
+├───OK─── http://budget.delaware.gov/budget/fy2008/index.shtml
+├───OK─── http://budget.delaware.gov/budget/fy2007/index.shtml
+├───OK─── http://budget.delaware.gov/budget/fy2006/index.shtml
+├───OK─── http://budget.delaware.gov/budget/fy2005/index.shtml
+├───OK─── http://budget.delaware.gov/budget/fy2004/index.shtml
+├───OK─── http://budget.delaware.gov/budget/fy2003/index.shtml
+├───OK─── http://nccde.org/192/Budget-Information
+├───OK─── http://www.co.kent.de.us/finance.aspx
+├───OK─── http://www.sussexcountyde.gov/county-budget
+├───OK─── http://www.delaware.gov/topics/complaintsreports
+├───OK─── http://delaware.gov/topics/data.shtml
+├───OK─── http://opendata.firstmap.delaware.gov/
+├───OK─── http://regulations.delaware.gov/AdminCode/
+├───OK─── http://courts.delaware.gov/calendars/
+├───OK─── http://courtconnect.courts.delaware.gov/
+├─BROKEN─ https://ivote.de.gov/ (BLC_UNKNOWN)
+├───OK─── http://courts.delaware.gov/jeac/
+├───OK─── http://delcode.delaware.gov/sessionlaws/
+├───OK─── https://elections.delaware.gov/maps/index.shtml
+├───OK─── http://courts.delaware.gov/opinions/
+├───OK─── http://regulations.delaware.gov/services/register.shtml
+├───OK─── http://delaware.gov/topics/waterquality/index.shtml
+├───OK─── http://www.dnrec.delaware.gov/SERC/Information/Pages/DataSearch.aspx
+├───OK─── http://stateplanning.delaware.gov/plus/
+├───OK─── http://mymarketplace.delaware.gov/found-it-cheaper/form.shtml
+├───OK─── http://legis.delaware.gov/SessionCalendar
+├───OK─── http://legis.delaware.gov/AllLegislation
+├───OK─── http://egov.delaware.gov/lobs
+├───OK─── http://delaware.gov/topics/foia
+├───OK─── http://portal.delaware.gov/help/
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 168 links found. 115 excluded. 3 broken.
+
+Getting links from: https://de.gov/help/privacy
+├───OK─── http://www.addthis.com/tos
+├───OK─── http://www.google.com/intl/en_us/help/terms_maps.html
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 110 links found. 106 excluded. 2 broken.
+
+Getting links from: https://de.gov/topics/weatherpage
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=//delaware.gov/topics/weatherpage.shtml
+├───OK─── https://de.gov/topics/img/topics_weather.jpg
+├───OK─── https://de.blackboardconnect.com/
+├───OK─── http://dti.delaware.gov/pdfs/pressreleases/mca_release_%20school_closing_voice1.pdf
+├─BROKEN─ http://www.hrm.omb.delaware.gov/closings/advisory.asp (HTTP_404)
+├───OK─── http://www.hrm.omb.delaware.gov/closings/doc/blackboard-signup-instructions.pdf
+├─BROKEN─ http://www.deldot.gov/map/index.shtml?tab=TrafficCameras (HTTP_403)
+├─BROKEN─ https://www.deldot.gov/mydeldot.ejs (HTTP_403)
+├───OK─── http://www.deos.udel.edu/odd-divas/snow_current.php
+├─BROKEN─ http://www.deldot.gov/Traffic/travel_advisory/index.shtml#advisories (HTTP_403)
+├───OK─── http://forecast.weather.gov/MapClick.php?lat=38.5397&lon=-75.0681#.V8nruZgrJhE
+├───OK─── http://forecast.weather.gov/MapClick.php?lat=39.15816798900045&lon=-75.52436918999967#.V8nrP5grJhE
+├───OK─── http://forecast.weather.gov/MapClick.php?lat=39.6837&lon=-75.7497#.V8nsMJgrJhE
+├───OK─── http://forecast.weather.gov/MapClick.php?lat=39.74254677571423&lon=-75.59162294274381#.V8npXJgrJhE
+├───OK─── http://www.deos.udel.edu/
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 123 links found. 106 excluded. 6 broken.
+
+Getting links from: https://de.gov/help/degov-contact.shtml
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&:url=delaware.gov/help/index.shtml
+├───OK─── https://foia.delaware.gov/
+├─BROKEN─ https://www.delawarestatejobs.com/explore/hiring-process.shtml (HTTP_404)
+├───OK─── https://www.delaware.gov/topics/startasmallbusiness
+├───OK─── https://www.delaware.gov/topics/TaxCenter
+├─BROKEN─ https://www.sussexcountyde.gov/contact.cfm?id=18&type=1 (HTTP_404)
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 115 links found. 107 excluded. 4 broken.
+
+Getting links from: https://de.gov/topics/highered
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=delaware.gov/topics/highered.shtml
+├───OK─── https://de.gov/topics/img/topics_education-higher.jpg
+├───OK─── http://www.doe.k12.de.us/Page/316
+├───OK─── http://dedoe.schoolwires.net/Page/1953
+├───OK─── http://www.dcad.edu/
+├───OK─── https://www.gbc.edu/
+├───OK─── http://www.wesley.edu/
+├───OK─── http://www.widener.edu/
+├───OK─── http://www.wilmu.edu/
+├───OK─── http://www.doe.k12.de.us/Page/1022
+├───OK─── http://guides.lib.de.us/content.php?pid=46292&sid=341722
+├─BROKEN─ https://www.fsapubs.gov/ (ERRNO_ENOTFOUND)
+├───OK─── https://studentaid.ed.gov/sa/types/grants-scholarships/finding-scholarships
+├───OK─── http://www.doe.k12.de.us/Page/1005
+├───OK─── http://www.doe.k12.de.us/Page/996
+├───OK─── https://deeds.doe.k12.de.us/default.aspx
+├─BROKEN─ http://dpr.delaware.gov/infoguide.shtml (HTTP_404)
+├─BROKEN─ http://attorneygeneral.delaware.gov/executive/hr/summerlawclerk.shtml (HTTP_404)
+├───OK─── http://courts.delaware.gov/cle/accredited_activities.aspx
+├───OK─── http://www.dnrec.delaware.gov/BoilerSafety/Pages/TrainingSchedule.aspx
+├───OK─── http://egov.delaware.gov/PMC/#agency116
+├───OK─── http://www.dfli.org/index.cfm?ref=02000
+├───OK─── http://www.artsdel.org/opportunities/institutes.shtml
+├───OK─── http://courts.delaware.gov/childadvocate/training.stm
+├─BROKEN─ http://statefireschool.delaware.gov/locations.shtml (HTTP_404)
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 144 links found. 117 excluded. 6 broken.
+
+Getting links from: https://de.gov/topics/health
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=delaware.gov/topics/health.shtml
+├───OK─── https://de.gov/topics/img/topics_health.jpg
+├───OK─── http://dhss.delaware.gov/dhss/dph/index.html
+├───OK─── http://dhss.delaware.gov/dhss/dph/files/flufactsheet.pdf
+├───OK─── http://dhss.delaware.gov/dhss/dph/dpc/immunize-flu.html
+├───OK─── http://www.choosehealthde.com/Health-Insurance
+├───OK─── http://www.delawareinsurance.gov/health-reform/ACA.shtml
+├───OK─── http://www.dhss.delaware.gov/dhss/dsaapd/delaware.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dph/hsm/files/oralhealthresources.pdf
+├───OK─── http://delawell.delaware.gov/
+├───OK─── http://dhss.delaware.gov/dhss/dph/hsp/eht.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dsaapd/health.html
+├───OK─── http://www.dhss.delaware.gov/dph/chs/clinicshw.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dph/screen.html
+├───OK─── http://dhss.delaware.gov/dhss/dph/healthylifestyles.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dsaapd/professi.html
+├───OK─── http://www.dhss.delaware.gov/dph/ems/injuryprevention.html
+├───OK─── http://dhss.delaware.gov/dhss/dph/hsp/lead.html
+├───OK─── http://dhss.delaware.gov/dhss/dph/chs/chsservicecenters.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dph/php/alerts.html
+├───OK─── http://dhss.delaware.gov/dhss/dph/dpc/quit_tips.html
+├───OK─── http://dhss.delaware.gov/dhss/dph/chca/dphsbhchome01.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dsaapd/wellness.html
+├───OK─── http://www.delaware.gov/topics/publicsafety
+├───OK─── http://www.dhss.delaware.gov/dhss/dph/dpc/cancer.html
+├───OK─── http://dhss.delaware.gov/dhss/dph/dpc/cancer.html
+├───OK─── http://dhss.delaware.gov/dhss/dph/dpc/rptdisease.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dph/dpc/ciaa_info.html
+├───OK─── http://www.dhss.delaware.gov/dph/dpc/diabetesprog.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dsaapd/disease.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dph/epi/epi.html
+├───OK─── http://dhss.delaware.gov/dhss/dph/dpc/dpcsection.html
+├───OK─── http://www.dhss.delaware.gov/dph/dpc/hivwellness.html
+├───OK─── http://www.dhss.delaware.gov/dph/dpc/hivsurveillance.html
+├───OK─── http://www.dhss.delaware.gov/dph/dpc/stdhiv.html
+├───OK─── http://dhss.delaware.gov/dhss/dph/dpc/hivctsites.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dph/dpc/perinatalhiv.html
+├───OK─── http://dhss.delaware.gov/dhss/dph/pandemicflu.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dph/dpc/tobacco.html
+├───OK─── http://www.delawareinsurance.gov/services/elderinfo.shtml
+├───OK─── http://www.dhss.delaware.gov/dph/chca/dphwicbfhom01.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dph/mh/owh.html
+├───OK─── http://dhss.delaware.gov/dhss/dph/chs/chssmartstart.html
+├───OK─── http://commissionforwomen.delaware.gov/issues.shtml
+├───OK─── http://dhss.delaware.gov/dhss/admin/wwe2007/wwe_mammogrambus.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dph/files/womensoralhealthpi.pdf
+├───OK─── http://www.dhss.delaware.gov/dph/chca/dphfpservices2.html
+├───OK─── http://www.dhss.delaware.gov/dph/chca/dphfpservices3.html
+├───OK─── http://dhss.delaware.gov/dhss/dph/chca/dphfpservices1a.html
+├───OK─── http://dhss.delaware.gov/dhss/dph/chca/dphahtpp01.html
+├───OK─── http://www.delaware.gov/topics/children
+├───OK─── http://www.dhss.delaware.gov/dhss/main/disabil.htm
+├───OK─── http://www.dhss.delaware.gov/dhss/dsaapd/
+├───OK─── http://www.dhss.delaware.gov/dhss/dsaapd/headinj.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dsaapd/caregive.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dsaapd/publica.html
+├───OK─── http://www.dhss.delaware.gov/dhss/main/aging.htm
+├───OK─── http://dhss.delaware.gov/dhss/dsamh/crisis_intervention.html
+├───OK─── http://dhss.delaware.gov/dhss/dsamh/drgcourt.html
+├───OK─── http://dhss.delaware.gov/dhss/dsamh/tasc.html
+├───OK─── http://dhss.delaware.gov/dhss/dsamh/index.html
+├───OK─── http://dhss.delaware.gov/dhss/dsamh/sarepstats.html
+├───OK─── https://www.cdhs.udel.edu/
+├───OK─── http://dhss.delaware.gov/dhss/dsamh/train.html
+├───OK─── http://www.doc.delaware.gov/BCHS/index.shtml
+├───OK─── http://www.dhss.delaware.gov/dhss/dsaapd/advance1.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dph/dpc/brfsurveys.html
+├───OK─── http://dhcc.delaware.gov/information/pub.shtml
+├───OK─── http://www.dhss.delaware.gov/dhss/dsaapd/demogr.html
+├───OK─── http://www.dhss.delaware.gov/dph/dpc/diabetes_library.html
+├───OK─── http://dhss.delaware.gov/dhss/dph/factsheetsaz.html
+├───OK─── http://www.dhss.delaware.gov/dhss/main/mmedia/videos/
+├───OK─── http://www.dhss.delaware.gov/dph/dpc/consortium.html
+├───OK─── http://dhcc.delaware.gov/
+├───OK─── http://dhss.delaware.gov/dhss/healthfund/
+├───OK─── http://dhcc.delaware.gov/information/dhin.shtml
+├───OK─── http://cchnet.net/
+├───OK─── http://www.debreastcancer.org/
+├───OK─── http://www.delawarehospice.org/
+├───OK─── http://www.deproblemgambling.org/Recovery/Recovery/Gamblers-Anonymous
+├───OK─── http://www.redcross.org/local/maryland-delaware/chapters/delmarva
+├───OK─── http://www.socialsecurity.gov/pgm/links_disability.htm
+├───OK─── http://www.strokenetwork.org/
+├───OK─── http://www.cheerde.com/
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 196 links found. 110 excluded. 2 broken.
+
+Getting links from: https://de.gov/topics/agencylist_dept
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=delaware.gov/topics/agencylist_dept
+├─BROKEN─ http://agriculture.delaware.gov/agcompl/ (HTTP_404)
+├─BROKEN─ http://agriculture.delaware.gov/foodprod/ (HTTP_404)
+├─BROKEN─ http://agriculture.delaware.gov/forestry/ (HTTP_404)
+├───OK─── http://agriculture.delaware.gov/harness/
+├─BROKEN─ http://agriculture.delaware.gov/education/education_programs.shtml (HTTP_404)
+├───OK─── http://agriculture.delaware.gov/aglands/
+├─BROKEN─ http://agriculture.delaware.gov/marketing/ (HTTP_404)
+├─BROKEN─ http://agriculture.delaware.gov/nutrients/ (HTTP_404)
+├─BROKEN─ http://agriculture.delaware.gov/pesticides/ (HTTP_404)
+├─BROKEN─ http://agriculture.delaware.gov/plantind/ (HTTP_404)
+├─BROKEN─ http://agriculture.delaware.gov/poultryah/ (HTTP_404)
+├───OK─── http://agriculture.delaware.gov/thoroughbred/
+├─BROKEN─ http://agriculture.delaware.gov/weightsm/ (HTTP_404)
+├───OK─── http://www.dtcc.edu/owens/
+├───OK─── http://www.dtcc.edu/stanton-wilmington/
+├───OK─── http://www.dtcc.edu/terry/
+├─BROKEN─ http://www.capehenlopenschools.com/pages/Cape_Henlopen_School_District (HTTP_404)
+├─BROKEN─ http://www.colonial.k12.de.us/ (HTTP_undefined)
+├───OK─── http://www.polytechpanthers.com/
+├─BROKEN─ http://www.redclay.k12.de.us/ (HTTP_404)
+├─BROKEN─ http://sussex.de.schoolwebpages.com/education/school/school.php?sectionid=2 (HTTP_503)
+├───OK─── http://www.dhss.delaware.gov/dhss/ddds/index.html
+├───OK─── http://date.delaware.gov/
+├───OK─── http://inscov.delaware.gov/
+├───OK─── http://www.delawareworks.com/
+├─BROKEN─ http://www.delawarenationalguard.com/ (HTTP_undefined)
+├─BROKEN─ http://www.delawarenationalguard.com/ (HTTP_undefined)
+├───OK─── http://www.dnrec.delaware.gov/fw/Pages/FWPortal.aspx
+├───OK─── http://www.destateparks.com/index.asp
+├───OK─── http://www.dnrec.delaware.gov/dwhs/Pages/default.aspx
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/ (HTTP_403)
+├───OK─── https://de.gov/portalimg/portal_dyk_logcabin.jpg
+├───OK─── http://www.agriculturalmuseum.org/
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 293 links found. 256 excluded. 20 broken.
+
+Getting links from: https://de.gov/locationsdirectory/whatson/
+Finished! 58 links found. 58 excluded. 0 broken.
+
+Getting links from: https://de.gov/locationsdirectory/delawarerecycling/
+Finished! 58 links found. 58 excluded. 0 broken.
+
+Getting links from: https://de.gov/locationsdirectory/delawarelibraries/
+Finished! 58 links found. 58 excluded. 0 broken.
+
+Getting links from: https://de.gov/locationsdirectory/tourism/
+Finished! 58 links found. 58 excluded. 0 broken.
+
+Getting links from: https://de.gov/topics/vehicles
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=delaware.gov/topics/vehicles.shtml
+├───OK─── https://de.gov/topics/img/topics_motorvehicles.jpg
+├─BROKEN─ http://www.dartfirststate.com/information/routes/index.shtml (HTTP_403)
+├─BROKEN─ http://www.dartfirststate.com/information/getting_there/outlet_sched/ (HTTP_403)
+├─BROKEN─ http://www.dartfirststate.com/ (HTTP_403)
+├─BROKEN─ http://www.dartfirststate.com/dartcard/index.shtml (HTTP_403)
+├─BROKEN─ http://www.dartfirststate.com/information/getting_there/dartcard/dartcard_outlets.shtml (HTTP_403)
+├─BROKEN─ http://www.dartfirststate.com/dtc.ejs?command=PublicDTCReservation (HTTP_403)
+├─BROKEN─ http://www.dartfirststate.com/information/getting_there/index.shtml (HTTP_403)
+├─BROKEN─ http://www.dartfirststate.com/information/programs/bike/index.shtml (HTTP_403)
+├─BROKEN─ http://www.dartfirststate.com/information/programs/rideshare/index.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/faqs/ve_faqs_boat.shtml (HTTP_403)
+├───OK─── http://www.dnrec.delaware.gov/fw/Services/Pages/Boat-Reg.aspx
+├─BROKEN─ https://www.dmv.de.gov/forms/forms_manuals.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/reg/ve_reg_weight.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/titles/ve_title_credit.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/vehicle_svcs.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/reg/ve_reg_ohv.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/titles/ve_title_used.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/vehicle_svcs.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/titles/ve_title_sold_outstate.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/titles/ve_title_general.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/titles/ve_title_duplicate.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/titles/ve_title_leased.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/titles/ve_title_mobile.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/titles/ve_title_odometer.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/titles/ve_title_outstate.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/faqs/ve_faqs_vehicle_titles.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/reg/ve_reg_handicap.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/reg/ve_reg_sp_tags.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/faqs/license_plate_stolen.pdf (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/tags/vehicle_tags_vanity.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/reg/ve_reg_duplicate.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/reg/ve_reg_renewal.shtml (HTTP_403)
+├───OK─── http://www.dnrec.delaware.gov/dwhs/Info/Regs/Pages/R1131SB215.aspx
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/faqs/ve_faqs_inspection.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/other/ve_other_feechart.shtml (HTTP_403)
+├───OK─── http://www.delawareinsurance.gov/services/arbitration.shtml
+├───OK─── http://www.delawareinsurance.gov/
+├───OK─── http://www.delawareinsurance.gov/Guides/AutoGuide.pdf
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/reg/ve_reg_insurance.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/driver_services/drivers_license/dr_lic_cdl.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/driver_services/drivers_license/dr_lic_apply.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/driver_services/faqs/dr_faq_idchanges.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf?061609 (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/driver_services/driver_svcs.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/driver_services/drivers_license/dr_lic_gen_req.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/driver_services/drivers_license/dr_lic_grad_dl.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/forms/veh_serv_forms/pdfs/ve_frm_newresid.pdf (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/driver_services/drivers_license/dr_lic_idcard.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/driver_services/drivers_license/dr_lic_renewals.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/driver_services/driver_improvement/dr_di_revocation.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/driver_services/driver_improvement/dr_di_suspension.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/driver_services/drivers_license/dr_lic_permanent.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/driver_services/driving_courses/dr_crs_aggressive.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/driver_services/defensive_driving.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/driver_services/faqs/dr_faq_di.shtml (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/mfta/mfta.ejs?Command=ViewLicenseList&License_Type=07&License_Station_Operation_Type=03 (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_motorcycle_updated.pdf?052711pm (HTTP_403)
+├───OK─── http://ohs.delaware.gov/aggdrive.shtml
+├───OK─── http://ohs.delaware.gov/pedestrian.shtml
+├───OK─── http://ohs.delaware.gov/impaired.shtml
+├─BROKEN─ http://www.deldot.gov/information/red_light/index.shtml (HTTP_403)
+├───OK─── http://ohs.delaware.gov/seatbelts.shtml
+├─BROKEN─ http://www.dmv.de.gov/services/driver_services/driver_improvement/dr_di_medical.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/forms/veh_serv_forms/pdfs/ve_frm_dlrmanual.pdf?102212 (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/dealer/ve_dlr_info.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/dealer/ve_dlr_lictax.shtml (HTTP_403)
+├───OK─── http://www.banking.delaware.gov/applicense/mvintro.shtml
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 184 links found. 113 excluded. 59 broken.
+
+Getting links from: https://de.gov/topics/complaintsreports
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=delaware.gov/topics/complaintsreports.shtml
+├───OK─── https://de.gov/topics/img/topics_complaints.jpg
+├───OK─── http://depsc.delaware.gov/frm_cmplnt.shtml
+├───OK─── http://attorneygeneral.delaware.gov/fraud/cpu/complaint/
+├───OK─── http://www.dhss.delaware.gov/dhss/dph/hsp/foodsafety.html
+├───OK─── http://attorneygeneral.delaware.gov/fraud/cpu/idtheft/
+├─BROKEN─ http://statehumanrelations.delaware.gov/services/EAIntake_questionnaire.pdf (HTTP_404)
+├─BROKEN─ http://statehumanrelations.delaware.gov/services/HousingIntakequestionnaire.pdf (HTTP_404)
+├───OK─── http://kids.delaware.gov/fs/fs_iseethesigns.shtml
+├───OK─── http://www.dhss.delaware.gov/dhss/dltcrp/
+├───OK─── http://dnrec.alpha.delaware.gov/community-services/enforcement/
+├─BROKEN─ https://www.deldot.gov/Traffic/ReportRoadCondition/index.shtml (HTTP_403)
+├───OK─── http://www.dnrec.delaware.gov/fw/Hunting/Pages/OpGameTheft.aspx
+├───OK─── http://banking.delaware.gov/consumer-complaints/
+├───OK─── http://insurance.delaware.gov/services/filecomplaint/
+├───OK─── http://attorneygeneral.delaware.gov/fraud/ipu/investors/
+├───OK─── https://www.dape.org/Pages/how-to-file-a-complaint
+├───OK─── http://courts.delaware.gov/odc/judges.aspx
+├───OK─── http://courts.delaware.gov/odc/lawyer.aspx
+├───OK─── https://dpr.delaware.gov/boards/investigativeunit/filecomplaint/
+├───OK─── http://finance.delaware.gov/publications/tab_rules/tabfunctions.shtml
+├───OK─── http://elections.delaware.gov/voter/complaints.shtml
+├───OK─── http://hava.delaware.gov/voting/complaint.shtml
+├───OK─── http://gss.omb.delaware.gov/fleet/complaint-form.shtml
+├───OK─── http://auditor.delaware.gov/report-fraud-abuse/
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 135 links found. 108 excluded. 5 broken.
+
+Getting links from: https://de.gov/topics/legal
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=delaware.gov/topics/legal.shtml
+├───OK─── https://de.gov/topics/img/topics_justice.jpg
+├───OK─── http://courts.delaware.gov/rules/pdf/handbook.pdf#search=appellate
+├───OK─── http://courts.delaware.gov/Help/Appeals/
+├───OK─── http://courts.delaware.gov/Locations/
+├───OK─── http://courts.delaware.gov/Help/Proceedings/
+├───OK─── http://attorneygeneral.delaware.gov/criminal/stepsintrial/
+├───OK─── http://courts.delaware.gov/chancery/
+├───OK─── http://courts.delaware.gov/CommonPleas/
+├───OK─── http://courts.delaware.gov/family/
+├───OK─── http://courts.delaware.gov/forms/
+├───OK─── http://courts.delaware.gov/jpcourt/
+├───OK─── http://courts.delaware.gov/opinions/(fvdqcvfu1ygux245umot5y55)/List.aspx
+├───OK─── http://courts.delaware.gov/superior/
+├───OK─── http://courts.delaware.gov/Supreme/
+├───OK─── http://guides.lib.de.us/childsexualabuse
+├───OK─── http://attorneygeneral.delaware.gov/family/
+├───OK─── http://courts.delaware.gov/family/support/index.aspx
+├───OK─── http://courts.delaware.gov/family/SupportCalculator/Disclaimer
+├───OK─── http://attorneygeneral.delaware.gov/criminal/units/domesticviolence/
+├───OK─── http://courts.delaware.gov/help/Proceedings/fc_criminal.aspx
+├───OK─── http://courts.delaware.gov/family/guardianship/index.aspx
+├───OK─── http://courts.delaware.gov/family/guardianshippermanent/index.aspx
+├───OK─── http://courts.delaware.gov/family/expeditedrelief/index.aspx
+├───OK─── http://courts.delaware.gov/Family/legalcare.aspx
+├───OK─── http://courts.delaware.gov/family/pfa/index.aspx
+├───OK─── http://attorneygeneral.delaware.gov/wp-content/uploads/sites/50/2017/03/donotcallbroc.pdf
+├───OK─── http://attorneygeneral.delaware.gov/fraud/mfcu/
+├───OK─── http://dti.delaware.gov/information/cyberpdfs/eSecurityNewsApr2007.pdf
+├───OK─── http://courts.delaware.gov/superior/jury/jury_reporting.aspx
+├───OK─── http://courts.delaware.gov/superior/jury/jury_form.aspx
+├───OK─── http://courts.delaware.gov/superior/jury/jury_faq.aspx
+├───OK─── http://courts.delaware.gov/superior/jury/index.aspx
+├───OK─── http://dsp.delaware.gov/Videos/dspplayer.html
+├───OK─── http://dsp.delaware.gov/training_academy.shtml
+├───OK─── http://dsp.delaware.gov/locations.shtml
+├───OK─── http://courts.delaware.gov/help/ChangeName/index.aspx
+├───OK─── http://courts.delaware.gov/forms/download.aspx?id=15478
+├───OK─── http://courts.delaware.gov/help/Garagekeeper/index.aspx
+├───OK─── http://courts.delaware.gov/help/generalcivil.aspx
+├───OK─── http://courts.delaware.gov/help/LandlordTenant/index.aspx
+├───OK─── http://courts.delaware.gov/family/divorce/index.aspx
+├───OK─── http://courts.delaware.gov/help/legalassistance.aspx
+├───OK─── http://courts.delaware.gov/superior/weapons.aspx
+├───OK─── http://courts.delaware.gov/help/expungements.aspx
+├───OK─── http://courts.delaware.gov/help/Bail/index.aspx
+├───OK─── http://courts.delaware.gov/family/custody/index.aspx
+├───OK─── http://courts.delaware.gov/family/custodymod/index.aspx
+├───OK─── http://courts.delaware.gov/forms/list.aspx?sec=Forms&sub=Visitation
+├───OK─── http://courts.delaware.gov/help/#appeals
+├───OK─── http://courts.delaware.gov/help/jp_property.aspx
+├───OK─── http://courts.delaware.gov/superior/trade_names.aspx
+├───OK─── http://courts.delaware.gov/help/Traffic/index.aspx
+├───OK─── http://delcode.delaware.gov/title3/c079/index.shtml#TopOfPage
+├───OK─── http://attorneygeneral.delaware.gov/criminal/victims_phone/
+├───OK─── http://attorneygeneral.delaware.gov/criminal/victims_guide/
+├───OK─── http://deljis.delaware.gov/vines.shtml
+├───OK─── http://courts.delaware.gov/superior/elitigation/tech_asop.aspx
+├───OK─── http://attorneygeneral.delaware.gov/criminal/concealed-carry-deadly-weapons-ccdw/
+├───OK─── http://deljis.delaware.gov/default.shtml
+├───OK─── http://courts.delaware.gov/superior/eLitigation/tech_efile.aspx
+├───OK─── http://courts.delaware.gov/supreme/efiling.aspx
+├───OK─── http://courts.delaware.gov/supreme/oralarguments/
+├───OK─── https://de.gov/portalimg/portal_dyk_winterthur.jpg
+├───OK─── http://www.winterthur.org/
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 195 links found. 128 excluded. 2 broken.
+
+Getting links from: https://de.gov/topics/incorporateindelaware
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=delaware.gov/topics/incorporateindelaware.shtml
+├───OK─── https://de.gov/topics/img/topics_incorporate.jpg
+├───OK─── http://corp.delaware.gov/whydelaware/whycorporations_web.pdf
+├───OK─── https://corp.delaware.gov/whydelaware/whycorporations_thumb.gif
+├───OK─── http://corplaw.delaware.gov/
+├───OK─── http://corp.delaware.gov/DElaw.shtml
+├───OK─── http://courts.delaware.gov/Chancery/index.stm/
+├───OK─── http://revenue.delaware.gov/services/Business_Tax/Doing_Business.shtml
+├───OK─── http://corp.delaware.gov/newentit09.shtml
+├───OK─── http://www.delawareworks.com/OOLMI/welcome.shtml
+├───OK─── http://revenue.delaware.gov/services/BlueC.shtml
+├───OK─── http://www.dnrec.delaware.gov/dwhs/SIRB/Pages/Brownfields.aspx
+├───OK─── http://www.demep.org/
+├───OK─── http://www.delaware.gov/topics/TaxCenter
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 136 links found. 120 excluded. 2 broken.
+
+Getting links from: https://de.gov/topics/startasmallbusiness
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=delaware.gov/topics/startasmallbusiness.shtml
+├───OK─── http://www.scoredelaware.org/
+├─BROKEN─ http://inde.delaware.gov/BusinessServices/BusinessFinancing/BusinessFinancing_Brownfield.shtml?businesfinancing (BLC_UNKNOWN)
+├─BROKEN─ https://icis.corp.delaware.gov/Ecorp/Login.aspx?FilingType=UCC (HTTP_503)
+├───OK─── https://de.gov/portalimg/portal_dyk_lighthouse.jpg
+├─BROKEN─ http://www.fenwickisland.org/ (BLC_UNKNOWN)
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 126 links found. 118 excluded. 5 broken.
+
+Getting links from: https://de.gov/topics/agribusiness.shtml
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=delaware.gov/topics/agribusiness.shtml
+├───OK─── https://de.gov/topics/img/topics_agribusiness.jpg
+├───OK─── http://dda.delaware.gov/agcompl/index.shtml
+├───OK─── http://www.dnrec.delaware.gov/wr/Information/GWDInfo/Pages/GroundWaterDischargesLicensesandLicensees.aspx
+├───OK─── http://dda.delaware.gov/plantind/forms/Nurs_Ind_Lic_App.pdf
+├───OK─── http://dda.delaware.gov/pesticides/Pest_cert.shtml
+├───OK─── http://dda.delaware.gov/pesticides/Pest_businessLicensing.shtml
+├───OK─── http://dda.delaware.gov/weightsm/downloads/App_WMLicense_fillable.pdf%22
+├───OK─── http://dda.delaware.gov/pesticides/Pest_gwater.shtml
+├───OK─── http://dda.delaware.gov/pesticides/Pest_calendar.shtml
+├───OK─── http://www.kellysolutions.com/de/Applicators/Courses/courseindex.htm
+├───OK─── http://dda.delaware.gov/pesticides/downloads/Pest_buslic_broch_022812.pdf
+├───OK─── http://www.kellysolutions.com/de/pesticideindex.htm
+├───OK─── https://www.nass.usda.gov/Statistics_by_State/Delaware/
+├───OK─── http://www.nass.usda.gov/Quick_Stats/Ag_Overview/stateOverview.php?state=DELAWARE
+├─BROKEN─ http://www.agcensus.usda.gov/Publications/2002/Census_by_State/Delaware/index.asp (HTTP_404)
+├───OK─── http://www.nass.usda.gov/Statistics_by_State/Delaware/Publications/
+├───OK─── https://www.nass.usda.gov/Statistics_by_State/Delaware/index.php
+├───OK─── http://www.doe.k12.de.us/Page/2453
+├───OK─── http://extension.udel.edu/
+├───OK─── http://dda.delaware.gov/forestry/conser.shtml#Urban
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 138 links found. 115 excluded. 3 broken.
+
+Getting links from: https://de.gov/topics/annualreports.shtml
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=delaware.gov/annualreports/
+├───OK─── http://delaware.contentdm.oclc.org/cdm/search/collection/p16397coll14
+├───OK─── https://de.gov/topics/img/topics_annualreports.jpg
+├───OK─── http://delcode.delaware.gov/sessionlaws/ga147/chp274.shtml
+├───OK─── http://delaware.contentdm.oclc.org/cdm/ref/collection/p16397coll14/id/151
+├───OK─── http://delaware.contentdm.oclc.org/cdm/ref/collection/p16397coll14/id/149
+├───OK─── http://delaware.contentdm.oclc.org/cdm/ref/collection/p16397coll14/id/148
+├───OK─── http://delaware.contentdm.oclc.org/cdm/ref/collection/p16397coll14/id/147
+├───OK─── http://delaware.contentdm.oclc.org/cdm/ref/collection/p16397coll14/id/146
+├───OK─── http://archives.delaware.gov/checklists/index.shtml?id=&fname=&lname=&keyword=&intention=State%20Reports&searchtype=bykeyword&sortFieldName=
+├───OK─── http://archives.delaware.gov/collections/collections.shtml
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 113 links found. 101 excluded. 1 broken.
+
+Getting links from: https://de.gov/topics/relocateexpand.shtml
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=delaware.gov/topics/relocateexpand.shtml
+├───OK─── https://de.gov/topics/img/topics_business.jpg
+├───OK─── http://global.delaware.gov/invest/why-delaware/
+├───OK─── http://www.destatehousing.com/OtherPrograms/ot_naa.php
+├───OK─── http://revenue.delaware.gov/services/Business_Tax/FilingCIT.shtml
+├───OK─── http://www.de.gov/topics/TaxCenter
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 125 links found. 117 excluded. 2 broken.
+
+Getting links from: https://de.gov/topics/certificates.shtml
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=delaware.gov/topics/certificates.shtml
+├───OK─── https://de.gov/topics/img/topics_certificates.jpg
+├───OK─── http://archives.delaware.gov/collections/vital.shtml
+├───OK─── http://www.dhss.delaware.gov/dhss/dph/ss/vitalstats.html
+├───OK─── https://courts.delaware.gov/family/divorce/decree_copies.aspx
+├───OK─── http://courts.delaware.gov/Superior/
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 122 links found. 114 excluded. 2 broken.
+
+Getting links from: https://de.gov/topics/complaintsreports.shtml
+├─BROKEN─ http://statehumanrelations.delaware.gov/services/EAIntake_questionnaire.pdf (HTTP_404)
+├─BROKEN─ http://statehumanrelations.delaware.gov/services/HousingIntakequestionnaire.pdf (HTTP_404)
+├─BROKEN─ https://www.deldot.gov/Traffic/ReportRoadCondition/index.shtml (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 136 links found. 131 excluded. 5 broken.
+
+Getting links from: https://de.gov/topics/doingbusiness.shtml
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 133 links found. 131 excluded. 2 broken.
+
+Getting links from: https://de.gov/topics/k12ed.shtml
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=delaware.gov/topics/k12ed.shtml
+├───OK─── https://de.gov/topics/img/topics_education-k12.jpg
+├───OK─── https://pubapps.doe.k12.de.us/EducationalDirectoryPublic/default.aspx
+├───OK─── http://de.gov/topics/subscribeemail
+├───OK─── http://www.doe.k12.de.us/domain/111
+├───OK─── http://www.doe.k12.de.us/domain/146
+├───OK─── http://www.doe.k12.de.us/domain/65
+├───OK─── http://www.doe.k12.de.us/domain/200
+├───OK─── http://www.techprepdelaware.org/
+├───OK─── http://www.doe.k12.de.us/domain/195
+├───OK─── http://www.doe.k12.de.us/Page/1648
+├───OK─── http://profiles.doe.k12.de.us/SchoolProfiles/State/Default.aspx
+├───OK─── http://www.doe.k12.de.us/domain/163
+├───OK─── http://www.doe.k12.de.us/domain/151
+├───OK─── http://www.doe.k12.de.us/domain/191
+├─BROKEN─ http://kids.delaware.gov/yrs/yrs_ferris.shtml (HTTP_404)
+├───OK─── http://guides.lib.de.us/education
+├───OK─── https://www.capehenlopenschools.com/chsd
+├───OK─── http://www.capital.k12.de.us/se3bin/clientschool.cgi?schoolname=school504
+├─BROKEN─ http://www.colonial.k12.de.us/ (HTTP_undefined)
+├───OK─── http://www.polytechschooldistrict.com/
+├───OK─── https://www.redclayschools.com/
+├───OK─── http://www.sussexvt.k12.de.us/
+├───OK─── http://www.dhss.delaware.gov/dhss/dsaapd/delaware1.html
+├───OK─── https://www.doe.k12.de.us/site/Default.aspx?PageID=3267
+├───OK─── http://www.doe.k12.de.us/domain/140
+├───OK─── http://www.dcdal.org/
+├───OK─── http://www.doe.k12.de.us/domain/78
+├───OK─── https://www.doe.k12.de.us/Page/2930
+├───OK─── http://webopac.klas.com/debph
+├───OK─── http://answers.delawarelibraries.org/
+├───OK─── http://www.lib.de.us/
+├───OK─── http://nccde.org/286/Libraries
+├───OK─── https://wilmington.lib.de.us/
+├───OK─── http://www.doe.k12.de.us/domain/72
+├───OK─── http://www.dcet.k12.de.us/default.shtml
+├───OK─── https://www.doe.k12.de.us/site/Default.aspx?PageID=2&PageType=17&DomainID=4&ModuleInstanceID=1&EventDateID=6048
+├───OK─── http://www.dcet.k12.de.us/ditc/index.shtml
+├───OK─── https://www.doe.k12.de.us/Page/2979
+├───OK─── http://www.doe.k12.de.us/Page/2
+├───OK─── http://www.udel.edu/itug/
+├───OK─── http://www.doe.k12.de.us/domain/185
+├───OK─── https://www.doe.k12.de.us/domain/209
+├───OK─── http://www.doe.k12.de.us/domain/172
+├───OK─── http://www.udel.edu/artc/
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 172 links found. 125 excluded. 4 broken.
+
+Getting links from: https://de.gov/topics/highered.shtml
+├─BROKEN─ https://www.fsapubs.gov/ (HTTP_undefined)
+├─BROKEN─ http://dpr.delaware.gov/infoguide.shtml (HTTP_404)
+├─BROKEN─ http://attorneygeneral.delaware.gov/executive/hr/summerlawclerk.shtml (HTTP_404)
+├─BROKEN─ http://statefireschool.delaware.gov/locations.shtml (HTTP_404)
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 145 links found. 139 excluded. 6 broken.
+
+Getting links from: https://de.gov/topics/energytips.shtml
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=delaware.gov/topics/energytips.shtml
+├───OK─── https://de.gov/topics/img/topics_energy.jpg
+├───OK─── http://portal.delaware.gov/winterenergyhelp/media_winterenergyhelp/100Ways.pdf
+├───OK─── http://energy.gov/energysaver/downloads/energy-savers-guide
+├───OK─── http://www.energyhog.org/
+├───OK─── http://energy.gov/savings/residential-renewable-energy-tax-credit
+├───OK─── http://www.delaware211.org/
+├───OK─── http://www.dhss.delaware.gov/dhss/dssc/liheap.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dss/fpl.html
+├───OK─── http://www.chesapeakesharing.com/
+├─BROKEN─ http://www.delmarva.com/my-home/pay-my-bill/payment-assistance/enroll-in-budget-billing/ (HTTP_404)
+├─BROKEN─ http://www.delmarva.com/my-home/pay-my-bill/payment-assistance/support-and-assistance-programs/ (HTTP_404)
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 121 links found. 107 excluded. 4 broken.
+
+Getting links from: https://de.gov/topics/environment.shtml
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=delaware.gov/topics/environment.shtml
+├───OK─── https://de.gov/topics/img/topics_environment.jpg
+├───OK─── https://dnrec.alpha.delaware.gov/climate-change/
+├───OK─── http://dnrec.alpha.delaware.gov/coastal-programs/
+├───OK─── https://dnrec.alpha.delaware.gov/divisions/
+├───OK─── https://dnrec.alpha.delaware.gov/contacts/
+├───OK─── https://dnrec.alpha.delaware.gov/public-meeting-calendars/
+├───OK─── http://www.dnrec.delaware.gov/serc/Pages/Default.aspx
+├───OK─── https://dnrec.alpha.delaware.gov/outdoors-and-recreation/
+├───OK─── https://dnrec.alpha.delaware.gov/permitting-regulation/
+├───OK─── http://guides.lib.de.us/content.php?pid=38087&sid=279839
+├───OK─── http://www.dnrec.delaware.gov/dwhs/EPR/Pages/RespGroup.aspx
+├───OK─── http://www.dnrec.delaware.gov/swc/Pages/CoastalConsBeachPres.aspx
+├───OK─── http://stateplanning.delaware.gov/information/counties.shtml
+├───OK─── http://portal.delaware.gov/locations/
+├───OK─── http://dnrec.alpha.delaware.gov/coastal-programs/research-reserve/
+├───OK─── http://www.dnrec.delaware.gov/services/Pages/Forms.aspx
+├───OK─── http://stateplanning.delaware.gov/
+├───OK─── https://dnrec.alpha.delaware.gov/environmental-finance/
+├───OK─── http://www.dnrec.delaware.gov/swc/Shoreline/Pages/Shoreline.aspx
+├─BROKEN─ http://stateplanning.delaware.gov/strategies/strategies.shtml (HTTP_404)
+├───OK─── http://www.dnrec.delaware.gov/wholebasin/Pages/index.aspx
+├───OK─── http://regulations.delaware.gov/AdminCode/title7/1000/1100/index.shtml
+├───OK─── http://www.dnrec.delaware.gov/Air/Pages/OBCitizensGuide.aspx
+├───OK─── http://www.dnrec.delaware.gov/Air/Pages/Air-Quality-Monitoring-Homepage.aspx
+├───OK─── http://www.dnrec.delaware.gov/Air/Pages/Pollen-Count-Plan.aspx
+├───OK─── http://apps.dnrec.delaware.gov/AirMonitoring/
+├───OK─── http://www.dnrec.delaware.gov/fw/Fisheries/Pages/ArtificialReefProgram.aspx
+├───OK─── http://apps.dnrec.state.de.us/RecWater/MoreInfo.aspx
+├───OK─── http://www.dgs.udel.edu/water-conditions-summary-delaware
+├───OK─── http://www.dgs.udel.edu/water-resources
+├───OK─── http://regulations.delaware.gov/register/may2016/emergency/19%20DE%20Reg%20963%2005-01-16.htm
+├───OK─── http://www.dgs.udel.edu/category/geology-keywords/surface-water
+├───OK─── http://md.water.usgs.gov/
+├───OK─── http://www.dnrec.delaware.gov/fw/Pages/Enforcement.aspx
+├───OK─── http://www.dnrec.delaware.gov/fw/Pages/More.aspx
+├───OK─── http://www.dnrec.delaware.gov/fw/Fisheries/Pages/Fisheries.aspx
+├───OK─── http://www.dnrec.delaware.gov/fw/Documents/FWinvasivespecies1.pdf
+├───OK─── http://www.dnrec.delaware.gov/fw/Services/Pages/MosquitoSection.aspx
+├───OK─── http://www.dnrec.delaware.gov/fw/Education/Pages/EducationPrograms.aspx
+├───OK─── http://dda.delaware.gov/forestry/protec.shtml
+├───OK─── http://dda.delaware.gov/forestry/educat.shtml
+├───OK─── http://www.dgs.udel.edu/delaware-geology/overview-earthquakes-delaware
+├───OK─── http://www.dgs.udel.edu/delaware-geology/what-are-geoadventures
+├───OK─── http://www.dgs.udel.edu/data
+├───OK─── http://www.dgs.udel.edu/delaware-geology/mineral-resources
+├───OK─── http://www.dgs.udel.edu/publications/sp21-geology-and-paleontology-lower-miocene-pollack-farm-fossil-site-delaware
+├───OK─── http://www.dnrec.delaware.gov/SERC/Services/Pages/ComplianceAssistance.aspx
+├───OK─── http://www.dnrec.delaware.gov/yardwaste/Pages/YardWasteHomeowners.aspx
+├───OK─── http://regulations.delaware.gov/AdminCode/title7/1000/1300/1302/index.shtml#TopOfPage
+├───OK─── http://www.dnrec.delaware.gov/dwhs/SHWMB/Pages/InfectiousWaste.aspx
+├───OK─── https://egov.dnrec.delaware.gov/egovpublic/home.jsp
+├───OK─── http://www.dnrec.delaware.gov/dwhs/SHWMB/Pages/SHWMB.aspx
+├───OK─── http://www.dnrec.delaware.gov/tanks/Pages/default.aspx
+├───OK─── http://regulations.delaware.gov/AdminCode/title7/5000/5102.shtml
+├───OK─── http://www.dnrec.delaware.gov/services/Pages/DERNS.aspx
+├───OK─── http://www.dnrec.delaware.gov/Info/Pages/GISData.aspx
+├───OK─── https://dnrec.alpha.delaware.gov/drainage-stormwater/
+├───OK─── http://www.dnrec.delaware.gov/dwhs/EPR/Pages/EPRPortal.aspx
+├───OK─── http://www.dnrec.delaware.gov/dwhs/SIRB/Pages/default.aspx
+├───OK─── http://www.dnrec.delaware.gov/swc/Shoreline/Pages/AdoptBeach.aspx
+├───OK─── http://www.dnrec.delaware.gov/swc/Drainage/Pages/DamSafety.aspx
+├───OK─── http://www.dnrec.delaware.gov/swc/district/Pages/DebrisPit.aspx
+├───OK─── http://www.dnrec.delaware.gov/p2/Pages/default.aspx
+├─BROKEN─ http://www.fenwickisland.org/ (HTTP_undefined)
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 206 links found. 139 excluded. 4 broken.
+
+Getting links from: https://de.gov/topics/facts/index.shtml
+├───OK─── http://app.na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=http://www.delaware.gov/topics/facts/index.shtml
+├───OK─── https://de.gov/topics/facts/img/topics_facts.jpg
+├───OK─── https://de.gov/topics/facts/animal.shtml
+├───OK─── https://de.gov/topics/facts/geo.shtml
+├───OK─── https://de.gov/topics/facts/gov.shtml
+├───OK─── https://de.gov/topics/facts/misc.shtml
+├───OK─── https://de.gov/topics/facts/people.shtml
+├───OK─── https://de.gov/topics/facts/geolog.shtml
+├───OK─── https://de.gov/topics/facts/insect.shtml
+├───OK─── https://de.gov/topics/facts/plant.shtml
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 116 links found. 104 excluded. 2 broken.
+
+Getting links from: https://de.gov/topics/foia.shtml
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 165 links found. 163 excluded. 2 broken.
+
+Getting links from: https://de.gov/topics/health.shtml
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 197 links found. 195 excluded. 2 broken.
+
+Getting links from: https://de.gov/topics/humanservices.shtml
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=delaware.gov/topics/humanservices.shtml
+├───OK─── https://de.gov/topics/img/topics_humans.jpg
+├───OK─── http://www.deldhub.com/
+├───OK─── http://www.de.gov/topics/children
+├───OK─── http://www.de.gov/topics/complaintsreports
+├───OK─── https://joblink.delaware.gov/ada/default.cfm
+├───OK─── http://www.de.gov/topics/health
+├───OK─── http://www.de.gov/topics/publicsafety
+├───OK─── http://www.dhss.delaware.gov/dhss/dsaapd/alzheime.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dsaapd/congregate.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dsaapd/faq.html
+├───OK─── http://dhss.delaware.gov/dhss/dssc/dhc/
+├───OK─── http://www.dhss.delaware.gov/dhss/dsaapd/intergen.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dsaapd/legal.html
+├───OK─── http://dhss.delaware.gov/dhss/dmma/medical.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dsaapd/employment.html
+├───OK─── http://www.socialsecurity.gov/
+├───OK─── http://www.dhss.delaware.gov/dhss/dsaapd/adc.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dsaapd/fostercare.html
+├───OK─── http://dhss.delaware.gov/dhss/dsaapd/home_communitybased_services.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dltcrp/assistedlivingfacilities.html
+├───OK─── http://dhss.delaware.gov/dhss/ddds/adt_spec_pop_prg.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dsaapd/resource.html
+├───OK─── http://dhss.delaware.gov/dhss/dsaapd/nursinghome.html
+├───OK─── http://www.medicare.gov/nursinghomecompare/search.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dltcrp/investigationsmain.html
+├───OK─── http://dhss.delaware.gov/dhss/dsaapd/ltcop.html
+├───OK─── http://dhss.delaware.gov/dhss/dsaapd/respite.html
+├───OK─── http://www.dati.org/
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/reg/ve_reg_handicap.shtml (HTTP_403)
+├───OK─── http://www.gacec.delaware.gov/
+├─BROKEN─ http://www.ncd.gov/ (BLC_UNKNOWN)
+├───OK─── http://www.sode.org/
+├───OK─── http://www.dhss.delaware.gov/dhss/dsaapd/attendant.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dsaapd/homemod.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dsaapd/hdm.html
+├───OK─── http://dhss.delaware.gov/dhss/main/spagispc.htm
+├───OK─── http://www.mealsonwheelsde.org/
+├───OK─── http://www.dhss.delaware.gov/dhss/dsaapd/perscare.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dsaapd/respite.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dsaapd/caregivesg.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dsaapd/fam.html
+├───OK─── http://dhss.delaware.gov/dhss/dssc/kinshipcr.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dsaapd/ldcaregive.html
+├───OK─── http://dhss.delaware.gov/dhss/dsaapd/caregive.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dltcrp/faq.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dsaapd/advance.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dss/cashast.html
+├───OK─── http://www.dhss.delaware.gov/dcse/
+├───OK─── http://gss.omb.delaware.gov/food/index.shtml
+├───OK─── http://www.dhss.delaware.gov/dhss/dss/foodstamps.html
+├───OK─── http://www.benefits.gov/benefits/benefit-finder
+├─BROKEN─ http://www.dhss.delaware.gov/dhss/dsaapd/medical.html (HTTP_500)
+├───OK─── http://www.dhss.delaware.gov/dhss/dsaapd/fraudpatrol.html
+├─BROKEN─ http://www.dmv.de.gov/services/driver_services/other/dr_oth_organ.shtml (HTTP_403)
+├───OK─── http://www.dhss.delaware.gov/dhss/dss/tanf.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dsaapd/volopp.html
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 176 links found. 117 excluded. 6 broken.
+
+Getting links from: https://de.gov/topics/incorporateindelaware.shtml
+├─BROKEN─ http://www.fenwickisland.org/ (HTTP_undefined)
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 136 links found. 133 excluded. 3 broken.
+
+Getting links from: https://de.gov/topics/legal.shtml
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 194 links found. 192 excluded. 2 broken.
+
+Getting links from: https://de.gov/topics/marriage.shtml
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=delaware.gov/topics/marriage.shtml
+├───OK─── https://de.gov/topics/img/topics_delaware_marriage.jpg
+├───OK─── http://delcode.delaware.gov/sessionlaws/ga147/chp019.shtml
+├───OK─── http://news.delaware.gov/2013/05/07/governor-signs-marriage-equality-bill-into-law/
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 110 links found. 104 excluded. 2 broken.
+
+Getting links from: https://de.gov/topics/apps.shtml
+├─BROKEN─ https://play.google.com/store/apps/details?id=com.mobimanage.delawareamp;&hl=en (HTTP_404)
+├─BROKEN─ http://m.dartfirststate.com/ (HTTP_403)
+├─BROKEN─ http://m.dartfirststate.com/ (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/mobile/index.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/mobile/index.shtml (HTTP_403)
+├─BROKEN─ http://mobile.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://mobile.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 189 links found. 180 excluded. 9 broken.
+
+Getting links from: https://de.gov/topics/vehicles.shtml
+├─BROKEN─ http://www.dartfirststate.com/information/routes/index.shtml (HTTP_403)
+├─BROKEN─ http://www.dartfirststate.com/information/getting_there/outlet_sched/ (HTTP_403)
+├─BROKEN─ http://www.dartfirststate.com/ (HTTP_403)
+├─BROKEN─ http://www.dartfirststate.com/dartcard/index.shtml (HTTP_403)
+├─BROKEN─ http://www.dartfirststate.com/information/getting_there/dartcard/dartcard_outlets.shtml (HTTP_403)
+├─BROKEN─ http://www.dartfirststate.com/dtc.ejs?command=PublicDTCReservation (HTTP_403)
+├─BROKEN─ http://www.dartfirststate.com/information/getting_there/index.shtml (HTTP_403)
+├─BROKEN─ http://www.dartfirststate.com/information/programs/bike/index.shtml (HTTP_403)
+├─BROKEN─ http://www.dartfirststate.com/information/programs/rideshare/index.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/faqs/ve_faqs_boat.shtml (HTTP_403)
+├─BROKEN─ https://www.dmv.de.gov/forms/forms_manuals.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/reg/ve_reg_weight.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/titles/ve_title_credit.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/vehicle_svcs.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/reg/ve_reg_ohv.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/titles/ve_title_used.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/vehicle_svcs.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/titles/ve_title_sold_outstate.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/titles/ve_title_general.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/titles/ve_title_duplicate.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/titles/ve_title_leased.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/titles/ve_title_mobile.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/titles/ve_title_odometer.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/titles/ve_title_outstate.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/faqs/ve_faqs_vehicle_titles.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/reg/ve_reg_handicap.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/reg/ve_reg_sp_tags.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/faqs/license_plate_stolen.pdf (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/tags/vehicle_tags_vanity.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/reg/ve_reg_duplicate.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/reg/ve_reg_renewal.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/faqs/ve_faqs_inspection.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/other/ve_other_feechart.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/reg/ve_reg_insurance.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/driver_services/drivers_license/dr_lic_cdl.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/driver_services/drivers_license/dr_lic_apply.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/driver_services/faqs/dr_faq_idchanges.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf?061609 (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/driver_services/driver_svcs.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/driver_services/drivers_license/dr_lic_gen_req.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/driver_services/drivers_license/dr_lic_grad_dl.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/forms/veh_serv_forms/pdfs/ve_frm_newresid.pdf (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/driver_services/drivers_license/dr_lic_idcard.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/driver_services/drivers_license/dr_lic_renewals.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/driver_services/driver_improvement/dr_di_revocation.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/driver_services/driver_improvement/dr_di_suspension.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/driver_services/drivers_license/dr_lic_permanent.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/driver_services/driving_courses/dr_crs_aggressive.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/driver_services/defensive_driving.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/driver_services/faqs/dr_faq_di.shtml (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/mfta/mfta.ejs?Command=ViewLicenseList&License_Type=07&License_Station_Operation_Type=03 (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_motorcycle_updated.pdf?052711pm (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/information/red_light/index.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/driver_services/driver_improvement/dr_di_medical.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/forms/veh_serv_forms/pdfs/ve_frm_dlrmanual.pdf?102212 (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/dealer/ve_dlr_info.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/dealer/ve_dlr_lictax.shtml (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 183 links found. 124 excluded. 59 broken.
+
+Getting links from: https://de.gov/topics/municipalities.shtml
+├─BROKEN─ http://www.violade.com/ (HTTP_undefined)
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 162 links found. 159 excluded. 3 broken.
+
+Getting links from: https://de.gov/topics/onlineservices.shtml
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=delaware.gov/topics/onlineservices.shtml
+├───OK─── https://de.gov/topics/img/topics_services.jpg
+├───OK─── https://egov.dnrec.delaware.gov/egovpublic/dnrec/disp?doc=LoginScreen&deptPath=public&op=showDefault&dept=5
+├───OK─── http://lib.de.us/index.php/askalibrarian/
+├─BROKEN─ https://www.deldot.gov/Programs/pedestrian_signals/pdfs/DE_Accessible_Ped_Signals_Form_rev01-23-13.pdf?121208 (HTTP_403)
+├───OK─── http://www.destateparks.com/camping/reservations.asp
+├───OK─── http://www.delaware.gov/topics/certificates
+├───OK─── https://courts.delaware.gov/Help/ChangeName/index.aspx
+├───OK─── http://dhss.delaware.gov/dhss/dss/childcr.html
+├─BROKEN─ http://www.dartfirststate.com/dartcard/ (HTTP_403)
+├───OK─── http://www.banking.delaware.gov/applicense/NMLSinfo/DEApprovedMLO.shtml
+├─BROKEN─ https://services.dmv.de.gov/public.ejs?command=PublicDuiHome (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/waittimes/waittimes.ejs (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/dmvfeecalc/feecalc.ejs (HTTP_403)
+├───OK─── http://delcode.delaware.gov/title9/c009/sc01/index.shtml#902
+├─BROKEN─ http://www.dmv.de.gov/sampledlexam/sampledlexam.ejs?command=SampleDLExamHome (HTTP_403)
+├─BROKEN─ https://deldot.gov/Programs/red_light/ (HTTP_403)
+├─BROKEN─ http://www.ezpassde.com/ (HTTP_403)
+├───OK─── https://legis.delaware.gov/FindMyLegislator
+├───OK─── https://egov.dnrec.delaware.gov/
+├───OK─── http://www.revenue.delaware.gov/pit_onlinefiling.shtml
+├───OK─── https://joblink.delaware.gov/ada/
+├─BROKEN─ http://www.delawarestatejobs.com/ (HTTP_404)
+├───OK─── http://legis.delaware.gov/billtracking
+├─BROKEN─ https://services.dmv.de.gov/public.ejs?command=PublicOdHome (HTTP_403)
+├─BROKEN─ https://ivote.de.gov/voterlogin.aspx/ (BLC_UNKNOWN)
+├─BROKEN─ http://www.deldot.gov/Traffic/travel_advisory/#advisories (HTTP_403)
+├─BROKEN─ https://desexoffender.dsp.delaware.gov/SexOffenderPublic/ (BLC_UNKNOWN)
+├───OK─── https://courts.delaware.gov/superior/pdf/efile_guidelines.pdf#search=efiling
+├───OK─── https://pubsrv.deljis.delaware.gov/ePayment/Default.aspx
+├─BROKEN─ https://services.dmv.de.gov/services/onlineServices/vanity/ (HTTP_403)
+├─BROKEN─ https://services.dmv.de.gov/public.ejs?command=PublicNotificationHome (HTTP_403)
+├─BROKEN─ https://ivote.de.gov/ (HTTP_undefined)
+├───OK─── http://delaware.gov/artistroster/
+├───OK─── https://dorweb.revenue.delaware.gov/bussrch/
+├─BROKEN─ https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx (HTTP_503)
+├─BROKEN─ https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx (HTTP_503)
+├───OK─── http://gss.omb.delaware.gov/osd/index.shtml
+├─BROKEN─ http://www.dmv.de.gov/dmvfeecalc/feecalc.ejs (HTTP_403)
+├───OK─── https://deeds.doe.k12.de.us/
+├───OK─── http://www.nav.dnrec.delaware.gov/DEN3/
+├─BROKEN─ http://www.delawarestatejobs.com/ (HTTP_404)
+├───OK─── http://depic.delaware.gov/sections/lobbying/new/index.shtml
+├───OK─── http://banking.delaware.gov/applicense/NMLSinfo/DEApprovedMLO.shtml
+├─BROKEN─ https://www.deldot.gov/osow/application/ (HTTP_403)
+├───OK─── http://regulations.delaware.gov/information/citizen.shtml
+├───OK─── http://www.courts.delaware.gov/tradenames/
+├───OK─── http://corp.delaware.gov/uccauthfilers.shtml
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 182 links found. 132 excluded. 23 broken.
+
+Getting links from: https://de.gov/topics/data.shtml
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=delaware.gov/topics/data.shtml
+├───OK─── https://de.gov/topics/img/topics_data.jpg
+├───OK─── http://branding.delaware.opendata.arcgis.com/
+├───OK─── http://opendatacouncil.delaware.gov/
+├───OK─── http://budget.delaware.gov/budget/index.shtml
+├───OK─── http://legis.delaware.gov/legislature.nsf/FSMain?OpenFrameset&Frame=right&src=/gia
+├───OK─── http://delaware.gov/topics/transparency.shtml
+├───OK─── http://cjc.delaware.gov/pubs.shtml
+├───OK─── http://dsp.delaware.gov/reports.shtml
+├─BROKEN─ http://www.deldot.gov/traffic/map.ejs?tab=Advisories (HTTP_403)
+├───OK─── https://data.delaware.gov/Transportation/Traffic-Counts-2006-to-2015/3xiz-p5vi/data
+├─BROKEN─ https://www.deldot.gov/Publications/manuals/traffic_counts/index.shtml (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/traffic/map.ejs (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/information/projects/hpms/ (HTTP_403)
+├───OK─── http://stateplanning.delaware.gov/census_data_center/
+├───OK─── http://www.stateplanning.delaware.gov/census_data_center/
+├───OK─── http://waterquality.delaware.gov/
+├───OK─── http://apps.dnrec.state.de.us/derns/pub/RecentReleases.aspx
+├───OK─── http://www.nav.dnrec.delaware.gov/DEN3/Misc/Background.aspx
+├───OK─── http://www.dhss.delaware.gov/dhss/dph/hsp/Default.aspx
+├───OK─── http://www.dhss.delaware.gov/dhss/dph/hp/healthstats.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dph/pubreportsaz.html
+├───OK─── https://lmi.delawareworks.com/index.php
+├───OK─── https://lmi.delawareworks.com/Content/Information/LAUS.php
+├───OK─── https://attorneygeneral.delaware.gov/fraud/cpu/automediation/
+├───OK─── http://elections.delaware.gov/services/candidate/regtotals.shtml
+├───OK─── https://cfrs.elections.delaware.gov/
+├───OK─── http://archives.delaware.gov/checklists/
+├───OK─── http://www.doe.k12.de.us/Page/1798
+├───OK─── http://www.doe.k12.de.us/domain/153
+├───OK─── https://archives.delaware.gov/checklists/index.shtml?fname=&lname=&keyword=&intention=Bastardy%20Bonds&searchtype=byintention
+├─BROKEN─ http://www.fenwickisland.org/ (HTTP_undefined)
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 147 links found. 113 excluded. 7 broken.
+
+Getting links from: https://de.gov/topics/recreation.shtml
+├─BROKEN─ https://www.deldot.gov/Programs/bike/biking_in_delaware/ (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/titles/ve_title_general.shtml (HTTP_403)
+├─BROKEN─ http://www.newcastlesailingclub.org/ (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 186 links found. 181 excluded. 5 broken.
+
+Getting links from: https://de.gov/topics/children.shtml
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=delaware.gov/topics/children.shtml
+├───OK─── https://de.gov/topics/img/topics_parents.jpg
+├───OK─── https://courts.delaware.gov/AOC/Outreach/
+├─BROKEN─ http://deldot.gov/archaeology/kids/ (HTTP_403)
+├───OK─── http://history.delaware.gov/education/youth.shtml
+├───OK─── https://dvcc.delaware.gov/wp-content/uploads/sites/87/2017/06/HwAffctChldrn.pdf
+├───OK─── http://www.dhss.delaware.gov/dph/chca/dphahsab01.html
+├───OK─── http://www.doe.k12.de.us/domain/149
+├─BROKEN─ http://www.ddc.delaware.gov/ (BLC_UNKNOWN)
+├───OK─── http://dhss.delaware.gov/dhss/dms/epqc/birth3/files/centraldirectory.pdf
+├───OK─── http://www.dhss.delaware.gov/dhss/dph/ems/ems.html
+├───OK─── http://www.dnrec.delaware.gov/SERC/Information/Pages/EducationalOutreachMaterials.aspx
+├───OK─── http://guides.lib.de.us/content.php?pid=92896&sid=692558
+├───OK─── http://dhss.delaware.gov/dhss/dph/dpc/immunize-children.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dph/chca/files/dhmicfy2009annualreport.pdf
+├───OK─── http://www.dhss.delaware.gov/dhss/dph/ems/injuryprevention.html
+├───OK─── http://dhss.delaware.gov/dhss/dmma/dhcp.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dssc/kinshipcr.html
+├───OK─── http://dhss.delaware.gov/dhss/dmma/disabledchildren.html
+├───OK─── http://kids.delaware.gov/occl/occl.shtml
+├───OK─── http://kids.delaware.gov/occl/complaint.shtml
+├─BROKEN─ http://www.apex01.kids.delaware.gov:8081/occl/ (HTTP_403)
+├───OK─── http://kids.delaware.gov/fs/child-abuse-intervention.shtml
+├───OK─── https://attorneygeneral.delaware.gov/vcap/
+├───OK─── http://kids.delaware.gov/fs/fs_prevent.shtml
+├───OK─── http://kids.delaware.gov/fs/adoption.shtml
+├───OK─── http://dhss.delaware.gov/dhss/dcse/
+├───OK─── https://courts.delaware.gov/family/custody/
+├───OK─── https://courts.delaware.gov/family/custody/forms.aspx
+├───OK─── http://kids.delaware.gov/yrs/yrs_dispositional_guid.shtml
+├───OK─── https://kids.delaware.gov/information/statistics.shtml
+├───OK─── http://kids.delaware.gov/information/school.shtml
+├───OK─── https://kids.delaware.gov/yrs/ferris.shtml
+├───OK─── https://kids.delaware.gov/yrs/residential-cottages-snowden.shtml
+├───OK─── https://kids.delaware.gov/yrs/residential-cottages-mowlds.shtml
+├───OK─── https://kids.delaware.gov/yrs/nccdc.shtml
+├───OK─── https://kids.delaware.gov/yrs/stevenson.shtml
+├───OK─── http://kids.delaware.gov/yrs/yrs_comsrvs.shtml
+├───OK─── https://kids.delaware.gov/occl/center-providers.shtml
+├───OK─── http://www.dhss.delaware.gov/dss/dhcp.html
+├───OK─── http://www.dhss.delaware.gov/dhss/dph/ems/safekids.html
+├───OK─── http://www.healthychildcare.org/
+├───OK─── http://www.casaforchildren.org/site/c.mtJSJ7MPIsE/b.5301295/k.BE9A/Home.htm
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 167 links found. 122 excluded. 5 broken.
+
+Getting links from: https://de.gov/topics/publicsafety.shtml
+├─BROKEN─ http://www.dema.delaware.gov/brochures/KIpostcard_2012.pdf (HTTP_404)
+├─BROKEN─ http://statefiremarshal.delaware.gov/information/public.shtml (HTTP_404)
+├─BROKEN─ https://www.deldot.gov/Programs/srts/ (HTTP_403)
+├─BROKEN─ https://www.dsp.delaware.gov/traffic.shtml (HTTP_undefined)
+├─BROKEN─ http://www.deldot.gov/information/red_light/ (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/map/index.shtml?tab=TrafficCameras (HTTP_403)
+├─BROKEN─ https://www.deldot.gov/Traffic/ReportRoadCondition/index.shtml (HTTP_403)
+├───OK─── https://de.gov/portalimg/portal_dyk_dickinson.jpg
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 164 links found. 154 excluded. 9 broken.
+
+Getting links from: https://de.gov/topics/recycling.shtml
+Finished! 1 links found. 1 excluded. 0 broken.
+
+Getting links from: https://de.gov/topics/relocate.shtml
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=delaware.gov/topics/relocate.shtml
+├───OK─── https://de.gov/topics/img/topics_relocate.jpg
+├───OK─── http://www.delaware.gov/facts/
+├───OK─── http://www.delaware.gov/facts/history/delhist.shtml
+├───OK─── http://www.delawareworks.com/oolmi/welcome.shtml
+├─BROKEN─ http://delawarestatejobs.com/ (HTTP_404)
+├───OK─── http://www.irs.gov/taxtopics/tc157.html
+├───OK─── https://moversguide.usps.com/?referral=USPS
+├─BROKEN─ http://www.dmv.de.gov/default.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/driver_services/drivers_license/dr_lic_exchange.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/forms/veh_serv_forms/pdfs/ve_frm_newresid.pdf (HTTP_403)
+├───OK─── http://www.delaware.gov/topics/travel
+├───OK─── https://www.doe.k12.de.us/domain/505
+├───OK─── http://www.delaware.gov/topics/k12ed
+├───OK─── http://www.delaware.gov/topics/highered
+├─BROKEN─ https://ivote.de.gov/ (HTTP_undefined)
+├───OK─── http://www.delaware.gov/topics/yourgovernment
+├───OK─── http://www.delawarehousingsearch.org/
+├───OK─── http://dhss.delaware.gov/dhss/dsaapd/linkshousing.html
+├───OK─── http://dhss.delaware.gov/dhss/dph/clinics.html
+├───OK─── http://dhss.delaware.gov/dhss/dss/ltcmedicaid.html
+├───OK─── http://finance.delaware.gov/publications/proptax/propmain.shtml
+├───OK─── http://www.revenue.delaware.gov/services/current_bt/senior.shtml
+├───OK─── http://revenue.delaware.gov/information/updates.shtml
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 151 links found. 125 excluded. 7 broken.
+
+Getting links from: https://de.gov/topics/subscriberss.shtml
+├─BROKEN─ http://www.deldot.gov/syndication.ejs?cat=RTTA (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/syndication.ejs?cat=STR (HTTP_403)
+├─BROKEN─ http://dartfirststate.com/syndication.ejs?cat=RA (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/syndication.ejs?cat=PW (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/syndication.ejs?cat=PR (HTTP_403)
+├─BROKEN─ http://dartfirststate.com/syndication.ejs?cat=PR&agy=DTC (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/syndication.ejs?cat=PW (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 196 links found. 187 excluded. 9 broken.
+
+Getting links from: https://de.gov/topics/socialmedia.shtml
+├─BROKEN─ https://www.youtube.com/delawaregovernment (HTTP_404)
+├─BROKEN─ https://www.youtube.com/DelDHSS (HTTP_404)
+├─BROKEN─ https://www.youtube.com/DSHAinfo (HTTP_404)
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 319 links found. 314 excluded. 5 broken.
+
+Getting links from: https://de.gov/topics/TaxCenter.shtml
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/dealer/ve_dlr_lictax.shtml (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 158 links found. 155 excluded. 3 broken.
+
+Getting links from: https://de.gov/topics/transparency.shtml
+├─BROKEN─ https://ivote.de.gov/ (HTTP_undefined)
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 169 links found. 166 excluded. 3 broken.
+
+Getting links from: https://de.gov/topics/travel.shtml
+├─BROKEN─ http://www.deldot.gov/public.ejs?command=PublicTollRateCalc (HTTP_403)
+├─BROKEN─ http://www.ezpassde.com/ (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/mfta/mfta.ejs?Command=ViewLicenseList&License_Type=07&License_Station_Operation_Type=03 (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/traffic/map.ejs (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/Traffic/travel_advisory/#advisories (HTTP_403)
+├─BROKEN─ http://dartfirststate.com/information/routes/pdfs/summer/rt305.pdf (HTTP_403)
+├─BROKEN─ http://dartfirststate.com/information/programs/beachbus/index.shtml#top (HTTP_403)
+├─BROKEN─ http://www.dartfirststate.com/information/routes/index.shtml (HTTP_403)
+├─BROKEN─ http://www.dartfirststate.com/ (HTTP_403)
+├─BROKEN─ http://www.dartfirststate.com/information/getting_there/ride_guide/ (HTTP_403)
+├─BROKEN─ http://www.dartfirststate.com/information/getting_there/dartcard/dartcard_outlets.shtml (HTTP_403)
+├─BROKEN─ http://www.dartfirststate.com/information/maps/ (HTTP_403)
+├─BROKEN─ http://www.dartfirststate.com/dartcard/ (HTTP_403)
+├─BROKEN─ http://www.dartfirststate.com/dtc.ejs?command=PublicDTCReservation (HTTP_403)
+├─BROKEN─ http://www.dartfirststate.com/information/getting_there/index.shtml (HTTP_403)
+├─BROKEN─ http://www.dartfirststate.com/information/programs/scat/ (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/information/red_light/ (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/Traffic/travel_advisory/#advisories (HTTP_403)
+├─BROKEN─ https://www.deldot.gov/Traffic/ReportRoadCondition/index.shtml (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/traffic/map.ejs (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/default.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/home/contact_info/index.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/driver_services/driver_svcs.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/forms/forms_manuals.shtml (HTTP_403)
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/vehicle_svcs.shtml (HTTP_403)
+├─BROKEN─ https://www.deldot.gov/Programs/bike/biking_in_delaware/index.shtml (HTTP_403)
+├─BROKEN─ https://www.deldot.gov/Programs/adopt/index.shtml (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/index.shtml (HTTP_403)
+├─BROKEN─ https://www.deldot.gov/OnlineServices/index.shtml (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/information/projects/ (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/traffic/map.ejs (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/Traffic/travel_advisory/#advisories (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 157 links found. 123 excluded. 34 broken.
+
+Getting links from: https://de.gov/topics/waterquality/index.shtml
+├───OK─── http://app.na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=http://www.delaware.gov/topics/waterquality/index.shtml
+├───OK─── https://de.gov/topics/waterquality/img/topics_waterquality.jpg
+├───OK─── https://de.gov/topics/waterquality/groundwatermonitoring.shtml
+├───OK─── https://de.gov/topics/waterquality/img/waterquality_1.jpg
+├───OK─── https://de.gov/topics/waterquality/drinkingwaterquality.shtml
+├───OK─── https://de.gov/topics/waterquality/img/waterquality_2.jpg
+├───OK─── https://de.gov/topics/waterquality/additionalinfo.shtml
+├───OK─── https://de.gov/topics/waterquality/img/waterquality_3.jpg
+├───OK─── http://www.dhss.delaware.gov/dhss/dph/hsp/odw.html
+├───OK─── http://www.wr.dnrec.delaware.gov/Services/Pages/WaterSupply.aspx
+├───OK─── http://www.dnrec.delaware.gov/wr/Services/Pages/WaterSupplyCoordinatingCouncil.aspx
+├───OK─── http://www.ipa.udel.edu/wra/
+├───OK─── http://www.delawaresourcewater.org/
+├───OK─── http://www.epa.gov/ow/
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 126 links found. 110 excluded. 2 broken.
+
+Getting links from: https://de.gov/topics/weatherpage.shtml
+├─BROKEN─ http://www.hrm.omb.delaware.gov/closings/advisory.asp (HTTP_404)
+├─BROKEN─ http://www.deldot.gov/map/index.shtml?tab=TrafficCameras (HTTP_403)
+├─BROKEN─ https://www.deldot.gov/mydeldot.ejs (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/Traffic/travel_advisory/index.shtml#advisories (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 122 links found. 116 excluded. 6 broken.
+
+Getting links from: https://de.gov/topics/yourgovernment.shtml
+├─BROKEN─ https://ivote.de.gov/voterlogin.aspx (HTTP_undefined)
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 145 links found. 142 excluded. 3 broken.
+
+Getting links from: https://de.gov/topics/yourresidence.shtml
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=//delaware.gov/topics/yourresidence.shtml
+├───OK─── https://de.gov/topics/img/topics_residence.jpg
+├───OK─── http://stateplanning.delaware.gov/information/municipalities.shtml
+├───OK─── http://www.destatehousing.com/DirectorsOffice/links.php
+├───OK─── http://www.de.gov/topics/yourgovernment
+├───OK─── https://statefiremarshal.delaware.gov/technical-services/licensed-public-fire-protection-companies-testing-applications/
+├───OK─── http://insurance.delaware.gov/wp-content/uploads/sites/15/2017/02/Homeowners-Guide-2017-TN.pdf
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/titles/ve_title_mobile.shtml (HTTP_403)
+├───OK─── http://dda.delaware.gov/pesticides/Pest_residents.shtml
+├───OK─── http://www.nccde.org/136/Recorder-of-Deeds
+├───OK─── http://co.kent.de.us/recorder-of-deeds-office.aspx
+├───OK─── http://www.sussexcountyde.gov/recorder-deeds
+├───OK─── http://www.destatehousing.com/OtherPrograms/OtherPrograms.php
+├───OK─── http://www.dhss.delaware.gov/dhss/dph/dpc/iaqathomerent.html
+├───OK─── http://legis.delaware.gov/LawsOfDE/LandlordTenantCode
+├───OK─── http://attorneygeneral.delaware.gov/fraud/cpu/landlord/
+├───OK─── http://co.kent.de.us/inspections-enforcement/permit-information.aspx
+├───OK─── http://co.kent.de.us/inspections-enforcement.aspx
+├───OK─── http://nccde.org/193/Permits
+├───OK─── https://statefiremarshal.delaware.gov/place-assemblies-special-permits/
+├───OK─── http://www.sussexcountyde.gov/building-code
+├───OK─── http://depsc.delaware.gov/cable-television/
+├───OK─── https://www.fcc.gov/general/digital-television
+├───OK─── http://depsc.delaware.gov/electric-regulation/#choice
+├───OK─── http://dnrec.alpha.delaware.gov/energy-climate/climate-change/confronting-it/
+├───OK─── http://www.dnrec.delaware.gov/wr/services/Pages/GroundWaterDischarges.aspx
+├───OK─── https://depsc.delaware.gov/natural-gas-regulation/
+├───OK─── http://depsc.delaware.gov/telecommunications-regulation/
+├───OK─── http://depsc.delaware.gov/wastewater-regulation/
+├───OK─── http://www.dnrec.delaware.gov/wr/Information/Permits/Pages/WaterSupplyWellandWaterUsePermitData.aspx
+├───OK─── http://depsc.delaware.gov/water-regulation/
+├───OK─── http://publicadvocate.delaware.gov/psc-regulated-utilities/
+├───OK─── http://depsc.delaware.gov/faqs.shtml
+├───OK─── https://publicmeetings.delaware.gov/?agencyId=9
+├───OK─── http://depsc.delaware.gov/public-notices/
+├───OK─── http://depsc.delaware.gov/regulated-utility-filings/
+├───OK─── http://depsc.delaware.gov/commission-orders/
+├───OK─── http://www.revenue.delaware.gov/services/current_bt/utilities.shtml
+├───OK─── http://www.energystar.gov/index.cfm?c=tax_credits.tx_index
+├───OK─── http://depsc.delaware.gov/consumer-assistance/
+├───OK─── http://publicadvocate.delaware.gov/frequently-asked-questions/#q5
+├───OK─── http://www.delawareinsurance.gov/services/filecomplaint.shtml
+├─BROKEN─ http://statehumanrelations.delaware.gov/services/discrimination.shtml (HTTP_404)
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 164 links found. 119 excluded. 4 broken.
+
+Getting links from: https://de.gov/help/privacy.shtml
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 111 links found. 109 excluded. 2 broken.
+
+Getting links from: https://de.gov/topics/marriage/
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 109 links found. 107 excluded. 2 broken.
+
+Getting links from: https://de.gov/topics/yourresidence
+├─BROKEN─ http://www.dmv.de.gov/services/vehicle_services/titles/ve_title_mobile.shtml (HTTP_403)
+├─BROKEN─ http://statehumanrelations.delaware.gov/services/discrimination.shtml (HTTP_404)
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 164 links found. 160 excluded. 4 broken.
+
+Getting links from: https://de.gov/help/AgencyListFOIACoordinators-table.shtml
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=http://smu.portal.delaware.gov/forms/example_success.shtml
+├───OK─── https://de.gov/help/img/email-icon_35x35.png
+├───OK─── http://dda.delaware.gov/FOIA.shtml
+├───OK─── https://de.gov/help/img/website-icon-35x35.png
+├───OK─── https://de.gov/help/img/spacer-icon-35x35.png
+├─BROKEN─ http://attorneygeneral.delaware.gov/executive/opengov.shtml (HTTP_404)
+├─BROKEN─ http://auditor.delaware.gov/documents/FOIA%20Policy%20August%202016.pdf (HTTP_404)
+├───OK─── http://www.banking.delaware.gov/foia.shtml
+├───OK─── http://kids.delaware.gov/information/foia_publicrecord.shtml
+├───OK─── http://doc.delaware.gov/foiaRequests.shtml
+├───OK─── http://elections.delaware.gov/foia.shtml
+├───OK─── http://finance.delaware.gov/foia2.shtml
+├─BROKEN─ http://statefiremarshal.delaware.gov/foia.shtml (HTTP_404)
+├─BROKEN─ http://statefirecommission.delaware.gov/foia.shtml (HTTP_404)
+├─BROKEN─ http://statefireschool.delaware.gov/foia.shtml (HTTP_404)
+├─BROKEN─ http://governor.delaware.gov/foia.shtml (HTTP_404)
+├───OK─── http://dhss.delaware.gov/main/mailforms/dhss_foiaform.aspx
+├───OK─── http://www.delawareinsurance.gov/departments/consumer/FOIA_PolicyAndRequestForm.pdf
+├───OK─── http://dol.delaware.gov/foia.php
+├───OK─── http://omb.delaware.gov/foia.shtml
+├─BROKEN─ https://www.de.ng.mil/foia/ (BLC_UNKNOWN)
+├───OK─── http://sos.delaware.gov/foia_requests.shtml
+├───OK─── http://dshs.delaware.gov/foia.shtml
+├───OK─── http://www.destatehousing.com/Footer/foia.php
+├─BROKEN─ http://treasurer.delaware.gov/foia.shtml (HTTP_404)
+├─BROKEN─ http://deldot.gov/foia/index.shtml (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 294 links found. 267 excluded. 10 broken.
+
+Getting links from: https://de.gov/topics/facts/animal.shtml
+├───OK─── http://app.na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=http://www.delaware.gov/topics/facts/animal.shtml
+├───OK─── https://de.gov/topics/facts/img/delfact-28.gif
+├───OK─── http://delcode.delaware.gov/title29/c003/index.shtml#304
+├───OK─── https://de.gov/topics/facts/img/delfact-31.gif
+├───OK─── https://de.gov/topics/facts/img/delfact-37.gif
+├───OK─── https://de.gov/topics/facts/img/greyfox_final.jpg
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 106 links found. 99 excluded. 1 broken.
+
+Getting links from: https://de.gov/topics/facts/geo.shtml
+├───OK─── http://app.na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=http://www.delaware.gov/topics/facts/geo.shtml
+├───OK─── http://archives.delaware.gov/markers/ncc/NC-85.shtml
+├───OK─── http://delcode.delaware.gov/title29/c002/index.shtml
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 100 links found. 96 excluded. 1 broken.
+
+Getting links from: https://de.gov/topics/facts/gov.shtml
+├───OK─── http://app.na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=http://www.delaware.gov/topics/facts/gov.shtml
+├───OK─── http://delcode.delaware.gov/constitution/index.shtml
+├───OK─── http://courts.delaware.gov/Supreme/index.stm
+├───OK─── https://de.gov/topics/facts/img/colblue.gif
+├───OK─── https://de.gov/topics/facts/img/buff.gif
+├───OK─── https://de.gov/topics/facts/img/state_flag.jpg
+├───OK─── http://delcode.delaware.gov/title29/c023/index.shtml#2306
+├───OK─── https://de.gov/topics/facts/img/great_seal.jpg
+├───OK─── https://de.gov/topics/facts/history/delsong.shtml
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 113 links found. 103 excluded. 1 broken.
+
+Getting links from: https://de.gov/topics/facts/misc.shtml
+├───OK─── http://app.na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=http://www.delaware.gov/topics/facts/misc.shtml
+├───OK─── https://de.gov/topics/facts/img/milk.jpg
+├───OK─── https://de.gov/topics/facts/img/peachpie.jpg
+├───OK─── https://de.gov/topics/facts/img/delfact-38.gif
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 104 links found. 99 excluded. 1 broken.
+
+Getting links from: https://de.gov/topics/facts/people.shtml
+├───OK─── http://app.na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=http://www.delaware.gov/topics/facts/people.shtml
+├───OK─── https://de.gov/topics/facts/img/pop_map.gif
+├─BROKEN─ http://quickfacts.census.gov/qfd/states/10000lk.html (ERRNO_ENOTFOUND)
+├─BROKEN─ http://stateplanning.delaware.gov/census_data_center/2010_data.shtml (HTTP_404)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 103 links found. 98 excluded. 3 broken.
+
+Getting links from: https://de.gov/topics/facts/geolog.shtml
+├───OK─── http://app.na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=http://www.delaware.gov/topics/facts/geolog.shtml
+├───OK─── https://de.gov/topics/facts/img/belemnite.jpg
+├───OK─── http://www.dgs.udel.edu/delaware-geology/delaware-state-fossil-belemnite
+├───OK─── https://de.gov/topics/facts/img/sillimanite.jpg
+├───OK─── http://www.dgs.udel.edu/delaware-geology/delaware-state-mineral-sillimanite
+├───OK─── https://de.gov/topics/facts/img/channeledwhelk.jpg
+├───OK─── https://de.gov/topics/facts/img/delfact-39-lg.jpg
+├───OK─── https://de.gov/topics/facts/img/delfact-39.gif
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 109 links found. 100 excluded. 1 broken.
+
+Getting links from: https://de.gov/topics/facts/insect.shtml
+├───OK─── http://app.na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=http://www.delaware.gov/topics/facts/insect.shtml
+├───OK─── https://de.gov/topics/facts/img/ladybug.jpg
+├───OK─── https://de.gov/topics/facts/img/swallowtail.jpg
+├───OK─── https://de.gov/topics/facts/img/stonefly.jpg
+├───OK─── http://www.delawarenaturesociety.org/streamwatch.html
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 105 links found. 99 excluded. 1 broken.
+
+Getting links from: https://de.gov/topics/facts/plant.shtml
+├───OK─── http://app.na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=http://www.delaware.gov/topics/facts/plant.shtml
+├───OK─── https://de.gov/topics/facts/img/peachblossom.jpg
+├───OK─── https://de.gov/topics/facts/img/goldenrod.jpg
+├───OK─── https://de.gov/topics/facts/img/holly.jpg
+├───OK─── https://de.gov/topics/facts/img/strawberry.jpg
+├───OK─── http://www.youtube.com/profile?user=DelawareGovernment#p/c/2C4192AD5E1E32E2/4/_TeE8i0FamU
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 107 links found. 100 excluded. 1 broken.
+
+Getting links from: http://www.de.gov/topics/children
+├─BROKEN─ http://deldot.gov/archaeology/kids/ (HTTP_403)
+├─BROKEN─ http://www.ddc.delaware.gov/ (HTTP_undefined)
+├─BROKEN─ http://www.apex01.kids.delaware.gov:8081/occl/ (HTTP_403)
+├─BROKEN─ http://www.deldot.gov/ (HTTP_403)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 167 links found. 162 excluded. 5 broken.
+
+Getting links from: https://de.gov/topics/waterquality/groundwatermonitoring.shtml
+├───OK─── http://app.na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=http://www.delaware.gov/topics/waterquality/groundwatermonitoring.shtml
+├───OK─── http://www.epa.gov/myenvironment/
+├───OK─── http://maps.waterdata.usgs.gov/mapper/
+├───OK─── http://www.dnrec.delaware.gov/dwhs/sirb/Documents/GMZ%20sites.pdf
+├───OK─── http://www.dnrec.delaware.gov/dwhs/sirb/Documents/Groundwater%20%20Institutional%20Control%20Policy-%20GMZ-GMZ%20Implementation%2020121116141317.pdf
+├─BROKEN─ http://www.awm.delaware.gov/Pages/ContamProperties.aspx (HTTP_404)
+├───OK─── http://www.dnrec.delaware.gov/info/pages/GISData.aspx
+├───OK─── http://www.awm.delaware.gov/Info/Pages/IndustrialSiteInfo.aspx
+├───OK─── http://www.dgs.udel.edu/datasets/recent-and-historical-groundwater-level-data
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 123 links found. 113 excluded. 2 broken.
+
+Getting links from: https://de.gov/topics/waterquality/drinkingwaterquality.shtml
+├───OK─── http://app.na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=http://www.delaware.gov/topics/waterquality/drinkingwaterquality.shtml
+├───OK─── http://dhss.delaware.gov/dhss/dph/hsp/odw.html
+├───OK─── https://drinkingwater.dhss.delaware.gov/
+├───OK─── http://dhss.delaware.gov/dhss/dph/hsp/drinkingwaternotices.html
+├───OK─── http://dhss.delaware.gov/dhss/dph/hsp/privdw.html
+├───OK─── http://dhss.delaware.gov/dhss/dph/hsp/annrepdw.html
+├───OK─── http://www.wr.dnrec.delaware.gov/Information/faqs/Pages/WaterSupplyFAQs.aspx
+├───OK─── http://dhss.delaware.gov/dhss/dph/hsp/files/wtrwtch.pdf
+├───OK─── http://www.epa.gov/safewater/consumer/pdf/mcl.pdf
+├─BROKEN─ http://www.epa.gov/safewater/ccr/frequentquestions.html (HTTP_404)
+├───OK─── http://www.wr.udel.edu/swaphome/
+├───OK─── http://www.wr.udel.edu/swaphome/swassessments.html
+├───OK─── http://www.wr.udel.edu/swaphome/swpstatus.html
+├───OK─── http://www.wr.udel.edu/swaphome/Publications/swap_facts.pdf
+├───OK─── http://www.wr.udel.edu/swaphome/mappingresources.html
+├───OK─── http://www.wr.udel.edu/swaphome/usefullinks.html
+├───OK─── http://www.wr.dnrec.delaware.gov/Services/Pages/WaterSupplyCoordinatingCouncil.aspx
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 128 links found. 110 excluded. 2 broken.
+
+Getting links from: https://de.gov/topics/waterquality/additionalinfo.shtml
+├───OK─── http://app.na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=http://www.delaware.gov/topics/waterquality/additionalinfo.shtml
+├───OK─── http://water.epa.gov/lawsregs/rulesregs/sdwa/index.cfm
+├───OK─── http://www.epa.gov/safewater/privatewells/index2.html
+├─BROKEN─ http://www.epa.gov/reg3wapd/drinking/wells.htm (HTTP_404)
+├─BROKEN─ http://www.epa.gov/safewater/privatewells/pdfs/household_wells.pdf (HTTP_404)
+├─BROKEN─ http://www.epa.gov/safewater/sourcewater/pubs/guide_citguidegwp_1990.pdf (HTTP_404)
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 115 links found. 108 excluded. 4 broken.
+
+Getting links from: https://de.gov/topics/facts/img/state_flag.jpg
+Error: Expected type "text/html" but got "image/jpeg"
+
+Getting links from: https://de.gov/topics/facts/img/great_seal.jpg
+Error: Expected type "text/html" but got "image/jpeg"
+
+Getting links from: https://de.gov/topics/facts/history/delsong.shtml
+├───OK─── http://app.na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=http://www.delaware.gov/topics/facts/history/delsong.shtml
+├─BROKEN─ http://hrm.omb.delaware.gov/information/employee_resources.shtml (HTTP_404)
+Finished! 98 links found. 96 excluded. 1 broken.
+
+Getting links from: https://de.gov/topics/facts/img/pop_map.gif
+Error: Expected type "text/html" but got "image/gif"
+
+Getting links from: https://de.gov/topics/facts/img/delfact-39-lg.jpg
+Error: Expected type "text/html" but got "image/jpeg"
+
+Finished! 13784 links found. 11342 excluded. 566 broken.
+Elapsed time: 9 minutes, 20 seconds
