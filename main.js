@@ -12,6 +12,7 @@ customHeaderRequest(url, function(err, resp, body){
   
   $(links).each(function(i, link){
 	href = $(link).attr('href')
+	
 	if(href.indexOf('http') > -1) {
 		const execSync = require('child_process').execSync;
 
@@ -19,7 +20,9 @@ customHeaderRequest(url, function(err, resp, body){
 		if(filename[filename.length-1] == "."){
 			filename = filename.slice(0,filename.length-1)
 		}
-		code = execSync('blc ' + href + ' -ro > ' + filename + '.brokens.txt' );
+		nodeDate = new Date()
+		readableDate = (nodeDate.getMonth() + 1).toString() + nodeDate.getDate().toString() + nodeDate.getFullYear().toString()
+		code = execSync('blc ' + href + ' -ro > ' + filename + '.brokens-' + readableDate + '.txt');s
 	}
   });
 

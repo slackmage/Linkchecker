@@ -34,14 +34,12 @@ Getting links from: http://governor.delaware.gov/
 ├───OK─── http://delaware.gov/
 ├───OK─── https://governor.delaware.gov/wp-content/themes/dosgic_GOVERNOR_theme/img/clf4img/delaware_global_d_blue@2x.png
 ├───OK─── https://governor.delaware.gov/wp-content/themes/dosgic_GOVERNOR_theme/img/clf4img/delaware_global_text_blue@2x.png
-├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=https://governor.delaware.gov/
 ├───OK─── https://governor.delaware.gov/wp-content/themes/dosgic_GOVERNOR_theme/img/governor-seal.png
-├───OK─── https://news.delaware.gov/2018/05/12/paid-parental-leave-2/
-├─BROKEN─ https://governor.delaware.gov/helpisherede.com (HTTP_403)
-├───OK─── https://governor.delaware.gov/wp-content/uploads/sites/24/2018/05/Webp.net-resizeimage-2.jpg
-├─BROKEN─ https://governor.delaware.gov/helpisherede.com (HTTP_403)
-├───OK─── https://news.delaware.gov/2018/05/09/governor-carneys-statement-general-assemblys-final-passage-aidens-law/
-├───OK─── https://governor.delaware.gov/wp-content/uploads/sites/24/2018/05/AIDENSLAW.png
+├───OK─── https://news.delaware.gov/2018/05/24/angel-investor-job-creation-and-innovation-act-2/
+├───OK─── https://www.visitdelaware.com/
+├───OK─── https://governor.delaware.gov/wp-content/uploads/sites/24/2018/05/STATEMENT-web.png
+├───OK─── https://news.delaware.gov/2018/05/21/op-ed-soaring-health-care-costs-holding-delaware-back-heres-fix/
+├───OK─── https://governor.delaware.gov/wp-content/uploads/sites/24/2018/05/healthcare-benchmark-website-525x350-1.png
 ├───OK─── https://governor.delaware.gov/wp-content/themes/dosgic_GOVERNOR_theme/img/governor-icons-contact.png
 ├───OK─── https://governor.delaware.gov/wp-content/themes/dosgic_GOVERNOR_theme/img/governor-icons-schedule.png
 ├───OK─── https://governor.delaware.gov/wp-content/themes/dosgic_GOVERNOR_theme/img/governor-icons-invite.png
@@ -83,7 +81,7 @@ Getting links from: http://governor.delaware.gov/
 ├───OK─── https://www.instagram.com/delaware_gov/
 ├───OK─── https://governor.delaware.gov/wp-content/themes/dosgic_GOVERNOR_theme/img/clf4img/gic_portal_footer_logo@2x.png
 ├───OK─── https://gic.delaware.gov/
-Finished! 202 links found. 118 excluded. 3 broken.
+Finished! 202 links found. 120 excluded. 1 broken.
 
 Getting links from: https://de.gov/gunsafety
 ├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=https://governor.delaware.gov/comprehensive-gun-safety-delaware/
@@ -106,24 +104,16 @@ Getting links from: https://de.gov/gunsafety
 ├───OK─── https://governor.delaware.gov/tag/school-safety/
 ├───OK─── https://governor.delaware.gov/tag/states-for-gun-safety-coalition/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 199 links found. 179 excluded. 2 broken.
+Finished! 200 links found. 180 excluded. 2 broken.
 
 Getting links from: https://de.gov/schoolsafety
 ├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=https://governor.delaware.gov/school-safety/
 ├───OK─── https://livestream.com/accounts/4090843/events/8069805/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false
-├───OK─── https://pubapps.doe.k12.de.us/EducationalDirectoryPublic/pages/Districts/Default.aspx
 ├───OK─── https://dshs.delaware.gov/cssp.shtml
 ├───OK─── https://www.doe.k12.de.us/Page/3314
 ├───OK─── https://www.doe.k12.de.us/domain/470
-├───OK─── https://governor.delaware.gov/tag/comprehensive-school-safety-program/
-├───OK─── https://governor.delaware.gov/tag/delaware-department-of-education/
-├───OK─── https://governor.delaware.gov/tag/delaware-school-safety/
-├───OK─── https://governor.delaware.gov/tag/delaware-schools/
-├───OK─── https://governor.delaware.gov/tag/safety/
-├───OK─── https://governor.delaware.gov/tag/school-climate-and-discipline-program/
-├───OK─── https://governor.delaware.gov/tag/schools/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 182 links found. 168 excluded. 1 broken.
+Finished! 175 links found. 169 excluded. 1 broken.
 
 Getting links from: https://governor.delaware.gov/about-governor-john-carney/
 ├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=https://governor.delaware.gov/about-governor-john-carney/
@@ -226,6 +216,7 @@ Finished! 168 links found. 164 excluded. 1 broken.
 Getting links from: https://governor.delaware.gov/executive-orders/
 ├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=https://governor.delaware.gov/executive-orders/
 ├───OK─── https://governor.delaware.gov/orders-archive/
+├───OK─── https://governor.delaware.gov/executive-orders/eo20/
 ├───OK─── https://governor.delaware.gov/executive-orders/eo19/
 ├───OK─── https://governor.delaware.gov/executive-orders/eo18/
 ├───OK─── https://governor.delaware.gov/executive-orders/eo17/
@@ -249,7 +240,7 @@ Getting links from: https://governor.delaware.gov/executive-orders/
 ├───OK─── https://governor.delaware.gov/tag/executive-orders/
 ├───OK─── https://governor.delaware.gov/tag/orders/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 210 links found. 185 excluded. 1 broken.
+Finished! 212 links found. 186 excluded. 1 broken.
 
 Getting links from: https://governor.delaware.gov/legislative-advisories/
 ├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=https://governor.delaware.gov/legislative-advisories/
@@ -279,16 +270,17 @@ Getting links from: https://governor.delaware.gov/legislative-advisories/
 ├───OK─── https://governor.delaware.gov/wp-content/uploads/sites/24/2018/04/Legislative-Advisory-23.pdf
 ├───OK─── https://governor.delaware.gov/wp-content/uploads/sites/24/2018/05/Legislative-Advisory-24.pdf
 ├───OK─── https://governor.delaware.gov/wp-content/uploads/sites/24/2018/05/Legislative-Advisory-25.pdf
+├───OK─── https://governor.delaware.gov/wp-content/uploads/sites/24/2018/05/Legislative-Advisory-26-1.pdf
 ├───OK─── https://governor.delaware.gov/tag/advisory/
 ├───OK─── https://governor.delaware.gov/tag/contact/
 ├───OK─── https://governor.delaware.gov/tag/legislative/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 218 links found. 187 excluded. 1 broken.
+Finished! 220 links found. 188 excluded. 1 broken.
 
 Getting links from: https://governor.delaware.gov/inauguration-day/
 ├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=https://governor.delaware.gov/inauguration-day/
 ├───OK─── https://livestream.com/accounts/4090843/events/6864719/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false
-├─BROKEN─ https://www.facebook.com/JohnCarneyDE/videos/1362086973841602/​ (BLC_UNKNOWN)
+├─BROKEN─ https://www.facebook.com/JohnCarneyDE/videos/1362086973841602/​ (HTTP_400)
 ├───OK─── https://governor.delaware.gov/wp-content/uploads/sites/24/2016/12/Inauguration-Image.png
 ├───OK─── https://governor.delaware.gov/tag/bethany-hall-long/
 ├───OK─── https://governor.delaware.gov/tag/inauguration/
@@ -383,12 +375,12 @@ Finished! 181 links found. 168 excluded. 3 broken.
 
 Getting links from: https://governor.delaware.gov/school-safety/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 182 links found. 181 excluded. 1 broken.
+Finished! 175 links found. 174 excluded. 1 broken.
 
 Getting links from: https://governor.delaware.gov/comprehensive-gun-safety-delaware/
 ├─BROKEN─ https://news.delaware.gov/2018/04/24/final-passage-of-beau-biden-gun-violence-prevention-act/%20target= (HTTP_404)
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 199 links found. 197 excluded. 2 broken.
+Finished! 200 links found. 198 excluded. 2 broken.
 
 Getting links from: https://governor.delaware.gov/basic-needs-closets/
 ├───OK─── https://governor.delaware.gov/wp-content/themes/dosgic_GOVERNOR_theme/img/basic-needs-closets-logo.png
@@ -455,19 +447,19 @@ Finished! 176 links found. 170 excluded. 1 broken.
 
 Getting links from: https://governor.delaware.gov/the-governors-public-schedule/
 ├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=https://governor.delaware.gov/the-governors-public-schedule/
+├───OK─── https://governor.delaware.gov/2018/05/25/governor-carneys-week-may-25-june-1-2018/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/?p=6333
+├───OK─── https://governor.delaware.gov/2018/05/21/governor-carneys-week-may-19-25-2018/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/?p=6264
+├───OK─── https://governor.delaware.gov/2018/05/14/governor-carneys-week-may-12-18-2018/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/?p=6216
 ├───OK─── https://governor.delaware.gov/2018/05/07/governor-carneys-week-may-5-11-2018/
 ├───OK─── https://governor.delaware.gov/the-governors-public-schedule/?p=6134
 ├───OK─── https://governor.delaware.gov/2018/04/30/governor-carneys-week-april-28-2018-may-4-2018/
 ├───OK─── https://governor.delaware.gov/the-governors-public-schedule/?p=6108
-├───OK─── https://governor.delaware.gov/2018/04/23/governor-carneys-week-april-21-27-2018/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/?p=5982
-├───OK─── https://governor.delaware.gov/2018/04/16/governor-carneys-week-april-14-20-2018/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/?p=5956
-├───OK─── https://governor.delaware.gov/2018/04/09/governor-carneys-week-april-7-13-2018/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/?p=5923
 ├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/2/
 ├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/3/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/13/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/14/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 179 links found. 164 excluded. 1 broken.
 
@@ -540,42 +532,6 @@ Finished! 167 links found. 164 excluded. 1 broken.
 
 Getting links from: https://governor.delaware.gov/tag/states-for-gun-safety-coalition/
 ├───OK─── https://governor.delaware.gov/tag/states-for-gun-safety-coalition/?p=5770
-├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 165 links found. 163 excluded. 1 broken.
-
-Getting links from: https://governor.delaware.gov/tag/comprehensive-school-safety-program/
-├───OK─── https://governor.delaware.gov/tag/comprehensive-school-safety-program/?p=5373
-├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 165 links found. 163 excluded. 1 broken.
-
-Getting links from: https://governor.delaware.gov/tag/delaware-department-of-education/
-├───OK─── https://governor.delaware.gov/tag/delaware-department-of-education/?p=5373
-├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 165 links found. 163 excluded. 1 broken.
-
-Getting links from: https://governor.delaware.gov/tag/delaware-school-safety/
-├───OK─── https://governor.delaware.gov/tag/delaware-school-safety/?p=5373
-├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 165 links found. 163 excluded. 1 broken.
-
-Getting links from: https://governor.delaware.gov/tag/delaware-schools/
-├───OK─── https://governor.delaware.gov/tag/delaware-schools/?p=5373
-├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 165 links found. 163 excluded. 1 broken.
-
-Getting links from: https://governor.delaware.gov/tag/safety/
-├───OK─── https://governor.delaware.gov/tag/safety/?p=5373
-├───OK─── https://governor.delaware.gov/tag/safety/?p=143
-├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 167 links found. 164 excluded. 1 broken.
-
-Getting links from: https://governor.delaware.gov/tag/school-climate-and-discipline-program/
-├───OK─── https://governor.delaware.gov/tag/school-climate-and-discipline-program/?p=5373
-├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 165 links found. 163 excluded. 1 broken.
-
-Getting links from: https://governor.delaware.gov/tag/schools/
-├───OK─── https://governor.delaware.gov/tag/schools/?p=5373
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 165 links found. 163 excluded. 1 broken.
 
@@ -664,7 +620,7 @@ Getting links from: https://governor.delaware.gov/delaware-health-social-service
 ├───OK─── http://dhss.delaware.gov/dhcc/
 ├───OK─── http://delcode.delaware.gov/title16/c092/index.shtml
 ├───OK─── http://delcode.delaware.gov/title16/c002/sc02/index.shtml#217
-├───OK─── http://hispanic.delaware.gov/
+├─BROKEN─ http://hispanic.delaware.gov/ (HTTP_500)
 ├───OK─── http://delcode.delaware.gov/title16/c096/index.shtml#9603
 ├───OK─── http://delcode.delaware.gov/title16/c074/index.shtml#7404
 ├───OK─── http://deradiationprotection.org/
@@ -684,7 +640,7 @@ Getting links from: https://governor.delaware.gov/delaware-health-social-service
 ├───OK─── https://governor.delaware.gov/tag/dhss/
 ├───OK─── https://governor.delaware.gov/tag/social-services/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 238 links found. 203 excluded. 2 broken.
+Finished! 238 links found. 203 excluded. 3 broken.
 
 Getting links from: https://governor.delaware.gov/department-correction/
 ├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=https://governor.delaware.gov/boards-commissions/department-correction/
@@ -762,9 +718,10 @@ Getting links from: https://governor.delaware.gov/department-safety-homeland-sec
 ├───OK─── http://e911.delaware.gov/board.shtml
 ├───OK─── https://governor.delaware.gov/tag/department-of-safety-and-homeland-security/
 ├───OK─── https://governor.delaware.gov/tag/homeland/
+├───OK─── https://governor.delaware.gov/tag/safety/
 ├───OK─── https://governor.delaware.gov/tag/security/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 207 links found. 185 excluded. 2 broken.
+Finished! 207 links found. 184 excluded. 2 broken.
 
 Getting links from: https://governor.delaware.gov/office-election-commissioner/
 ├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=https://governor.delaware.gov/boards-commissions/office-election-commissioner/
@@ -872,7 +829,7 @@ Getting links from: https://governor.delaware.gov/department-education/
 ├───OK─── http://delcode.delaware.gov/title14/c042/index.shtml
 ├───OK─── https://governor.delaware.gov/tag/department-of-education/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 203 links found. 183 excluded. 3 broken.
+Finished! 205 links found. 185 excluded. 3 broken.
 
 Getting links from: https://governor.delaware.gov/department-justice/
 ├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=https://governor.delaware.gov/boards-commissions/department-justice/
@@ -1261,14 +1218,21 @@ Getting links from: https://governor.delaware.gov/orders-archive/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 234 links found. 174 excluded. 1 broken.
 
+Getting links from: https://governor.delaware.gov/executive-orders/eo20/
+├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=https://governor.delaware.gov/executive-orders/eo20/
+├───OK─── https://governor.delaware.gov/wp-content/uploads/sites/24/2018/05/Executive-Order-Number-20.pdf
+├───OK─── https://governor.delaware.gov/tag/english-learners/
+├───OK─── https://governor.delaware.gov/tag/executive-order/
+├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
+Finished! 172 links found. 167 excluded. 1 broken.
+
 Getting links from: https://governor.delaware.gov/executive-orders/eo19/
 ├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=https://governor.delaware.gov/executive-orders/eo19/
 ├───OK─── https://governor.delaware.gov/wp-content/uploads/sites/24/2018/02/Executive-Order-Number-19.pdf
-├───OK─── https://governor.delaware.gov/tag/executive-order/
 ├───OK─── https://governor.delaware.gov/tag/health-care-spending-benchmark/
 ├───OK─── https://governor.delaware.gov/tag/order/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 172 links found. 166 excluded. 1 broken.
+Finished! 172 links found. 167 excluded. 1 broken.
 
 Getting links from: https://governor.delaware.gov/executive-orders/eo18/
 ├───OK─── https://governor.delaware.gov/wp-content/uploads/sites/24/2018/02/Executive-Order-Number-18.pdf
@@ -1398,6 +1362,7 @@ Getting links from: https://governor.delaware.gov/executive-orders/eo01/
 Finished! 172 links found. 169 excluded. 1 broken.
 
 Getting links from: https://governor.delaware.gov/tag/executive/
+├───OK─── https://governor.delaware.gov/tag/executive/?p=6252
 ├───OK─── https://governor.delaware.gov/tag/executive/?p=5535
 ├───OK─── https://governor.delaware.gov/tag/executive/?p=5279
 ├───OK─── https://governor.delaware.gov/tag/executive/?p=5209
@@ -1407,13 +1372,13 @@ Getting links from: https://governor.delaware.gov/tag/executive/
 ├───OK─── https://governor.delaware.gov/tag/executive/?p=4322
 ├───OK─── https://governor.delaware.gov/tag/executive/?p=3889
 ├───OK─── https://governor.delaware.gov/tag/executive/?p=3805
-├───OK─── https://governor.delaware.gov/tag/executive/?p=3309
 ├───OK─── https://governor.delaware.gov/tag/executive/page/2/
 ├───OK─── https://governor.delaware.gov/tag/executive/page/3/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 186 links found. 173 excluded. 1 broken.
 
 Getting links from: https://governor.delaware.gov/tag/executive-orders/
+├───OK─── https://governor.delaware.gov/tag/executive-orders/?p=6252
 ├───OK─── https://governor.delaware.gov/tag/executive-orders/?p=5535
 ├───OK─── https://governor.delaware.gov/tag/executive-orders/?p=5279
 ├───OK─── https://governor.delaware.gov/tag/executive-orders/?p=4695
@@ -1423,10 +1388,10 @@ Getting links from: https://governor.delaware.gov/tag/executive-orders/
 ├───OK─── https://governor.delaware.gov/tag/executive-orders/?p=3889
 ├───OK─── https://governor.delaware.gov/tag/executive-orders/?p=3805
 ├───OK─── https://governor.delaware.gov/tag/executive-orders/?p=3309
-├───OK─── https://governor.delaware.gov/tag/executive-orders/?p=3284
 ├───OK─── https://governor.delaware.gov/tag/executive-orders/page/2/
+├───OK─── https://governor.delaware.gov/tag/executive-orders/page/3/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 185 links found. 173 excluded. 1 broken.
+Finished! 186 links found. 173 excluded. 1 broken.
 
 Getting links from: https://governor.delaware.gov/tag/orders/
 ├───OK─── https://governor.delaware.gov/tag/orders/?p=4695
@@ -1521,6 +1486,9 @@ Error: Expected type "text/html" but got "application/pdf"
 Getting links from: https://governor.delaware.gov/wp-content/uploads/sites/24/2018/05/Legislative-Advisory-25.pdf
 Error: Expected type "text/html" but got "application/pdf"
 
+Getting links from: https://governor.delaware.gov/wp-content/uploads/sites/24/2018/05/Legislative-Advisory-26-1.pdf
+Error: Expected type "text/html" but got "application/pdf"
+
 Getting links from: https://governor.delaware.gov/tag/advisory/
 ├───OK─── https://governor.delaware.gov/tag/advisory/?p=2024
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
@@ -1579,12 +1547,13 @@ Getting links from: https://governor.delaware.gov/tag/economy/
 Finished! 165 links found. 163 excluded. 1 broken.
 
 Getting links from: https://governor.delaware.gov/tag/education/
+├───OK─── https://governor.delaware.gov/tag/education/?p=6252
 ├───OK─── https://governor.delaware.gov/tag/education/?p=4951
 ├───OK─── https://governor.delaware.gov/tag/education/?p=4096
 ├───OK─── https://governor.delaware.gov/tag/education/?p=2802
 ├───OK─── https://governor.delaware.gov/tag/education/?p=163
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 171 links found. 166 excluded. 1 broken.
+Finished! 173 links found. 167 excluded. 1 broken.
 
 Getting links from: https://governor.delaware.gov/tag/government/
 ├───OK─── https://governor.delaware.gov/tag/government/?p=4951
@@ -1592,11 +1561,12 @@ Getting links from: https://governor.delaware.gov/tag/government/
 Finished! 165 links found. 163 excluded. 1 broken.
 
 Getting links from: https://governor.delaware.gov/tag/health/
+├───OK─── https://governor.delaware.gov/tag/health/?p=6252
 ├───OK─── https://governor.delaware.gov/tag/health/?p=5535
 ├───OK─── https://governor.delaware.gov/tag/health/?p=4951
 ├───OK─── https://governor.delaware.gov/tag/health/?p=149
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 169 links found. 165 excluded. 1 broken.
+Finished! 171 links found. 166 excluded. 1 broken.
 
 Getting links from: https://governor.delaware.gov/tag/healthcare/
 ├───OK─── https://governor.delaware.gov/tag/healthcare/?p=4951
@@ -1718,6 +1688,18 @@ Getting links from: https://governor.delaware.gov/tag/press-releases/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 165 links found. 163 excluded. 1 broken.
 
+Getting links from: https://governor.delaware.gov/2018/05/25/governor-carneys-week-may-25-june-1-2018/
+├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
+Finished! 165 links found. 164 excluded. 1 broken.
+
+Getting links from: https://governor.delaware.gov/2018/05/21/governor-carneys-week-may-19-25-2018/
+├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
+Finished! 165 links found. 164 excluded. 1 broken.
+
+Getting links from: https://governor.delaware.gov/2018/05/14/governor-carneys-week-may-12-18-2018/
+├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
+Finished! 165 links found. 164 excluded. 1 broken.
+
 Getting links from: https://governor.delaware.gov/2018/05/07/governor-carneys-week-may-5-11-2018/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 165 links found. 164 excluded. 1 broken.
@@ -1726,59 +1708,43 @@ Getting links from: https://governor.delaware.gov/2018/04/30/governor-carneys-we
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 165 links found. 164 excluded. 1 broken.
 
-Getting links from: https://governor.delaware.gov/2018/04/23/governor-carneys-week-april-21-27-2018/
-├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 165 links found. 164 excluded. 1 broken.
-
-Getting links from: https://governor.delaware.gov/2018/04/16/governor-carneys-week-april-14-20-2018/
-├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 165 links found. 164 excluded. 1 broken.
-
-Getting links from: https://governor.delaware.gov/2018/04/09/governor-carneys-week-april-7-13-2018/
-├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 165 links found. 164 excluded. 1 broken.
-
 Getting links from: https://governor.delaware.gov/the-governors-public-schedule/page/2/
+├───OK─── https://governor.delaware.gov/2018/04/23/governor-carneys-week-april-21-27-2018/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/2/?p=5982
+├───OK─── https://governor.delaware.gov/2018/04/16/governor-carneys-week-april-14-20-2018/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/2/?p=5956
+├───OK─── https://governor.delaware.gov/2018/04/09/governor-carneys-week-april-7-13-2018/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/2/?p=5923
 ├───OK─── https://governor.delaware.gov/2018/04/02/governor-carneys-week-march-31-april-6-2018/
 ├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/2/?p=5822
 ├───OK─── https://governor.delaware.gov/2018/03/26/governor-carneys-week-march-24-30-2018/
 ├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/2/?p=5791
-├───OK─── https://governor.delaware.gov/2018/03/19/governor-carneys-week-march-17-23-2018/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/2/?p=5724
-├───OK─── https://governor.delaware.gov/2018/03/12/governor-carneys-week-march-10-16-2018/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/2/?p=5692
-├───OK─── https://governor.delaware.gov/2018/03/05/governor-carneys-week-march-3-9-2018/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/2/?p=5650
 ├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/4/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 181 links found. 169 excluded. 1 broken.
 
 Getting links from: https://governor.delaware.gov/the-governors-public-schedule/page/3/
+├───OK─── https://governor.delaware.gov/2018/03/19/governor-carneys-week-march-17-23-2018/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/3/?p=5724
+├───OK─── https://governor.delaware.gov/2018/03/12/governor-carneys-week-march-10-16-2018/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/3/?p=5692
+├───OK─── https://governor.delaware.gov/2018/03/05/governor-carneys-week-march-3-9-2018/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/3/?p=5650
 ├───OK─── https://governor.delaware.gov/2018/02/26/governor-carneys-week-february-24-march-2-2018/
 ├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/3/?p=5620
 ├───OK─── https://governor.delaware.gov/2018/02/19/governor-carneys-week-february-17-23-2018/
 ├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/3/?p=5365
-├───OK─── https://governor.delaware.gov/2018/02/12/governor-carneys-week-february-10-16-2018/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/3/?p=5270
-├───OK─── https://governor.delaware.gov/2018/02/05/governor-carneys-week-february-3-9-2018/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/3/?p=5185
-├───OK─── https://governor.delaware.gov/2018/01/29/governor-carneys-week-january-27-february-2-2018/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/3/?p=5114
 ├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/5/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 182 links found. 170 excluded. 1 broken.
 
-Getting links from: https://governor.delaware.gov/the-governors-public-schedule/page/13/
-├───OK─── https://governor.delaware.gov/2017/01/29/governor-carneys-week-january-29-february-4-2017/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/13/?p=3333
-├───OK─── https://governor.delaware.gov/2017/01/22/governor-carneys-week-january-22-28-2017-2/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/13/?p=3327
+Getting links from: https://governor.delaware.gov/the-governors-public-schedule/page/14/
 ├───OK─── https://governor.delaware.gov/2017/01/15/governor-carneys-week-january-15-21-2017-2/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/13/?p=3321
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/14/?p=3321
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/13/
 ├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/12/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/11/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 175 links found. 166 excluded. 1 broken.
+Finished! 171 links found. 166 excluded. 1 broken.
 
 Getting links from: https://governor.delaware.gov/tag/foia/
 ├───OK─── https://governor.delaware.gov/tag/foia/?p=109
@@ -1788,7 +1754,7 @@ Finished! 165 links found. 163 excluded. 1 broken.
 Getting links from: https://governor.delaware.gov/request-proclamation-tribute/
 ├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=https://governor.delaware.gov/request-proclamation-tribute/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 168 links found. 166 excluded. 1 broken.
+Finished! 169 links found. 167 excluded. 1 broken.
 
 Getting links from: https://governor.delaware.gov/tag/connect/
 ├───OK─── https://governor.delaware.gov/tag/connect/?p=818
@@ -1851,14 +1817,10 @@ Getting links from: https://governor.delaware.gov/tag/request/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 167 links found. 164 excluded. 1 broken.
 
-Getting links from: https://governor.delaware.gov/boards-commissions/department-safety-homeland-security/
-├─BROKEN─ http://dsp.delaware.gov/privateinvestigative&privatesecurityagencies.shtml (HTTP_404)
-├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 207 links found. 205 excluded. 2 broken.
-
 Getting links from: https://governor.delaware.gov/tag/governor-john-carney/page/2/
 ├───OK─── https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=https://governor.delaware.gov/budgetreset/
 ├───OK─── https://governor.delaware.gov/tag/governor-john-carney/page/2/?p=1345
+├───OK─── https://governor.delaware.gov/2017/01/22/governor-carneys-week-january-22-28-2017-2/
 ├───OK─── https://governor.delaware.gov/tag/governor-john-carney/page/2/?p=3327
 ├───OK─── https://governor.delaware.gov/tag/governor-john-carney/page/2/?p=3321
 ├───OK─── https://governor.delaware.gov/tag/governor-john-carney/page/2/?p=830
@@ -1869,7 +1831,7 @@ Getting links from: https://governor.delaware.gov/tag/governor-john-carney/page/
 ├───OK─── https://governor.delaware.gov/tag/governor-john-carney/page/2/?p=161
 ├───OK─── https://governor.delaware.gov/tag/governor-john-carney/page/2/?p=159
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 189 links found. 177 excluded. 1 broken.
+Finished! 189 links found. 176 excluded. 1 broken.
 
 Getting links from: https://governor.delaware.gov/tag/governor-john-carney/page/3/
 ├───OK─── https://governor.delaware.gov/tag/governor-john-carney/page/3/?p=157
@@ -2023,6 +1985,12 @@ Getting links from: https://governor.delaware.gov/tag/homeland/
 ├───OK─── https://governor.delaware.gov/tag/homeland/?p=143
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 165 links found. 163 excluded. 1 broken.
+
+Getting links from: https://governor.delaware.gov/tag/safety/
+├───OK─── https://governor.delaware.gov/tag/safety/?p=5373
+├───OK─── https://governor.delaware.gov/tag/safety/?p=143
+├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
+Finished! 167 links found. 164 excluded. 1 broken.
 
 Getting links from: https://governor.delaware.gov/tag/security/
 ├───OK─── https://governor.delaware.gov/tag/security/?p=143
@@ -2544,14 +2512,23 @@ Error: Expected type "text/html" but got "application/pdf"
 Getting links from: https://governor.delaware.gov/wp-content/uploads/sites/24/2016/12/EO001.pdf
 Error: Expected type "text/html" but got "application/pdf"
 
-Getting links from: https://governor.delaware.gov/wp-content/uploads/sites/24/2018/02/Executive-Order-Number-19.pdf
+Getting links from: https://governor.delaware.gov/wp-content/uploads/sites/24/2018/05/Executive-Order-Number-20.pdf
 Error: Expected type "text/html" but got "application/pdf"
 
+Getting links from: https://governor.delaware.gov/tag/english-learners/
+├───OK─── https://governor.delaware.gov/tag/english-learners/?p=6252
+├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
+Finished! 165 links found. 163 excluded. 1 broken.
+
 Getting links from: https://governor.delaware.gov/tag/executive-order/
+├───OK─── https://governor.delaware.gov/tag/executive-order/?p=6252
 ├───OK─── https://governor.delaware.gov/tag/executive-order/?p=5535
 ├───OK─── https://governor.delaware.gov/tag/executive-order/?p=5209
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 167 links found. 164 excluded. 1 broken.
+Finished! 169 links found. 165 excluded. 1 broken.
+
+Getting links from: https://governor.delaware.gov/wp-content/uploads/sites/24/2018/02/Executive-Order-Number-19.pdf
+Error: Expected type "text/html" but got "application/pdf"
 
 Getting links from: https://governor.delaware.gov/tag/health-care-spending-benchmark/
 ├───OK─── https://governor.delaware.gov/tag/health-care-spending-benchmark/?p=5535
@@ -2731,6 +2708,7 @@ Getting links from: https://governor.delaware.gov/wp-content/uploads/sites/24/20
 Error: Expected type "text/html" but got "application/pdf"
 
 Getting links from: https://governor.delaware.gov/tag/executive/page/2/
+├───OK─── https://governor.delaware.gov/tag/executive/page/2/?p=3309
 ├───OK─── https://governor.delaware.gov/tag/executive/page/2/?p=3284
 ├───OK─── https://governor.delaware.gov/tag/executive/page/2/?p=2955
 ├───OK─── https://governor.delaware.gov/tag/executive/page/2/?p=2618
@@ -2740,16 +2718,17 @@ Getting links from: https://governor.delaware.gov/tag/executive/page/2/
 ├───OK─── https://governor.delaware.gov/tag/executive/page/2/?p=2351
 ├───OK─── https://governor.delaware.gov/tag/executive/page/2/?p=2285
 ├───OK─── https://governor.delaware.gov/tag/executive/page/2/?p=1063
-├───OK─── https://governor.delaware.gov/tag/executive/page/2/?p=257
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 187 links found. 176 excluded. 1 broken.
 
 Getting links from: https://governor.delaware.gov/tag/executive/page/3/
+├───OK─── https://governor.delaware.gov/tag/executive/page/3/?p=257
 ├───OK─── https://governor.delaware.gov/tag/executive/page/3/?p=15
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 168 links found. 166 excluded. 1 broken.
+Finished! 170 links found. 167 excluded. 1 broken.
 
 Getting links from: https://governor.delaware.gov/tag/executive-orders/page/2/
+├───OK─── https://governor.delaware.gov/tag/executive-orders/page/2/?p=3284
 ├───OK─── https://governor.delaware.gov/tag/executive-orders/page/2/?p=2955
 ├───OK─── https://governor.delaware.gov/tag/executive-orders/page/2/?p=2618
 ├───OK─── https://governor.delaware.gov/tag/executive-orders/page/2/?p=2420
@@ -2759,9 +2738,13 @@ Getting links from: https://governor.delaware.gov/tag/executive-orders/page/2/
 ├───OK─── https://governor.delaware.gov/tag/executive-orders/page/2/?p=2285
 ├───OK─── https://governor.delaware.gov/tag/executive-orders/page/2/?p=1063
 ├───OK─── https://governor.delaware.gov/tag/executive-orders/page/2/?p=257
-├───OK─── https://governor.delaware.gov/tag/executive-orders/page/2/?p=15
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 185 links found. 174 excluded. 1 broken.
+Finished! 187 links found. 176 excluded. 1 broken.
+
+Getting links from: https://governor.delaware.gov/tag/executive-orders/page/3/
+├───OK─── https://governor.delaware.gov/tag/executive-orders/page/3/?p=15
+├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
+Finished! 168 links found. 166 excluded. 1 broken.
 
 Getting links from: https://governor.delaware.gov/tag/orders/page/2/
 ├───OK─── https://governor.delaware.gov/tag/orders/page/2/?p=2351
@@ -2772,6 +2755,18 @@ Getting links from: https://governor.delaware.gov/tag/orders/page/2/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 175 links found. 169 excluded. 1 broken.
 
+Getting links from: https://governor.delaware.gov/2018/04/23/governor-carneys-week-april-21-27-2018/
+├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
+Finished! 165 links found. 164 excluded. 1 broken.
+
+Getting links from: https://governor.delaware.gov/2018/04/16/governor-carneys-week-april-14-20-2018/
+├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
+Finished! 165 links found. 164 excluded. 1 broken.
+
+Getting links from: https://governor.delaware.gov/2018/04/09/governor-carneys-week-april-7-13-2018/
+├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
+Finished! 165 links found. 164 excluded. 1 broken.
+
 Getting links from: https://governor.delaware.gov/2018/04/02/governor-carneys-week-march-31-april-6-2018/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 165 links found. 164 excluded. 1 broken.
@@ -2779,6 +2774,21 @@ Finished! 165 links found. 164 excluded. 1 broken.
 Getting links from: https://governor.delaware.gov/2018/03/26/governor-carneys-week-march-24-30-2018/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 165 links found. 164 excluded. 1 broken.
+
+Getting links from: https://governor.delaware.gov/the-governors-public-schedule/page/4/
+├───OK─── https://governor.delaware.gov/2018/02/12/governor-carneys-week-february-10-16-2018/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/4/?p=5270
+├───OK─── https://governor.delaware.gov/2018/02/05/governor-carneys-week-february-3-9-2018/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/4/?p=5185
+├───OK─── https://governor.delaware.gov/2018/01/29/governor-carneys-week-january-27-february-2-2018/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/4/?p=5114
+├───OK─── https://governor.delaware.gov/2018/01/22/governor-carneys-week-january-20-26-2018/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/4/?p=5056
+├───OK─── https://governor.delaware.gov/2018/01/16/governor-carneys-week-january-13-19-2018/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/4/?p=4994
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/6/
+├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
+Finished! 183 links found. 171 excluded. 1 broken.
 
 Getting links from: https://governor.delaware.gov/2018/03/19/governor-carneys-week-march-17-23-2018/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
@@ -2792,21 +2802,6 @@ Getting links from: https://governor.delaware.gov/2018/03/05/governor-carneys-we
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 165 links found. 164 excluded. 1 broken.
 
-Getting links from: https://governor.delaware.gov/the-governors-public-schedule/page/4/
-├───OK─── https://governor.delaware.gov/2018/01/22/governor-carneys-week-january-20-26-2018/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/4/?p=5056
-├───OK─── https://governor.delaware.gov/2018/01/16/governor-carneys-week-january-13-19-2018/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/4/?p=4994
-├───OK─── https://governor.delaware.gov/2018/01/08/governor-carneys-week-january-6-12-2018/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/4/?p=4910
-├───OK─── https://governor.delaware.gov/2017/12/18/governor-carneys-week-december-16-22-2017/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/4/?p=4830
-├───OK─── https://governor.delaware.gov/2017/12/11/governor-carneys-week-december-9-15-2017/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/4/?p=4810
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/6/
-├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 183 links found. 171 excluded. 1 broken.
-
 Getting links from: https://governor.delaware.gov/2018/02/26/governor-carneys-week-february-24-march-2-2018/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 165 links found. 164 excluded. 1 broken.
@@ -2815,76 +2810,59 @@ Getting links from: https://governor.delaware.gov/2018/02/19/governor-carneys-we
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 165 links found. 164 excluded. 1 broken.
 
-Getting links from: https://governor.delaware.gov/2018/02/12/governor-carneys-week-february-10-16-2018/
-├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 165 links found. 164 excluded. 1 broken.
-
-Getting links from: https://governor.delaware.gov/2018/02/05/governor-carneys-week-february-3-9-2018/
-├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 165 links found. 164 excluded. 1 broken.
-
-Getting links from: https://governor.delaware.gov/2018/01/29/governor-carneys-week-january-27-february-2-2018/
-├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 165 links found. 164 excluded. 1 broken.
-
 Getting links from: https://governor.delaware.gov/the-governors-public-schedule/page/5/
+├───OK─── https://governor.delaware.gov/2018/01/08/governor-carneys-week-january-6-12-2018/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/5/?p=4910
+├───OK─── https://governor.delaware.gov/2017/12/18/governor-carneys-week-december-16-22-2017/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/5/?p=4830
+├───OK─── https://governor.delaware.gov/2017/12/11/governor-carneys-week-december-9-15-2017/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/5/?p=4810
 ├───OK─── https://governor.delaware.gov/2017/12/04/governor-carneys-week-december-2-8-2017/
 ├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/5/?p=4797
 ├───OK─── https://governor.delaware.gov/2017/11/22/governor-carneys-week-november-25-december-1-2017/
 ├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/5/?p=4785
-├───OK─── https://governor.delaware.gov/2017/11/20/governor-carneys-week-november-18-24-2017/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/5/?p=4780
-├───OK─── https://governor.delaware.gov/2017/11/13/governor-carneys-week-november-11-17-2017/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/5/?p=4747
-├───OK─── https://governor.delaware.gov/2017/11/04/governor-carneys-week-november-4-10-2017/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/5/?p=4753
 ├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/7/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 183 links found. 171 excluded. 1 broken.
 
-Getting links from: https://governor.delaware.gov/2017/01/29/governor-carneys-week-january-29-february-4-2017/
-├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 165 links found. 164 excluded. 1 broken.
-
-Getting links from: https://governor.delaware.gov/2017/01/22/governor-carneys-week-january-22-28-2017-2/
+Getting links from: https://governor.delaware.gov/2017/01/15/governor-carneys-week-january-15-21-2017-2/
 ├───OK─── https://governor.delaware.gov/tag/governors-weekly-schedule/
 ├───OK─── https://governor.delaware.gov/tag/weekly-schedule/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 170 links found. 167 excluded. 1 broken.
+Finished! 168 links found. 165 excluded. 1 broken.
 
-Getting links from: https://governor.delaware.gov/2017/01/15/governor-carneys-week-january-15-21-2017-2/
+Getting links from: https://governor.delaware.gov/the-governors-public-schedule/page/13/
+├───OK─── https://governor.delaware.gov/2017/02/25/governor-carneys-week-february-25-march-3-2017/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/13/?p=3348
+├───OK─── https://governor.delaware.gov/2017/02/18/governor-carneys-week-february-18-24-2017-2/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/13/?p=3342
+├───OK─── https://governor.delaware.gov/2017/02/11/governor-carneys-week-february-11-17-2017-2/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/13/?p=3338
+├───OK─── https://governor.delaware.gov/2017/01/29/governor-carneys-week-january-29-february-4-2017/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/13/?p=3333
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/13/?p=3327
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/11/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 168 links found. 167 excluded. 1 broken.
+Finished! 181 links found. 170 excluded. 1 broken.
 
 Getting links from: https://governor.delaware.gov/the-governors-public-schedule/page/12/
+├───OK─── https://governor.delaware.gov/2017/04/08/governor-carneys-week-april-8-14-2017/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/12/?p=3377
+├───OK─── https://governor.delaware.gov/2017/04/01/governor-carneys-week-april-1-7-2017/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/12/?p=3371
+├───OK─── https://governor.delaware.gov/2017/03/25/governor-carneys-week-march-25-31-2017/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/12/?p=3365
 ├───OK─── https://governor.delaware.gov/2017/03/18/governor-carneys-week-march-18-24-2017/
 ├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/12/?p=3360
 ├───OK─── https://governor.delaware.gov/2017/03/13/governor-carneys-week-march-13-17-2017/
 ├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/12/?p=3354
-├───OK─── https://governor.delaware.gov/2017/02/25/governor-carneys-week-february-25-march-3-2017/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/12/?p=3348
-├───OK─── https://governor.delaware.gov/2017/02/18/governor-carneys-week-february-18-24-2017-2/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/12/?p=3342
-├───OK─── https://governor.delaware.gov/2017/02/11/governor-carneys-week-february-11-17-2017-2/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/12/?p=3338
 ├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/10/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 181 links found. 169 excluded. 1 broken.
-
-Getting links from: https://governor.delaware.gov/the-governors-public-schedule/page/11/
-├───OK─── https://governor.delaware.gov/2017/04/22/governor-carneys-week-april-22-27-2017/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/11/?p=3384
-├───OK─── https://governor.delaware.gov/2017/04/17/governor-carneys-week-april-17-21-2017/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/11/?p=3381
-├───OK─── https://governor.delaware.gov/2017/04/08/governor-carneys-week-april-8-14-2017/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/11/?p=3377
-├───OK─── https://governor.delaware.gov/2017/04/01/governor-carneys-week-april-1-7-2017/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/11/?p=3371
-├───OK─── https://governor.delaware.gov/2017/03/25/governor-carneys-week-march-25-31-2017/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/11/?p=3365
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/9/
-├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 183 links found. 171 excluded. 1 broken.
+
+Getting links from: https://governor.delaware.gov/2017/01/22/governor-carneys-week-january-22-28-2017-2/
+├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
+Finished! 170 links found. 169 excluded. 1 broken.
 
 Getting links from: https://governor.delaware.gov/senate-nominees-documents/
 ├───OK─── https://governor.delaware.gov/wp-content/uploads/sites/24/2018/01/questionnaire_for_senate_confirmations_01112018.pdf
@@ -2956,6 +2934,18 @@ Getting links from: https://governor.delaware.gov/tag/state-budget/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 165 links found. 163 excluded. 1 broken.
 
+Getting links from: https://governor.delaware.gov/2018/02/12/governor-carneys-week-february-10-16-2018/
+├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
+Finished! 165 links found. 164 excluded. 1 broken.
+
+Getting links from: https://governor.delaware.gov/2018/02/05/governor-carneys-week-february-3-9-2018/
+├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
+Finished! 165 links found. 164 excluded. 1 broken.
+
+Getting links from: https://governor.delaware.gov/2018/01/29/governor-carneys-week-january-27-february-2-2018/
+├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
+Finished! 165 links found. 164 excluded. 1 broken.
+
 Getting links from: https://governor.delaware.gov/2018/01/22/governor-carneys-week-january-20-26-2018/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 165 links found. 164 excluded. 1 broken.
@@ -2963,6 +2953,21 @@ Finished! 165 links found. 164 excluded. 1 broken.
 Getting links from: https://governor.delaware.gov/2018/01/16/governor-carneys-week-january-13-19-2018/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 165 links found. 164 excluded. 1 broken.
+
+Getting links from: https://governor.delaware.gov/the-governors-public-schedule/page/6/
+├───OK─── https://governor.delaware.gov/2017/11/20/governor-carneys-week-november-18-24-2017/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/6/?p=4780
+├───OK─── https://governor.delaware.gov/2017/11/13/governor-carneys-week-november-11-17-2017/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/6/?p=4747
+├───OK─── https://governor.delaware.gov/2017/11/04/governor-carneys-week-november-4-10-2017/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/6/?p=4753
+├───OK─── https://governor.delaware.gov/2017/10/27/governor-carneys-week-october-28-november-3-2017/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/6/?p=4711
+├───OK─── https://governor.delaware.gov/2017/10/23/governor-carneys-week-october-21-27-2017/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/6/?p=4654
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/8/
+├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
+Finished! 183 links found. 171 excluded. 1 broken.
 
 Getting links from: https://governor.delaware.gov/2018/01/08/governor-carneys-week-january-6-12-2018/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
@@ -2976,21 +2981,6 @@ Getting links from: https://governor.delaware.gov/2017/12/11/governor-carneys-we
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 165 links found. 164 excluded. 1 broken.
 
-Getting links from: https://governor.delaware.gov/the-governors-public-schedule/page/6/
-├───OK─── https://governor.delaware.gov/2017/10/27/governor-carneys-week-october-28-november-3-2017/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/6/?p=4711
-├───OK─── https://governor.delaware.gov/2017/10/23/governor-carneys-week-october-21-27-2017/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/6/?p=4654
-├───OK─── https://governor.delaware.gov/2017/10/16/governor-carneys-week-october-14-20-2017/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/6/?p=4553
-├───OK─── https://governor.delaware.gov/2017/10/09/governor-carneys-week-october-7-13-2017/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/6/?p=4528
-├───OK─── https://governor.delaware.gov/2017/10/02/governor-carneys-week-september-30-october-6-2017/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/6/?p=4511
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/8/
-├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 183 links found. 171 excluded. 1 broken.
-
 Getting links from: https://governor.delaware.gov/2017/12/04/governor-carneys-week-december-2-8-2017/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 165 links found. 164 excluded. 1 broken.
@@ -2999,31 +2989,20 @@ Getting links from: https://governor.delaware.gov/2017/11/22/governor-carneys-we
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 165 links found. 164 excluded. 1 broken.
 
-Getting links from: https://governor.delaware.gov/2017/11/20/governor-carneys-week-november-18-24-2017/
-├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 165 links found. 164 excluded. 1 broken.
-
-Getting links from: https://governor.delaware.gov/2017/11/13/governor-carneys-week-november-11-17-2017/
-├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 165 links found. 164 excluded. 1 broken.
-
-Getting links from: https://governor.delaware.gov/2017/11/04/governor-carneys-week-november-4-10-2017/
-├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 165 links found. 164 excluded. 1 broken.
-
 Getting links from: https://governor.delaware.gov/the-governors-public-schedule/page/7/
+├───OK─── https://governor.delaware.gov/2017/10/16/governor-carneys-week-october-14-20-2017/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/7/?p=4553
+├───OK─── https://governor.delaware.gov/2017/10/09/governor-carneys-week-october-7-13-2017/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/7/?p=4528
+├───OK─── https://governor.delaware.gov/2017/10/02/governor-carneys-week-september-30-october-6-2017/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/7/?p=4511
 ├───OK─── https://governor.delaware.gov/2017/09/25/governor-carneys-week-september-23-29-2017/
 ├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/7/?p=4493
 ├───OK─── https://governor.delaware.gov/2017/09/18/governor-carneys-week-september-16-22-2017/
 ├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/7/?p=4478
-├───OK─── https://governor.delaware.gov/2017/09/11/governor-carneys-week-september-9-15-2017/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/7/?p=4427
-├───OK─── https://governor.delaware.gov/2017/09/05/governor-carneys-week-september-2-8-2017/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/7/?p=4362
-├───OK─── https://governor.delaware.gov/2017/08/28/governor-carneys-week-august-26-september-1-2017/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/7/?p=4308
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/9/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 183 links found. 172 excluded. 1 broken.
+Finished! 183 links found. 171 excluded. 1 broken.
 
 Getting links from: https://governor.delaware.gov/tag/governors-weekly-schedule/
 ├───OK─── https://governor.delaware.gov/tag/governors-weekly-schedule/?p=3317
@@ -3039,14 +3018,6 @@ Getting links from: https://governor.delaware.gov/tag/weekly-schedule/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 167 links found. 163 excluded. 1 broken.
 
-Getting links from: https://governor.delaware.gov/2017/03/18/governor-carneys-week-march-18-24-2017/
-├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 165 links found. 164 excluded. 1 broken.
-
-Getting links from: https://governor.delaware.gov/2017/03/13/governor-carneys-week-march-13-17-2017/
-├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 165 links found. 164 excluded. 1 broken.
-
 Getting links from: https://governor.delaware.gov/2017/02/25/governor-carneys-week-february-25-march-3-2017/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 165 links found. 164 excluded. 1 broken.
@@ -3059,27 +3030,23 @@ Getting links from: https://governor.delaware.gov/2017/02/11/governor-carneys-we
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 165 links found. 164 excluded. 1 broken.
 
-Getting links from: https://governor.delaware.gov/the-governors-public-schedule/page/10/
-├───OK─── https://governor.delaware.gov/2017/06/05/governor-carneys-week-june-3-9-2017/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/10/?p=3547
-├───OK─── https://governor.delaware.gov/2017/05/26/governor-carneys-week-may-27-june-2-2017/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/10/?p=3519
-├───OK─── https://governor.delaware.gov/2017/05/19/governor-carneys-week-may-20-26-2017/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/10/?p=3475
-├───OK─── https://governor.delaware.gov/2017/05/15/governor-carneys-week-may-13-19-2017/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/10/?p=3453
-├───OK─── https://governor.delaware.gov/2017/05/06/governor-carneys-week-may-6-12-2017/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/10/?p=3389
-├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 183 links found. 172 excluded. 1 broken.
-
-Getting links from: https://governor.delaware.gov/2017/04/22/governor-carneys-week-april-22-27-2017/
-├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 164 links found. 163 excluded. 1 broken.
-
-Getting links from: https://governor.delaware.gov/2017/04/17/governor-carneys-week-april-17-21-2017/
+Getting links from: https://governor.delaware.gov/2017/01/29/governor-carneys-week-january-29-february-4-2017/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 165 links found. 164 excluded. 1 broken.
+
+Getting links from: https://governor.delaware.gov/the-governors-public-schedule/page/11/
+├───OK─── https://governor.delaware.gov/2017/05/19/governor-carneys-week-may-20-26-2017/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/11/?p=3475
+├───OK─── https://governor.delaware.gov/2017/05/15/governor-carneys-week-may-13-19-2017/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/11/?p=3453
+├───OK─── https://governor.delaware.gov/2017/05/06/governor-carneys-week-may-6-12-2017/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/11/?p=3389
+├───OK─── https://governor.delaware.gov/2017/04/22/governor-carneys-week-april-22-27-2017/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/11/?p=3384
+├───OK─── https://governor.delaware.gov/2017/04/17/governor-carneys-week-april-17-21-2017/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/11/?p=3381
+├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
+Finished! 183 links found. 172 excluded. 1 broken.
 
 Getting links from: https://governor.delaware.gov/2017/04/08/governor-carneys-week-april-8-14-2017/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
@@ -3093,17 +3060,25 @@ Getting links from: https://governor.delaware.gov/2017/03/25/governor-carneys-we
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 165 links found. 164 excluded. 1 broken.
 
-Getting links from: https://governor.delaware.gov/the-governors-public-schedule/page/9/
-├───OK─── https://governor.delaware.gov/2017/07/11/governor-carneys-week-july-8-14-2017/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/9/?p=3786
-├───OK─── https://governor.delaware.gov/2017/07/01/governor-carneys-week-july-1-7-2017/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/9/?p=3793
+Getting links from: https://governor.delaware.gov/2017/03/18/governor-carneys-week-march-18-24-2017/
+├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
+Finished! 165 links found. 164 excluded. 1 broken.
+
+Getting links from: https://governor.delaware.gov/2017/03/13/governor-carneys-week-march-13-17-2017/
+├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
+Finished! 165 links found. 164 excluded. 1 broken.
+
+Getting links from: https://governor.delaware.gov/the-governors-public-schedule/page/10/
 ├───OK─── https://governor.delaware.gov/2017/06/26/governor-carneys-week-june-24-30-2017/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/9/?p=3727
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/10/?p=3727
 ├───OK─── https://governor.delaware.gov/2017/06/19/governor-carneys-week-june-17-23-2017/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/9/?p=3654
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/10/?p=3654
 ├───OK─── https://governor.delaware.gov/2017/06/09/governor-carneys-week-june-10-16-2017/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/9/?p=3597
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/10/?p=3597
+├───OK─── https://governor.delaware.gov/2017/06/05/governor-carneys-week-june-3-9-2017/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/10/?p=3547
+├───OK─── https://governor.delaware.gov/2017/05/26/governor-carneys-week-may-27-june-2-2017/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/10/?p=3519
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 183 links found. 172 excluded. 1 broken.
 
@@ -3138,6 +3113,18 @@ Getting links from: https://governor.delaware.gov/tag/senate/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 165 links found. 163 excluded. 1 broken.
 
+Getting links from: https://governor.delaware.gov/2017/11/20/governor-carneys-week-november-18-24-2017/
+├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
+Finished! 165 links found. 164 excluded. 1 broken.
+
+Getting links from: https://governor.delaware.gov/2017/11/13/governor-carneys-week-november-11-17-2017/
+├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
+Finished! 165 links found. 164 excluded. 1 broken.
+
+Getting links from: https://governor.delaware.gov/2017/11/04/governor-carneys-week-november-4-10-2017/
+├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
+Finished! 165 links found. 164 excluded. 1 broken.
+
 Getting links from: https://governor.delaware.gov/2017/10/27/governor-carneys-week-october-28-november-3-2017/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 165 links found. 164 excluded. 1 broken.
@@ -3145,6 +3132,20 @@ Finished! 165 links found. 164 excluded. 1 broken.
 Getting links from: https://governor.delaware.gov/2017/10/23/governor-carneys-week-october-21-27-2017/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 165 links found. 164 excluded. 1 broken.
+
+Getting links from: https://governor.delaware.gov/the-governors-public-schedule/page/8/
+├───OK─── https://governor.delaware.gov/2017/09/11/governor-carneys-week-september-9-15-2017/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/8/?p=4427
+├───OK─── https://governor.delaware.gov/2017/09/05/governor-carneys-week-september-2-8-2017/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/8/?p=4362
+├───OK─── https://governor.delaware.gov/2017/08/28/governor-carneys-week-august-26-september-1-2017/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/8/?p=4308
+├───OK─── https://governor.delaware.gov/2017/08/21/governor-carneys-week-august-19-25-2017/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/8/?p=4086
+├───OK─── https://governor.delaware.gov/2017/08/14/governor-carneys-week-august-12-18-2017/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/8/?p=4072
+├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
+Finished! 183 links found. 172 excluded. 1 broken.
 
 Getting links from: https://governor.delaware.gov/2017/10/16/governor-carneys-week-october-14-20-2017/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
@@ -3157,20 +3158,6 @@ Finished! 165 links found. 164 excluded. 1 broken.
 Getting links from: https://governor.delaware.gov/2017/10/02/governor-carneys-week-september-30-october-6-2017/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 165 links found. 164 excluded. 1 broken.
-
-Getting links from: https://governor.delaware.gov/the-governors-public-schedule/page/8/
-├───OK─── https://governor.delaware.gov/2017/08/21/governor-carneys-week-august-19-25-2017/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/8/?p=4086
-├───OK─── https://governor.delaware.gov/2017/08/14/governor-carneys-week-august-12-18-2017/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/8/?p=4072
-├───OK─── https://governor.delaware.gov/2017/07/31/governor-carneys-week-july-29-august-4-2017/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/8/?p=4021
-├───OK─── https://governor.delaware.gov/2017/07/21/governor-carneys-week-july-22-28-2017/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/8/?p=3948
-├───OK─── https://governor.delaware.gov/2017/07/17/governor-carneys-week-july-17-21-2017/
-├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/8/?p=3879
-├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 183 links found. 172 excluded. 1 broken.
 
 Getting links from: https://governor.delaware.gov/2017/09/25/governor-carneys-week-september-23-29-2017/
 ├───OK─── http://legis.delaware.gov/BillDetail?LegislationId=26112
@@ -3187,25 +3174,19 @@ Getting links from: https://governor.delaware.gov/2017/09/18/governor-carneys-we
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 165 links found. 164 excluded. 1 broken.
 
-Getting links from: https://governor.delaware.gov/2017/09/11/governor-carneys-week-september-9-15-2017/
+Getting links from: https://governor.delaware.gov/the-governors-public-schedule/page/9/
+├───OK─── https://governor.delaware.gov/2017/07/31/governor-carneys-week-july-29-august-4-2017/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/9/?p=4021
+├───OK─── https://governor.delaware.gov/2017/07/21/governor-carneys-week-july-22-28-2017/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/9/?p=3948
+├───OK─── https://governor.delaware.gov/2017/07/17/governor-carneys-week-july-17-21-2017/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/9/?p=3879
+├───OK─── https://governor.delaware.gov/2017/07/11/governor-carneys-week-july-8-14-2017/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/9/?p=3786
+├───OK─── https://governor.delaware.gov/2017/07/01/governor-carneys-week-july-1-7-2017/
+├───OK─── https://governor.delaware.gov/the-governors-public-schedule/page/9/?p=3793
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 165 links found. 164 excluded. 1 broken.
-
-Getting links from: https://governor.delaware.gov/2017/09/05/governor-carneys-week-september-2-8-2017/
-├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 165 links found. 164 excluded. 1 broken.
-
-Getting links from: https://governor.delaware.gov/2017/08/28/governor-carneys-week-august-26-september-1-2017/
-├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 165 links found. 164 excluded. 1 broken.
-
-Getting links from: https://governor.delaware.gov/2017/06/05/governor-carneys-week-june-3-9-2017/
-├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 165 links found. 164 excluded. 1 broken.
-
-Getting links from: https://governor.delaware.gov/2017/05/26/governor-carneys-week-may-27-june-2-2017/
-├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 165 links found. 164 excluded. 1 broken.
+Finished! 183 links found. 172 excluded. 1 broken.
 
 Getting links from: https://governor.delaware.gov/2017/05/19/governor-carneys-week-may-20-26-2017/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
@@ -3220,11 +3201,11 @@ Getting links from: https://governor.delaware.gov/2017/05/06/governor-carneys-we
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 166 links found. 164 excluded. 1 broken.
 
-Getting links from: https://governor.delaware.gov/2017/07/11/governor-carneys-week-july-8-14-2017/
+Getting links from: https://governor.delaware.gov/2017/04/22/governor-carneys-week-april-22-27-2017/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
-Finished! 165 links found. 164 excluded. 1 broken.
+Finished! 164 links found. 163 excluded. 1 broken.
 
-Getting links from: https://governor.delaware.gov/2017/07/01/governor-carneys-week-july-1-7-2017/
+Getting links from: https://governor.delaware.gov/2017/04/17/governor-carneys-week-april-17-21-2017/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 165 links found. 164 excluded. 1 broken.
 
@@ -3237,6 +3218,26 @@ Getting links from: https://governor.delaware.gov/2017/06/19/governor-carneys-we
 Finished! 165 links found. 164 excluded. 1 broken.
 
 Getting links from: https://governor.delaware.gov/2017/06/09/governor-carneys-week-june-10-16-2017/
+├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
+Finished! 165 links found. 164 excluded. 1 broken.
+
+Getting links from: https://governor.delaware.gov/2017/06/05/governor-carneys-week-june-3-9-2017/
+├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
+Finished! 165 links found. 164 excluded. 1 broken.
+
+Getting links from: https://governor.delaware.gov/2017/05/26/governor-carneys-week-may-27-june-2-2017/
+├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
+Finished! 165 links found. 164 excluded. 1 broken.
+
+Getting links from: https://governor.delaware.gov/2017/09/11/governor-carneys-week-september-9-15-2017/
+├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
+Finished! 165 links found. 164 excluded. 1 broken.
+
+Getting links from: https://governor.delaware.gov/2017/09/05/governor-carneys-week-september-2-8-2017/
+├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
+Finished! 165 links found. 164 excluded. 1 broken.
+
+Getting links from: https://governor.delaware.gov/2017/08/28/governor-carneys-week-august-26-september-1-2017/
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 165 links found. 164 excluded. 1 broken.
 
@@ -3261,5 +3262,13 @@ Getting links from: https://governor.delaware.gov/2017/07/17/governor-carneys-we
 ├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
 Finished! 165 links found. 164 excluded. 1 broken.
 
-Finished! 57574 links found. 55676 excluded. 409 broken.
-Elapsed time: 10 minutes, 38 seconds
+Getting links from: https://governor.delaware.gov/2017/07/11/governor-carneys-week-july-8-14-2017/
+├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
+Finished! 165 links found. 164 excluded. 1 broken.
+
+Getting links from: https://governor.delaware.gov/2017/07/01/governor-carneys-week-july-1-7-2017/
+├─BROKEN─ https://delawarepersonnel.com/information/employee_resources.shtml (HTTP_404)
+Finished! 165 links found. 164 excluded. 1 broken.
+
+Finished! 57562 links found. 55661 excluded. 407 broken.
+Elapsed time: 7 minutes, 27 seconds
